@@ -409,3 +409,23 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5961.ts
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6052.ts
 #EXTINF:-1, group-title="LIVE TV", ZEE TV
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6046.ts
+#EXTINF:-1, group-title="PINOY TV", SHOP TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+#EXTINF:-1, group-title="PINOY TV", LIFE TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
+#EXTINF:-1, group-title="PINOY TV", POP LIFE
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
+#EXTINF:-1, group-title="PINOY TV", PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+#EXTINF:-1, group-title="PINOY TV", INQUIRER TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
+#EXTINF:-1, group-title="PINOY TV", AKSYON TV
+http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w2068977924.m3u8
+#EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
+http://stream3.news5.ph:1935/n5e/tv5/chunklist_w1967735619.m3u8
+#EXTINF:-1, group-title="PINOY TV", DZMM TELERADYO
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/index_800_av-p.m3u8?sd=10&rebase=on&id=AgB5Ot7bykW4B74BJlxSzIvCL+FRU99ZHhRFvBfuWZy+Ra2QYZA0cHUreHyKxddoK0BBanKHbPEWOA%3d%3d&hdntl=exp=1546081086~acl=%2f*~data=hdntl~hmac=002f469671e7ac8554a18333848100e5e7ae80b73d3af22fd6230c21ca8ce32a
+#EXTINF:-1, group-title="PINOY TV", ANC NEWS CHANNEL
+https://iwantpradals2-lh.akamaihd.net/i/ocpanc_1@520818/index_800_av-p.m3u8?sd=10&rebase=on&id=AgB5Ot7bykW4B3QBJly01G8FVhEfEdtrYmSIyU72iuWfppIrnQR3d0sq4+zn8XQVmC4gPULTRrP4Ww%3d%3d&hdntl=exp=1546081012~acl=%2f*~data=hdntl~hmac=341b5ad2b46c32f4d48034c75a63d19a3d1a90e58ab1994b37f772972f757191
+#EXTINF:-1, group-title="PINOY TV", ABS CBN
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_800_av-p.m3u8?sd=10&rebase=on&id=AgB5Ot7bFzlCBTABJlzaKBICM%2fpLciV+vo39TZTjm6wtEuc40fgWwXvHBSDvH4bQbYvwgV03dswtIQ%3d%3d&hdntl=exp=1546080944~acl=%2f*~data=hdntl~hmac=8f3a209df70ce18365b21af826b5deb3cfd36462cc8d83a3889c52922788b83e
