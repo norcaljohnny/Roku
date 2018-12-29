@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Clippers@Lakers
 http://m10.nba4live.fun/hls/1.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Thunder@Suns
+http://m5.nba4live.fun/hls/8.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Spurs@Nuggets
+http://m1.nba4live.fun/hls/7a.m3u8
 #EXTINF:-1, group-title="USA/UK", ABC HD
 http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2463
 #EXTINF:-1, group-title="USA/UK", NBC (EAST)
