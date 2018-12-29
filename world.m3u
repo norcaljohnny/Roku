@@ -21,6 +21,570 @@ http://m1.nba4live.fun/hls/7.m3u8
 http://m1.nba4live.fun/hls/9.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Spurs@Clippers
 http://m1.nba4live.fun/hls/8.m3u8
+#EXTINF:-1, group-title="WORLD TV", A&E HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12235
+#EXTINF:-1, group-title="WORLD TV", ABC News
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12234
+#EXTINF:-1, group-title="WORLD TV", AFN Movie
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12233
+#EXTINF:-1, group-title="WORLD TV", ACC TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12232
+#EXTINF:-1, group-title="WORLD TV", ABC Spark
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12231
+#EXTINF:-1, group-title="WORLD TV", AMC HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12230
+#EXTINF:-1, group-title="WORLD TV", AMC*
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12229
+#EXTINF:-1, group-title="WORLD TV", Animal Planet HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12228
+#EXTINF:-1, group-title="WORLD TV", BRAVO
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12227
+#EXTINF:-1, group-title="WORLD TV", BRAVO HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12226
+#EXTINF:-1, group-title="WORLD TV", CBS HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12225
+#EXTINF:-1, group-title="WORLD TV", CINEMAX HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12224
+#EXTINF:-1, group-title="WORLD TV", Cinemax MoreMax HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12223
+#EXTINF:-1, group-title="WORLD TV", Cinemax Action HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12222
+#EXTINF:-1, group-title="WORLD TV", CNBC
+http://platinum-sports.my.to:2052/aiden/restream/6536
+#EXTINF:-1, group-title="WORLD TV", CNN
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12220
+#EXTINF:-1, group-title="WORLD TV", Comedy Central
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12219
+#EXTINF:-1, group-title="WORLD TV", CW Network
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12218
+#EXTINF:-1, group-title="WORLD TV", Discovery HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12217
+#EXTINF:-1, group-title="WORLD TV", Bein Sport
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12216
+#EXTINF:-1, group-title="WORLD TV", E!
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12215
+#EXTINF:-1, group-title="WORLD TV", ESPN
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12214
+#EXTINF:-1, group-title="WORLD TV", ESPN 1
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12213
+#EXTINF:-1, group-title="WORLD TV", ESPN 2
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12212
+#EXTINF:-1, group-title="WORLD TV", ESPN News
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12211
+#EXTINF:-1, group-title="WORLD TV", ESPN U
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12210
+#EXTINF:-1, group-title="WORLD TV", Fight Network
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12209
+#EXTINF:-1, group-title="WORLD TV", Food Network HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12208
+#EXTINF:-1, group-title="WORLD TV", Fox
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12207
+#EXTINF:-1, group-title="WORLD TV", Fox Business
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12206
+#EXTINF:-1, group-title="WORLD TV", FOX News
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12205
+#EXTINF:-1, group-title="WORLD TV", Fox News HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12204
+#EXTINF:-1, group-title="WORLD TV", Fox Sports 1 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12203
+#EXTINF:-1, group-title="WORLD TV", Fox Sports 2 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12202
+#EXTINF:-1, group-title="WORLD TV", FX HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12201
+#EXTINF:-1, group-title="WORLD TV", FXX
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12200
+#EXTINF:-1, group-title="WORLD TV", HallMark HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12199
+#EXTINF:-1, group-title="WORLD TV", HBO
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12198
+#EXTINF:-1, group-title="WORLD TV", HBO Comedy
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12197
+#EXTINF:-1, group-title="WORLD TV", HBO Family
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12196
+#EXTINF:-1, group-title="WORLD TV", HBO HD 1
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12195
+#EXTINF:-1, group-title="WORLD TV", MSNBC
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12194
+#EXTINF:-1, group-title="WORLD TV", HBO Signature
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12193
+#EXTINF:-1, group-title="WORLD TV", HBO Zone
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12192
+#EXTINF:-1, group-title="WORLD TV", HGTV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12191
+#EXTINF:-1, group-title="WORLD TV", HISTORY
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12190
+#EXTINF:-1, group-title="WORLD TV", Investigation Discovery HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12189
+#EXTINF:-1, group-title="WORLD TV", LIFETIME
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12188
+#EXTINF:-1, group-title="WORLD TV", TNT
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12172
+#EXTINF:-1, group-title="WORLD TV", National Geographic
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12171
+#EXTINF:-1, group-title="WORLD TV", NBC
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12161
+#EXTINF:-1, group-title="WORLD TV", NBC GOLF
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12160
+#EXTINF:-1, group-title="WORLD TV", NBC Sports Network HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12159
+#EXTINF:-1, group-title="WORLD TV", PAC 12 WASHINGTON HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12157
+#EXTINF:-1, group-title="WORLD TV", PBS HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12156
+#EXTINF:-1, group-title="WORLD TV", Showtime
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12155
+#EXTINF:-1, group-title="WORLD TV", ShowTime 2 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12154
+#EXTINF:-1, group-title="WORLD TV", SPIKE HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12153
+#EXTINF:-1, group-title="WORLD TV", Starz Cinema
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12152
+#EXTINF:-1, group-title="WORLD TV", Starz Comedy
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12151
+#EXTINF:-1, group-title="WORLD TV", Starz Edge
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12150
+#EXTINF:-1, group-title="WORLD TV", Starz Encore
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12149
+#EXTINF:-1, group-title="WORLD TV", Starz
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12148
+#EXTINF:-1, group-title="WORLD TV", SYFY HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12147
+#EXTINF:-1, group-title="WORLD TV", TBS
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12146
+#EXTINF:-1, group-title="WORLD TV", Tennis Channel HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12145
+#EXTINF:-1, group-title="WORLD TV", TLC HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12144
+#EXTINF:-1, group-title="WORLD TV", TNT HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12143
+#EXTINF:-1, group-title="WORLD TV", TRU TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12142
+#EXTINF:-1, group-title="WORLD TV", UNIVERSAL HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12141
+#EXTINF:-1, group-title="WORLD TV", USA NETWORK
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12140
+#EXTINF:-1, group-title="WORLD TV", Velocity
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12139
+#EXTINF:-1, group-title="WORLD TV", WWE Network HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12138
+#EXTINF:-1, group-title="WORLD TV", ESPN Deportes
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12574
+#EXTINF:-1, group-title="WORLD TV", Animal Planet
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12089
+#EXTINF:-1, group-title="WORLD TV", Crime and Investigation
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12088
+#EXTINF:-1, group-title="WORLD TV", Discovery Channel
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12087
+#EXTINF:-1, group-title="WORLD TV", Discovery History
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12086
+#EXTINF:-1, group-title="WORLD TV", Discovery Science
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12085
+#EXTINF:-1, group-title="WORLD TV", Nat Geo Wild
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12084
+#EXTINF:-1, group-title="WORLD TV", National Geographic
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12083
+#EXTINF:-1, group-title="WORLD TV", Discovery Home and Health
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12082
+#EXTINF:-1, group-title="WORLD TV", Discovery Turbo
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12081
+#EXTINF:-1, group-title="WORLD TV", Eden
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12080
+#EXTINF:-1, group-title="WORLD TV", H2
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12079
+#EXTINF:-1, group-title="WORLD TV", History Channel
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12078
+#EXTINF:-1, group-title="WORLD TV", ID
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12077
+#EXTINF:-1, group-title="WORLD TV", Yesterday
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12076
+#EXTINF:-1, group-title="WORLD TV", Discovery Shed
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12075
+#EXTINF:-1, group-title="WORLD TV", Quest
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12074
+#EXTINF:-1, group-title="WORLD TV", BBC News
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12091
+#EXTINF:-1, group-title="WORLD TV", Sky News
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12090
+#EXTINF:-1, group-title="WORLD TV", BoxNation
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12073
+#EXTINF:-1, group-title="WORLD TV", Boxnation BU
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12072
+#EXTINF:-1, group-title="WORLD TV", At The Races
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12071
+#EXTINF:-1, group-title="WORLD TV", British Eurosport 1
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12070
+#EXTINF:-1, group-title="WORLD TV", British Eurosport 1 [BACKUP]
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12069
+#EXTINF:-1, group-title="WORLD TV", British Eurosport 2
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12068
+#EXTINF:-1, group-title="WORLD TV", Chelsea TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12067
+#EXTINF:-1, group-title="WORLD TV", LFC TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12066
+#EXTINF:-1, group-title="WORLD TV", MUTV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12065
+#EXTINF:-1, group-title="WORLD TV", Racing UK
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12064
+#EXTINF:-1, group-title="WORLD TV", Premier Sports 1 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12063
+#EXTINF:-1, group-title="WORLD TV", Premier Sports 1 BU
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12062
+#EXTINF:-1, group-title="WORLD TV", William Hill TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12061
+#EXTINF:-1, group-title="WORLD TV", BetFred
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12060
+#EXTINF:-1, group-title="WORLD TV", Coral TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12059
+#EXTINF:-1, group-title="WORLD TV", FreeSports
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12058
+#EXTINF:-1, group-title="WORLD TV", Ladbrokes TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12057
+#EXTINF:-1, group-title="WORLD TV", Paddy Power
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12056
+#EXTINF:-1, group-title="WORLD TV", SIS Eurpope
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12055
+#EXTINF:-1, group-title="WORLD TV", Eir Sport 1
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12054
+#EXTINF:-1, group-title="WORLD TV", Eir Sport 2
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12053
+#EXTINF:-1, group-title="WORLD TV", Motorsport TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12052
+#EXTINF:-1, group-title="WORLD TV", Virtual Betting Channel
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12051
+#EXTINF:-1, group-title="WORLD TV", Eleven Sports 1 (UK)
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12050
+#EXTINF:-1, group-title="WORLD TV", Eleven Sports 2 (UK)
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12049
+#EXTINF:-1, group-title="WORLD TV", Eleven Sports La Liga (UK)
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12048
+#EXTINF:-1, group-title="WORLD TV", Premier Sports 2
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12044
+#EXTINF:-1, group-title="WORLD TV", MTV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12031
+#EXTINF:-1, group-title="WORLD TV", MTV Base
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12030
+#EXTINF:-1, group-title="WORLD TV", MTV Hits
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12029
+#EXTINF:-1, group-title="WORLD TV", MTV Music
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12028
+#EXTINF:-1, group-title="WORLD TV", KISS
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12027
+#EXTINF:-1, group-title="WORLD TV", VH1 SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12026
+#EXTINF:-1, group-title="WORLD TV", BOX Hits
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12025
+#EXTINF:-1, group-title="WORLD TV", Magic
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12024
+#EXTINF:-1, group-title="WORLD TV", MTV Classic
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12023
+#EXTINF:-1, group-title="WORLD TV", MTV Dance
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12022
+#EXTINF:-1, group-title="WORLD TV", MTV Rocks
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12021
+#EXTINF:-1, group-title="WORLD TV", Baby TV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12137
+#EXTINF:-1, group-title="WORLD TV", Cartoon Network
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12136
+#EXTINF:-1, group-title="WORLD TV", CBeebies HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12135
+#EXTINF:-1, group-title="WORLD TV", Disney Channel HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12134
+#EXTINF:-1, group-title="WORLD TV", Nick Jr
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12133
+#EXTINF:-1, group-title="WORLD TV", Nickelodeon HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12132
+#EXTINF:-1, group-title="WORLD TV", CITV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12131
+#EXTINF:-1, group-title="WORLD TV", Disney Jr
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12130
+#EXTINF:-1, group-title="WORLD TV", Disney XD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12129
+#EXTINF:-1, group-title="WORLD TV", Boomerang
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12128
+#EXTINF:-1, group-title="WORLD TV", Cartoonito
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12127
+#EXTINF:-1, group-title="WORLD TV", Nicktoons
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12126
+#EXTINF:-1, group-title="WORLD TV", POP
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12125
+#EXTINF:-1, group-title="WORLD TV", CBBC
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12124
+#EXTINF:-1, group-title="WORLD TV", Nick Jr Too
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12123
+#EXTINF:-1, group-title="WORLD TV", Tiny Pop
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12122
+#EXTINF:-1, group-title="WORLD TV", Film 4
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12121
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Action
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12120
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Action SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12119
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Action HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12118
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Comedy
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12117
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Comedy SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12116
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Comedy HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12115
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Disney
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12114
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Disney SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12113
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Drama
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12112
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Drama SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12111
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Drama HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12110
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Family
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12109
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Family SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12108
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Family HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12107
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Hits
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12106
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Premier
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12105
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Premier SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12104
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Premiere HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12103
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema SciFi&Horror
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12102
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema SciFi&Horror SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12101
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema SciFi&Horror HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12100
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Crime & Thriller
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12099
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Thriller
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12098
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Thriller SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12097
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Thriller HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12096
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Modern Greats
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12095
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Select
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12094
+#EXTINF:-1, group-title="WORLD TV", Sky Cinema Select SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12093
+#EXTINF:-1, group-title="WORLD TV", Movies 4 Men
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12092
+#EXTINF:-1, group-title="WORLD TV", BT Sport 1 SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11993
+#EXTINF:-1, group-title="WORLD TV", BT Sport 1 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11992
+#EXTINF:-1, group-title="WORLD TV", BT Sport 1 FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11991
+#EXTINF:-1, group-title="WORLD TV", BT Sport 2 SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11990
+#EXTINF:-1, group-title="WORLD TV", BT Sport 2 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11989
+#EXTINF:-1, group-title="WORLD TV", BT Sport 2 FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11988
+#EXTINF:-1, group-title="WORLD TV", BT Sport 3 SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11987
+#EXTINF:-1, group-title="WORLD TV", BT Sport 3 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11986
+#EXTINF:-1, group-title="WORLD TV", BT Sport 3 FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11985
+#EXTINF:-1, group-title="WORLD TV", BT Sport ESPN
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11984
+#EXTINF:-1, group-title="WORLD TV", BT Sport ESPN HD/FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11983
+#EXTINF:-1, group-title="WORLD TV", BBC One
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11944
+#EXTINF:-1, group-title="WORLD TV", BBC One HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11943
+#EXTINF:-1, group-title="WORLD TV", BBC Two SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11942
+#EXTINF:-1, group-title="WORLD TV", BBC Two HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11941
+#EXTINF:-1, group-title="WORLD TV", ITV London SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11940
+#EXTINF:-1, group-title="WORLD TV", ITV 1 HD BU
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11939
+#EXTINF:-1, group-title="WORLD TV", ITV 1 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11938
+#EXTINF:-1, group-title="WORLD TV", Channel 4
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11937
+#EXTINF:-1, group-title="WORLD TV", Channel 4 SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11936
+#EXTINF:-1, group-title="WORLD TV", Channel 4 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11935
+#EXTINF:-1, group-title="WORLD TV", Channel 5 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11934
+#EXTINF:-1, group-title="WORLD TV", Channel 5 SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11933
+#EXTINF:-1, group-title="WORLD TV", Sky One SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11932
+#EXTINF:-1, group-title="WORLD TV", Sky One HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11931
+#EXTINF:-1, group-title="WORLD TV", Sky One BU
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11930
+#EXTINF:-1, group-title="WORLD TV", Alibi
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11929
+#EXTINF:-1, group-title="WORLD TV", Challenge
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11928
+#EXTINF:-1, group-title="WORLD TV", Comedy Central
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11927
+#EXTINF:-1, group-title="WORLD TV", CBS Reality
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11926
+#EXTINF:-1, group-title="WORLD TV", Drama
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11925
+#EXTINF:-1, group-title="WORLD TV", More4
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11924
+#EXTINF:-1, group-title="WORLD TV", STV
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11923
+#EXTINF:-1, group-title="WORLD TV", Dave HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11922
+#EXTINF:-1, group-title="WORLD TV", E! Entertainment
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11921
+#EXTINF:-1, group-title="WORLD TV", Food Network
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11920
+#EXTINF:-1, group-title="WORLD TV", Gold
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11919
+#EXTINF:-1, group-title="WORLD TV", Good Food
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11918
+#EXTINF:-1, group-title="WORLD TV", Sky Atlantic
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11917
+#EXTINF:-1, group-title="WORLD TV", Sky Atlantic HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11916
+#EXTINF:-1, group-title="WORLD TV", Sky Arts
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11915
+#EXTINF:-1, group-title="WORLD TV", Sky Two
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11914
+#EXTINF:-1, group-title="WORLD TV", Sky Living
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11913
+#EXTINF:-1, group-title="WORLD TV", ITV 2
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11912
+#EXTINF:-1, group-title="WORLD TV", SYFY
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11911
+#EXTINF:-1, group-title="WORLD TV", FOX
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11910
+#EXTINF:-1, group-title="WORLD TV", Comedy Central Xtra
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11909
+#EXTINF:-1, group-title="WORLD TV", E4
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11908
+#EXTINF:-1, group-title="WORLD TV", ITV 3
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11907
+#EXTINF:-1, group-title="WORLD TV", ITV Encore
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11906
+#EXTINF:-1, group-title="WORLD TV", PICK
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11905
+#EXTINF:-1, group-title="WORLD TV", Universal
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11904
+#EXTINF:-1, group-title="WORLD TV", Watch (W)
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11903
+#EXTINF:-1, group-title="WORLD TV", ITV Be HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11902
+#EXTINF:-1, group-title="WORLD TV", 5STAR
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11901
+#EXTINF:-1, group-title="WORLD TV", DMAX
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11900
+#EXTINF:-1, group-title="WORLD TV", Spike
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11899
+#EXTINF:-1, group-title="WORLD TV", 4seven
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11898
+#EXTINF:-1, group-title="WORLD TV", CBS Drama
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11897
+#EXTINF:-1, group-title="WORLD TV", My5
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11896
+#EXTINF:-1, group-title="WORLD TV", Comedy Central HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11895
+#EXTINF:-1, group-title="WORLD TV", Dave  1
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11894
+#EXTINF:-1, group-title="WORLD TV", ITV 4
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11893
+#EXTINF:-1, group-title="WORLD TV", Sky Arts HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11892
+#EXTINF:-1, group-title="WORLD TV", Sky Witness
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11891
+#EXTINF:-1, group-title="WORLD TV", TLC
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11890
+#EXTINF:-1, group-title="WORLD TV", Paramount (Spike)
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11889
+#EXTINF:-1, group-title="WORLD TV", BBC Four HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11888
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Action
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11982
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Action FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11979
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Action HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11980
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Action SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11981
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Arena
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11978
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Arena FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11975
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Arena HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11976
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Arena SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11977
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Cricket
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11974
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Cricket FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11971
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Cricket HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11972
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Cricket SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11973
+#EXTINF:-1, group-title="WORLD TV", Sky Sports F1
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11970
+#EXTINF:-1, group-title="WORLD TV", Sky Sports F1 FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11967
+#EXTINF:-1, group-title="WORLD TV", Sky Sports F1 HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11968
+#EXTINF:-1, group-title="WORLD TV", Sky Sports F1 SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11969
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Football
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11966
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Football FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11963
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Football HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11964
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Football SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11965
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Golf
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11962
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Golf FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11959
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Golf HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11960
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Golf SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11961
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Main Event
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11958
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Main Event FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11955
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Main Event HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11956
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Main Event SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11957
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Mix
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11954
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Mix HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11952
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Mix SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11953
+#EXTINF:-1, group-title="WORLD TV", Sky Sports News
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11947
+#EXTINF:-1, group-title="WORLD TV", Sky Sports News HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11945
+#EXTINF:-1, group-title="WORLD TV", Sky Sports News SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11946
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Premier League
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11951
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Premier League FHD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11948
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Premier League HD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11949
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Premier League SD
+http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11950
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
