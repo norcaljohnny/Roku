@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1, group-title="UFC 232", UFC 232 (1)
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5914.ts
+#EXTINF:-1, group-title="UFC 232", UFC 232 (2)
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6043.ts
+#EXTINF:-1, group-title="NBA LIVE", Nets@Bucks
+http://m1.nba4live.fun/hls/1.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Rockets@Pelicans
+http://m1.nba4live.fun/hls/9.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Hornets@Wizards
+http://m1.nba4live.fun/hls/3.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Cavs@Hawks
+http://m1.nba4live.fun/hls/4.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Celtics@Grizzlies
+http://m1.nba4live.fun/hls/5.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Knicks@Jazz
+http://m1.nba4live.fun/hls/6.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Nuggets@Suns
+http://m1.nba4live.fun/hls/7.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Warriors@Blazers
+http://m1.nba4live.fun/hls/9.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Spurs@Clippers
+http://m1.nba4live.fun/hls/8.m3u8
 #EXTINF:-1, group-title="USA/UK", ABC HD
 http://ksportiptv.com:1557/UltraxxMumSxGax1/EiW4E9Vnjy/2463
 #EXTINF:-1, group-title="USA/UK", NBC (EAST)
