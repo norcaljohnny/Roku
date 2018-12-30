@@ -7,18 +7,6 @@ http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11989
 http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12686
 #EXTINF:-1, group-title="UFC 232", UFC 232 (4)
 http://tv.fitiptv.com:6969/live/Rafas/15fxyr1aMG/6.ts
-#EXTINF:-1, group-title="NBA LIVE", Rockets@Pelicans
-http://m1.nba4live.fun/hls/9.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Hornets@Wizards
-http://m1.nba4live.fun/hls/3.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Cavs@Hawks
-http://m1.nba4live.fun/hls/4a.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Celtics@Grizzlies
-http://m1.nba4live.fun/hls/5.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Knicks@Jazz
-http://m1.nba4live.fun/hls/6.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Nuggets@Suns
-http://m1.nba4live.fun/hls/7.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Warriors@Blazers
 http://m1.nba4live.fun/hls/9.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Spurs@Clippers
