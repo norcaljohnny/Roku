@@ -599,6 +599,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
 #EXTINF:-1, group-title="PINOY TV", INQUIRER TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
+#EXTINF:-1, group-title="PINOY TV", CNN PHILIPPINES
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, group-title="PINOY TV", AKSYON TV
 http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w2068977924.m3u8
 #EXTINF:-1, group-title="PINOY TV", TV5/ESPN 5
