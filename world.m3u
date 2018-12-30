@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Pistons@Magic
-http://f1.nba4live.fun/hls/1.m3u8
 #EXTINF:-1, group-title="NBA LIVE", TWolves@Heat
 http://f1.nba4live.fun/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bulls@Raptors
