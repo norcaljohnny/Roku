@@ -7,8 +7,6 @@ http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/11989
 http://maddog-tv.biz:25461/00:1A:79:47:9D:45/757565554KT/12686
 #EXTINF:-1, group-title="UFC 232", UFC 232 (4)
 http://tv.fitiptv.com:6969/live/Rafas/15fxyr1aMG/6.ts
-#EXTINF:-1, group-title="NBA LIVE", Nets@Bucks
-http://m1.nba4live.fun/hls/1.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Rockets@Pelicans
 http://m1.nba4live.fun/hls/9.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Wizards
