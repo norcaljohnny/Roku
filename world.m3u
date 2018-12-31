@@ -1,18 +1,16 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Hawks@Pacers
-http://gold.hopto.me:83/live/martiallou/791878/221881.ts
 #EXTINF:-1, group-title="NBA LIVE", Magic@Hornets
-http://gold.hopto.me:83/live/martiallou/791878/221889.ts
+http://f1.nba4live.fun/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Grizzlies@Rockets
-http://gold.hopto.me:83/live/martiallou/791878/324805.ts
+http://f1.nba4live.fun/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Celtics@Spurs
-http://gold.hopto.me:83/live/martiallou/791878/143093.ts
+http://f1.nba4live.fun/hls/4a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", TWolves@Pelicans
-http://gold.hopto.me:83/live/martiallou/791878/324798.ts
+http://f1.nba4live.fun/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Mavs@Thunder
-http://gold.hopto.me:83/live/martiallou/791878/324809.ts
+http://f1.nba4live.fun/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Warriors@Suns
-http://gold.hopto.me:83/live/martiallou/791878/308838.ts
+http://f1.nba4live.fun/hls/7.m3u8
 #EXTINF:-1, group-title="WORLD TV", ABC Action New
 http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/848
 #EXTINF:-1, group-title="WORLD TV", ABC New
