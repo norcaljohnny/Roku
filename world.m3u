@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1, group-title="BOXING LIVE", Mayweather v Nasukawa 
+http://gold.hopto.me:83/live/martiallou/791878/330145.ts
+#EXTINF:-1, group-title="BOXING LIVE", Mayweather v Nasukawa 
+http://gold.hopto.me:83/live/martiallou/791878/330144.ts
 #EXTINF:-1, group-title="NBA LIVE", 76ers@Blazers
 http://f1.nba4live.fun/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Kings@Lakers
