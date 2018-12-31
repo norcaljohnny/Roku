@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", TWolves@Heat
-http://f1.nba4live.fun/hls/2.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Bulls@Raptors
-http://f1.nba4live.fun/hls/3.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Thunder@Mavs
-http://f1.nba4live.fun/hls/4a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", 76ers@Blazers
 http://f1.nba4live.fun/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Kings@Lakers
