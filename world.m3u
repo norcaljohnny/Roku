@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Thunder@Lakers
-http://f12.nba4live.online/hls/5.m3u8
 #EXTINF:-1, group-title="WORLD TV", ABC Action New
 http://www.e900x.com:8000/5I693Rkh5m/5AcDZzXxlu/848
 #EXTINF:-1, group-title="WORLD TV", ABC New
