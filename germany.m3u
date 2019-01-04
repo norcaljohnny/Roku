@@ -1,247 +1,385 @@
 #EXTM3U
-#EXTINF:-1,DAS ERSTE (ARD)
-http://magnum-ott.net:80/live/mirage1/mirage2/33573.ts
-#EXTINF:-1,DAS ERSTE HD (ARD)
-http://magnum-ott.net:80/live/mirage1/mirage2/33572.ts
-#EXTINF:-1,ARTE HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33571.ts
-#EXTINF:-1,ZDF HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33570.ts
-#EXTINF:-1,ZDF NEO
-http://magnum-ott.net:80/live/mirage1/mirage2/33569.ts
-#EXTINF:-1,3 SAT
-http://magnum-ott.net:80/live/mirage1/mirage2/33568.ts
-#EXTINF:-1,RTL
-http://magnum-ott.net:80/live/mirage1/mirage2/33567.ts
-#EXTINF:-1,RTL2
-http://magnum-ott.net:80/live/mirage1/mirage2/33566.ts
-#EXTINF:-1,RTL PLUS
-http://magnum-ott.net:80/live/mirage1/mirage2/33565.ts
-#EXTINF:-1,RTL CRIME HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33564.ts
-#EXTINF:-1,RTL PASSION HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33563.ts
-#EXTINF:-1,RTL NITRO
-http://magnum-ott.net:80/live/mirage1/mirage2/33562.ts
-#EXTINF:-1,SUPER RTL
-http://magnum-ott.net:80/live/mirage1/mirage2/33561.ts
-#EXTINF:-1,VOX
-http://magnum-ott.net:80/live/mirage1/mirage2/33560.ts
-#EXTINF:-1,EOTV
-http://magnum-ott.net:80/live/mirage1/mirage2/33559.ts
-#EXTINF:-1,ZEE ONE
-http://magnum-ott.net:80/live/mirage1/mirage2/33558.ts
-#EXTINF:-1,SWR FERNSEHEN BW
-http://magnum-ott.net:80/live/mirage1/mirage2/33557.ts
-#EXTINF:-1,NITRO
-http://magnum-ott.net:80/live/mirage1/mirage2/33556.ts
-#EXTINF:-1,RTL HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33554.ts
-#EXTINF:-1,RTL 2 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33553.ts
-#EXTINF:-1,SAT 1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33552.ts
-#EXTINF:-1,SAT 1 GOLD HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33551.ts
-#EXTINF:-1,SIXX HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33550.ts
-#EXTINF:-1,VOX HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33549.ts
-#EXTINF:-1,KABEL 1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33548.ts
-#EXTINF:-1,PROSIEBEN HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33547.ts
-#EXTINF:-1,PROSIEBEN MAXX HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33546.ts
-#EXTINF:-1,DMAX HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33545.ts
-#EXTINF:-1,TELE 5 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33544.ts
-#EXTINF:-1,ZEE ONE HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33543.ts
-#EXTINF:-1,SKY 1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33541.ts
-#EXTINF:-1,SKY CINEMA HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33540.ts
-#EXTINF:-1,SKY CINEMA  1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33539.ts
-#EXTINF:-1,SKY CINEMA  24 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33538.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33537.ts
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33536.ts
-#EXTINF:-1,SKY CINEMA EMOTION
-http://magnum-ott.net:80/live/mirage1/mirage2/33535.ts
-#EXTINF:-1,SKY CINEMA NOSTALGIE
-http://magnum-ott.net:80/live/mirage1/mirage2/33534.ts
-#EXTINF:-1,SKY CINEMA HITS HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33533.ts
-#EXTINF:-1,TNT COMEDY HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33532.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33531.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33530.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 2 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33529.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 3 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33528.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 4 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33527.ts
-#EXTINF:-1,MOVIESINEMA GERMAN 5 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33526.ts
-#EXTINF:-1,SKY SELECT 1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33524.ts
-#EXTINF:-1,SKY SELECT 2 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33523.ts
-#EXTINF:-1,SKY SELECT 3 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33522.ts
-#EXTINF:-1,SKY SELECT 4 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33521.ts
-#EXTINF:-1,SKY SELECT 5 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33520.ts
-#EXTINF:-1,SKY ATLANTIC
-http://magnum-ott.net:80/live/mirage1/mirage2/33519.ts
-#EXTINF:-1,KINOWELT TV
-http://magnum-ott.net:80/live/mirage1/mirage2/33518.ts
-#EXTINF:-1,TNT FILM
-http://magnum-ott.net:80/live/mirage1/mirage2/33517.ts
-#EXTINF:-1,FOX HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33515.ts
-#EXTINF:-1,13TH STREET HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33514.ts
-#EXTINF:-1,SYFY HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33513.ts
-#EXTINF:-1,TNT SERIE HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33512.ts
-#EXTINF:-1,SKY TNT SERIE HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33511.ts
-#EXTINF:-1,ROMANCE TV
-http://magnum-ott.net:80/live/mirage1/mirage2/33510.ts
-#EXTINF:-1,FOX SERIE
-http://magnum-ott.net:80/live/mirage1/mirage2/33509.ts
-#EXTINF:-1,SKY KRIMI
-http://magnum-ott.net:80/live/mirage1/mirage2/33508.ts
-#EXTINF:-1,13TH STREET
-http://magnum-ott.net:80/live/mirage1/mirage2/33507.ts
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33506.ts
-#EXTINF:-1,MTV HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33505.ts
-#EXTINF:-1,NICK /MTV HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33504.ts
-#EXTINF:-1,DELUXE MUSIC HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33503.ts
-#EXTINF:-1,VIVA/COMEDY CENTRAL
-http://magnum-ott.net:80/live/mirage1/mirage2/33502.ts
-#EXTINF:-1,VH1
-http://magnum-ott.net:80/live/mirage1/mirage2/33501.ts
-#EXTINF:-1,JUKEBOX
-http://magnum-ott.net:80/live/mirage1/mirage2/33500.ts
-#EXTINF:-1,DISCOVERY HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33498.ts
-#EXTINF:-1,NGC HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33497.ts
-#EXTINF:-1,NGC WILD HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33496.ts
-#EXTINF:-1,HISTORY HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33495.ts
-#EXTINF:-1,TLC HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33494.ts
-#EXTINF:-1,SKY ARTS HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33493.ts
-#EXTINF:-1,NGC
-http://magnum-ott.net:80/live/mirage1/mirage2/33492.ts
-#EXTINF:-1,NGC WILD
-http://magnum-ott.net:80/live/mirage1/mirage2/33491.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://magnum-ott.net:80/live/mirage1/mirage2/33490.ts
-#EXTINF:-1,SPIEGEL GESCHICHTE
-http://magnum-ott.net:80/live/mirage1/mirage2/33489.ts
+#EXTINF:-1,13th Street
+http://173.249.23.207:8000/aa/aa/4141
+#EXTINF:-1,13th Street HD
+http://173.249.23.207:8000/aa/aa/4140
+#EXTINF:-1,3sat
+http://173.249.23.207:8000/aa/aa/4139
+#EXTINF:-1,3sat HD
+http://173.249.23.207:8000/aa/aa/4138
 #EXTINF:-1,A&E
-http://magnum-ott.net:80/live/mirage1/mirage2/33488.ts
-#EXTINF:-1,DISNEY CHANNEL HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33486.ts
-#EXTINF:-1,DISNEY JUNIOR HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33485.ts
-#EXTINF:-1,DISNEY CINEMAGIC
-http://magnum-ott.net:80/live/mirage1/mirage2/33484.ts
-#EXTINF:-1,NICK /MTV
-http://magnum-ott.net:80/live/mirage1/mirage2/33483.ts
-#EXTINF:-1,KIKA
-http://magnum-ott.net:80/live/mirage1/mirage2/33482.ts
-#EXTINF:-1,CARTOON NETWORK
-http://magnum-ott.net:80/live/mirage1/mirage2/33481.ts
-#EXTINF:-1,BOOMERANG
-http://magnum-ott.net:80/live/mirage1/mirage2/33480.ts
-#EXTINF:-1,EURONEWS
-http://magnum-ott.net:80/live/mirage1/mirage2/33478.ts
-#EXTINF:-1,N TV
-http://magnum-ott.net:80/live/mirage1/mirage2/33477.ts
-#EXTINF:-1,JUWELO HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33475.ts
-#EXTINF:-1,PEARL TV HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33474.ts
-#EXTINF:-1,123TV HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33473.ts
+http://173.249.23.207:8000/aa/aa/4137
+#EXTINF:-1,A&E FHD
+http://173.249.23.207:8000/aa/aa/4136
+#EXTINF:-1,ANIXE
+http://173.249.23.207:8000/aa/aa/4135
 #EXTINF:-1,ANIXE HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33472.ts
-#EXTINF:-1,QVC HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33471.ts
-#EXTINF:-1,QVC2 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33470.ts
-#EXTINF:-1,HSE 24 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33469.ts
-#EXTINF:-1,HSE 24 EXTRA HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33468.ts
-#EXTINF:-1,MDR CRINGEN HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33467.ts
-#EXTINF:-1,MDR S-ANHALT HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33466.ts
-#EXTINF:-1,MDR SACHSEN HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33465.ts
-#EXTINF:-1,WDR AACHEN HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33464.ts
-#EXTINF:-1,WDR BONN HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33463.ts
-#EXTINF:-1,WDR DUISBURG HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33462.ts
-#EXTINF:-1,RBB BERLIN HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33461.ts
-#EXTINF:-1,RBB BRANDEN BURG
-http://magnum-ott.net:80/live/mirage1/mirage2/33460.ts
-#EXTINF:-1,SONNENKLAR HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33459.ts
-#EXTINF:-1,WDR WUPPERTAL HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33458.ts
-#EXTINF:-1,WELT HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33457.ts
-#EXTINF:-1,HEIMAT KANAL
-http://magnum-ott.net:80/live/mirage1/mirage2/33456.ts
+http://173.249.23.207:8000/aa/aa/4134
+#EXTINF:-1,Arte FHD
+http://173.249.23.207:8000/aa/aa/4129
+#EXTINF:-1,AXN
+http://173.249.23.207:8000/aa/aa/4133
+#EXTINF:-1,AXN HD
+http://173.249.23.207:8000/aa/aa/4132
+#EXTINF:-1,Boomerang
+http://173.249.23.207:8000/aa/aa/4123
+#EXTINF:-1,Cartoon Network
+http://173.249.23.207:8000/aa/aa/4121
 #EXTINF:-1,CLASSICA
-http://magnum-ott.net:80/live/mirage1/mirage2/33455.ts
-#EXTINF:-1,SKY SPORT NEWS HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33453.ts
-#EXTINF:-1,SPORT 1  HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33452.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33451.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33450.ts
-#EXTINF:-1,EUROSPORT 2  XTRA HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33449.ts
-#EXTINF:-1,MOTORVISION
-http://magnum-ott.net:80/live/mirage1/mirage2/33448.ts
-#EXTINF:-1,DAZN 1 BAR FHD
-http://magnum-ott.net:80/live/mirage1/mirage2/33447.ts
-#EXTINF:-1,DAZN 2 BAR FHD
-http://magnum-ott.net:80/live/mirage1/mirage2/33446.ts
-#EXTINF:-1,SKY SPORT 1 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33445.ts
-#EXTINF:-1,SKY SPORT 2 HD
-http://magnum-ott.net:80/live/mirage1/mirage2/33444.ts
-#EXTINF:-1,SKY SPORT 1
-http://magnum-ott.net:80/live/mirage1/mirage2/33443.ts
-#EXTINF:-1,SKY SPORT 2
-http://magnum-ott.net:80/live/mirage1/mirage2/33442.ts
+http://173.249.23.207:8000/aa/aa/4122
+#EXTINF:-1,Comedy Central
+http://173.249.23.207:8000/aa/aa/4120
+#EXTINF:-1,Das Erste
+http://173.249.23.207:8000/aa/aa/4114
+#EXTINF:-1,Das Erste HD
+http://173.249.23.207:8000/aa/aa/4112
+#EXTINF:-1,Deluxe Music
+http://173.249.23.207:8000/aa/aa/4107
+#EXTINF:-1,Deluxe Music FHD
+http://173.249.23.207:8000/aa/aa/4106
+#EXTINF:-1,Discovery Channel
+http://173.249.23.207:8000/aa/aa/4104
+#EXTINF:-1,Discovery Channel FHD
+http://173.249.23.207:8000/aa/aa/4103
+#EXTINF:-1,Disney Channel
+http://173.249.23.207:8000/aa/aa/4102
+#EXTINF:-1,Disney Channel FHD
+http://173.249.23.207:8000/aa/aa/4101
+#EXTINF:-1,Disney Cinemagic
+http://173.249.23.207:8000/aa/aa/4100
+#EXTINF:-1,Disney Cinemagic FHD
+http://173.249.23.207:8000/aa/aa/4099
+#EXTINF:-1,Disney Junior
+http://173.249.23.207:8000/aa/aa/4098
+#EXTINF:-1,Disney Junior HD
+http://173.249.23.207:8000/aa/aa/4097
+#EXTINF:-1,Disney XD
+http://173.249.23.207:8000/aa/aa/4096
+#EXTINF:-1,DMAX
+http://173.249.23.207:8000/aa/aa/4117
+#EXTINF:-1,DMAX HD
+http://173.249.23.207:8000/aa/aa/4116
+#EXTINF:-1,Eurosport 1
+http://173.249.23.207:8000/aa/aa/4093
+#EXTINF:-1,Eurosport 1 FHD
+http://173.249.23.207:8000/aa/aa/4092
+#EXTINF:-1,Eurosport 2
+http://173.249.23.207:8000/aa/aa/4091
+#EXTINF:-1,Eurosport 2 HD
+http://173.249.23.207:8000/aa/aa/4090
+#EXTINF:-1,FOX FHD
+http://173.249.23.207:8000/aa/aa/4086
+#EXTINF:-1,FOX HD
+http://173.249.23.207:8000/aa/aa/4085
+#EXTINF:-1,FOX Series
+http://173.249.23.207:8000/aa/aa/4084
+#EXTINF:-1,History
+http://173.249.23.207:8000/aa/aa/4078
+#EXTINF:-1,History HD
+http://173.249.23.207:8000/aa/aa/4077
+#EXTINF:-1,JukeBox
+http://173.249.23.207:8000/aa/aa/4076
+#EXTINF:-1,Kabel Eins Classics
+http://173.249.23.207:8000/aa/aa/4074
+#EXTINF:-1,Kabel Eins Doku
+http://173.249.23.207:8000/aa/aa/4073
+#EXTINF:-1,Kabel Eins FHD
+http://173.249.23.207:8000/aa/aa/4072
+#EXTINF:-1,KiKa
+http://173.249.23.207:8000/aa/aa/4070
+#EXTINF:-1,KiKA HD
+http://173.249.23.207:8000/aa/aa/4071
+#EXTINF:-1,Kinowelt TV
+http://173.249.23.207:8000/aa/aa/4069
+#EXTINF:-1,MTV HD
+http://173.249.23.207:8000/aa/aa/4067
+#EXTINF:-1,n-tv
+http://173.249.23.207:8000/aa/aa/3895
+#EXTINF:-1,n-tv FHD
+http://173.249.23.207:8000/aa/aa/3894
+#EXTINF:-1,National Geographic
+http://173.249.23.207:8000/aa/aa/4060
+#EXTINF:-1,National Geographic HD
+http://173.249.23.207:8000/aa/aa/4059
+#EXTINF:-1,National Geographic Wild FHD
+http://173.249.23.207:8000/aa/aa/4058
+#EXTINF:-1,National Geographic Wild HD
+http://173.249.23.207:8000/aa/aa/4057
+#EXTINF:-1,NDR HD
+http://173.249.23.207:8000/aa/aa/4063
+#EXTINF:-1,Nick Jr.
+http://173.249.23.207:8000/aa/aa/4056
+#EXTINF:-1,Nickelodeon
+http://173.249.23.207:8000/aa/aa/4055
+#EXTINF:-1,Nickelodeon HD
+http://173.249.23.207:8000/aa/aa/4054
+#EXTINF:-1,RTL NITRO
+http://173.249.23.207:8000/aa/aa/4062
+#EXTINF:-1,RTL NITRO HD
+http://173.249.23.207:8000/aa/aa/4061
+#EXTINF:-1,One HD
+http://173.249.23.207:8000/aa/aa/4052
+#EXTINF:-1,Phoenix
+http://173.249.23.207:8000/aa/aa/4051
+#EXTINF:-1,Phoenix FHD
+http://173.249.23.207:8000/aa/aa/4050
+#EXTINF:-1,ProSieben
+http://173.249.23.207:8000/aa/aa/4042
+#EXTINF:-1,ProSieben FHD
+http://173.249.23.207:8000/aa/aa/4041
+#EXTINF:-1,Romance TV
+http://173.249.23.207:8000/aa/aa/4024
+#EXTINF:-1,RTL Crime FHD
+http://173.249.23.207:8000/aa/aa/4037
+#EXTINF:-1,RTL FHD
+http://173.249.23.207:8000/aa/aa/4036
+#EXTINF:-1,RTL HD
+http://173.249.23.207:8000/aa/aa/4033
+#EXTINF:-1,RTL II
+http://173.249.23.207:8000/aa/aa/4032
+#EXTINF:-1,RTL II FHD
+http://173.249.23.207:8000/aa/aa/4031
+#EXTINF:-1,RTL Living HD
+http://173.249.23.207:8000/aa/aa/4030
+#EXTINF:-1,RTL Passion
+http://173.249.23.207:8000/aa/aa/4029
+#EXTINF:-1,RTL Plus
+http://173.249.23.207:8000/aa/aa/4028
+#EXTINF:-1,SAT.1
+http://173.249.23.207:8000/aa/aa/4023
+#EXTINF:-1,SAT.1 FHD
+http://173.249.23.207:8000/aa/aa/4022
+#EXTINF:-1,SAT.1 Gold HD
+http://173.249.23.207:8000/aa/aa/4021
+#EXTINF:-1,Sixx
+http://173.249.23.207:8000/aa/aa/4012
+#EXTINF:-1,Sixx FHD
+http://173.249.23.207:8000/aa/aa/4011
+#EXTINF:-1,Sky 1 HD
+http://173.249.23.207:8000/aa/aa/4010
+#EXTINF:-1,Sky Action
+http://173.249.23.207:8000/aa/aa/4009
+#EXTINF:-1,Sky Action FHD
+http://173.249.23.207:8000/aa/aa/4008
+#EXTINF:-1,Sky Arts FHD
+http://173.249.23.207:8000/aa/aa/4007
+#EXTINF:-1,Sky Atlantic
+http://173.249.23.207:8000/aa/aa/4006
+#EXTINF:-1,Sky Atlantic FHD
+http://173.249.23.207:8000/aa/aa/4005
+#EXTINF:-1,Sky Bundesliga 1
+http://173.249.23.207:8000/aa/aa/4004
+#EXTINF:-1,Sky Bundesliga 1 FHD
+http://173.249.23.207:8000/aa/aa/4003
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://173.249.23.207:8000/aa/aa/4002
+#EXTINF:-1,Sky Bundesliga 10
+http://173.249.23.207:8000/aa/aa/4001
+#EXTINF:-1,Sky Bundesliga 2
+http://173.249.23.207:8000/aa/aa/4000
+#EXTINF:-1,Sky Bundesliga 2 FHD
+http://173.249.23.207:8000/aa/aa/3999
+#EXTINF:-1,Sky Bundesliga 3
+http://173.249.23.207:8000/aa/aa/3998
+#EXTINF:-1,Sky Bundesliga 3 FHD
+http://173.249.23.207:8000/aa/aa/3997
+#EXTINF:-1,Sky Bundesliga 4
+http://173.249.23.207:8000/aa/aa/3996
+#EXTINF:-1,Sky Bundesliga 4 FHD
+http://173.249.23.207:8000/aa/aa/3995
+#EXTINF:-1,Sky Bundesliga 5
+http://173.249.23.207:8000/aa/aa/3994
+#EXTINF:-1,Sky Bundesliga 5 FHD
+http://173.249.23.207:8000/aa/aa/3993
+#EXTINF:-1,Sky Bundesliga 6
+http://173.249.23.207:8000/aa/aa/3992
+#EXTINF:-1,Sky Bundesliga 6 FHD
+http://173.249.23.207:8000/aa/aa/3991
+#EXTINF:-1,Sky Bundesliga 7 FHD
+http://173.249.23.207:8000/aa/aa/3990
+#EXTINF:-1,Sky Bundesliga 8
+http://173.249.23.207:8000/aa/aa/3989
+#EXTINF:-1,Sky Bundesliga 8 FHD
+http://173.249.23.207:8000/aa/aa/3988
+#EXTINF:-1,Sky Bundesliga 9
+http://173.249.23.207:8000/aa/aa/3987
+#EXTINF:-1,Sky Bundesliga 9 FHD
+http://173.249.23.207:8000/aa/aa/3986
+#EXTINF:-1,Sky Cinema
+http://173.249.23.207:8000/aa/aa/3985
+#EXTINF:-1,Sky Cinema  1
+http://173.249.23.207:8000/aa/aa/3984
+#EXTINF:-1,Sky Cinema  1 HD
+http://173.249.23.207:8000/aa/aa/3983
+#EXTINF:-1,Sky Cinema  24
+http://173.249.23.207:8000/aa/aa/3982
+#EXTINF:-1,Sky Cinema  24 HD
+http://173.249.23.207:8000/aa/aa/3981
+#EXTINF:-1,Sky Cinema FHD
+http://173.249.23.207:8000/aa/aa/3980
+#EXTINF:-1,Sky Cinema HD
+http://173.249.23.207:8000/aa/aa/3979
+#EXTINF:-1,Sky Comedy
+http://173.249.23.207:8000/aa/aa/3978
+#EXTINF:-1,Sky Emotion
+http://173.249.23.207:8000/aa/aa/3977
+#EXTINF:-1,Sky Family FHD
+http://173.249.23.207:8000/aa/aa/3976
+#EXTINF:-1,Sky Hits
+http://173.249.23.207:8000/aa/aa/3975
+#EXTINF:-1,Sky Hits FHD
+http://173.249.23.207:8000/aa/aa/3974
+#EXTINF:-1,Sky Krimi
+http://173.249.23.207:8000/aa/aa/3973
+#EXTINF:-1,Sky Nostalgie
+http://173.249.23.207:8000/aa/aa/3972
+#EXTINF:-1,Sky Select 1 Live
+http://173.249.23.207:8000/aa/aa/3971
+#EXTINF:-1,Sky Select 2 Live
+http://173.249.23.207:8000/aa/aa/3970
+#EXTINF:-1,Sky Select 3 Live
+http://173.249.23.207:8000/aa/aa/3969
+#EXTINF:-1,Sky Select 4 Live
+http://173.249.23.207:8000/aa/aa/3968
+#EXTINF:-1,Sky Select 5 Live
+http://173.249.23.207:8000/aa/aa/3967
+#EXTINF:-1,Sky Select 6 Live
+http://173.249.23.207:8000/aa/aa/3966
+#EXTINF:-1,Sky Select 7 Live
+http://173.249.23.207:8000/aa/aa/3965
+#EXTINF:-1,Sky Select 8 Live
+http://173.249.23.207:8000/aa/aa/3964
+#EXTINF:-1,Sky Select 9 Live
+http://173.249.23.207:8000/aa/aa/3963
+#EXTINF:-1,Sky Sport 1
+http://173.249.23.207:8000/aa/aa/3962
+#EXTINF:-1,Sky Sport 1 FHD
+http://173.249.23.207:8000/aa/aa/3961
+#EXTINF:-1,Sky Sport 1 HD
+http://173.249.23.207:8000/aa/aa/3960
+#EXTINF:-1,Sky Sport 10 FHD
+http://173.249.23.207:8000/aa/aa/3959
+#EXTINF:-1,Sky Sport 2
+http://173.249.23.207:8000/aa/aa/3957
+#EXTINF:-1,Sky Sport 2 FHD
+http://173.249.23.207:8000/aa/aa/3956
+#EXTINF:-1,Sky Sport 2 HD
+http://173.249.23.207:8000/aa/aa/3955
+#EXTINF:-1,Sky Sport 3
+http://173.249.23.207:8000/aa/aa/3954
+#EXTINF:-1,Sky Sport 3 FHD
+http://173.249.23.207:8000/aa/aa/3953
+#EXTINF:-1,Sky Sport 4
+http://173.249.23.207:8000/aa/aa/3952
+#EXTINF:-1,Sky Sport 4 FHD
+http://173.249.23.207:8000/aa/aa/3951
+#EXTINF:-1,Sky Sport 5
+http://173.249.23.207:8000/aa/aa/3950
+#EXTINF:-1,Sky Sport 5 FHD
+http://173.249.23.207:8000/aa/aa/3949
+#EXTINF:-1,Sky Sport 6
+http://173.249.23.207:8000/aa/aa/3948
+#EXTINF:-1,Sky Sport 7
+http://173.249.23.207:8000/aa/aa/3946
+#EXTINF:-1,Sky Sport 8
+http://173.249.23.207:8000/aa/aa/3944
+#EXTINF:-1,Sky Sport 9
+http://173.249.23.207:8000/aa/aa/3942
+#EXTINF:-1,Sky Sport Austria
+http://173.249.23.207:8000/aa/aa/3940
+#EXTINF:-1,Sky Sport Austria HD
+http://173.249.23.207:8000/aa/aa/3939
+#EXTINF:-1,Sky Sport News
+http://173.249.23.207:8000/aa/aa/3938
+#EXTINF:-1,Sky Sport News HD
+http://173.249.23.207:8000/aa/aa/3937
+#EXTINF:-1,Sony TV HD
+http://173.249.23.207:8000/aa/aa/3936
+#EXTINF:-1,Spiegel Geschichte
+http://173.249.23.207:8000/aa/aa/3935
+#EXTINF:-1,Spiegel Geschichte HD
+http://173.249.23.207:8000/aa/aa/3934
+#EXTINF:-1,Spiegel TV Wissen FHD
+http://173.249.23.207:8000/aa/aa/3933
+#EXTINF:-1,Sport 1  HD
+http://173.249.23.207:8000/aa/aa/3932
+#EXTINF:-1,Sport 1 US HD
+http://173.249.23.207:8000/aa/aa/3931
+#EXTINF:-1,SPORT1
+http://173.249.23.207:8000/aa/aa/4020
+#EXTINF:-1,Super RTL
+http://173.249.23.207:8000/aa/aa/3930
+#EXTINF:-1,Super RTL FHD
+http://173.249.23.207:8000/aa/aa/3929
+#EXTINF:-1,Syfy
+http://173.249.23.207:8000/aa/aa/3928
+#EXTINF:-1,Syfy HD
+http://173.249.23.207:8000/aa/aa/3927
+#EXTINF:-1,Tele 5
+http://173.249.23.207:8000/aa/aa/3918
+#EXTINF:-1,Tele 5 FHD
+http://173.249.23.207:8000/aa/aa/3917
+#EXTINF:-1,TLC
+http://173.249.23.207:8000/aa/aa/3926
+#EXTINF:-1,TLC FHD
+http://173.249.23.207:8000/aa/aa/3925
+#EXTINF:-1,TNT Comedy HD
+http://173.249.23.207:8000/aa/aa/3924
+#EXTINF:-1,TNT Film
+http://173.249.23.207:8000/aa/aa/3923
+#EXTINF:-1,TNT Film FHD
+http://173.249.23.207:8000/aa/aa/3922
+#EXTINF:-1,TNT Serie
+http://173.249.23.207:8000/aa/aa/3921
+#EXTINF:-1,TNT Serie FHD
+http://173.249.23.207:8000/aa/aa/3920
+#EXTINF:-1,TOGGO plus
+http://173.249.23.207:8000/aa/aa/3919
+#EXTINF:-1,Universal Channel HD
+http://173.249.23.207:8000/aa/aa/3916
+#EXTINF:-1,Viva/Comedy Central
+http://173.249.23.207:8000/aa/aa/3912
+#EXTINF:-1,VIVA/Comedy Central FHD
+http://173.249.23.207:8000/aa/aa/3915
+#EXTINF:-1,VOX FHD
+http://173.249.23.207:8000/aa/aa/3914
+#EXTINF:-1,VOX HD
+http://173.249.23.207:8000/aa/aa/3913
+#EXTINF:-1,WDR
+http://173.249.23.207:8000/aa/aa/3911
+#EXTINF:-1,WDR HD
+http://173.249.23.207:8000/aa/aa/3910
+#EXTINF:-1,Welt
+http://173.249.23.207:8000/aa/aa/3909
+#EXTINF:-1,Welt HD
+http://173.249.23.207:8000/aa/aa/3908
+#EXTINF:-1,ZDF
+http://173.249.23.207:8000/aa/aa/3905
+#EXTINF:-1,ZDF FHD
+http://173.249.23.207:8000/aa/aa/3904
+#EXTINF:-1,ZDF HD
+http://173.249.23.207:8000/aa/aa/3903
+#EXTINF:-1,ZDFinfo
+http://173.249.23.207:8000/aa/aa/3902
+#EXTINF:-1,ZDFinfo HD
+http://173.249.23.207:8000/aa/aa/3901
+#EXTINF:-1,ZDFneo
+http://173.249.23.207:8000/aa/aa/3900
+#EXTINF:-1,ZDFneo HD
+http://173.249.23.207:8000/aa/aa/3899
+#EXTINF:-1,Zee One
+http://173.249.23.207:8000/aa/aa/3898
+#EXTINF:-1,Zee One FHD
+http://173.249.23.207:8000/aa/aa/3897
+#EXTINF:-1,Popcorn Select 1 FHD
+http://173.249.23.207:8000/aa/aa/6943
+#EXTINF:-1,Popcorn Select 2 HD
+http://173.249.23.207:8000/aa/aa/6942
+#EXTINF:-1,Popcorn Select 3 FHD
+http://173.249.23.207:8000/aa/aa/6941
+#EXTINF:-1,Popcorn Select 4 HD
+http://173.249.23.207:8000/aa/aa/6940
+#EXTINF:-1,Popcorn Select 5 HD
+http://173.249.23.207:8000/aa/aa/6939
+#EXTINF:-1,Popcorn Select 6 HD
+http://173.249.23.207:8000/aa/aa/6938
