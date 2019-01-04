@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1, group-title="NBA LIVE", Jazz@Cavs
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/70358.ts
+#EXTINF:-1, group-title="NBA LIVE", Mavs@Celtics
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/18409.ts
+#EXTINF:-1, group-title="NBA LIVE", Wizards@Heat
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/70351.ts
+#EXTINF:-1, group-title="NBA LIVE", Pacers@Bulls
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/70364.ts
+#EXTINF:-1, group-title="NBA LIVE", Nets@Grizzlies
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/18370.ts
+#EXTINF:-1, group-title="NBA LIVE", Magic@TWolves
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/70365.ts
+#EXTINF:-1, group-title="NBA LIVE", Hawks@Bucks
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/18371.ts
+#EXTINF:-1, group-title="NBA LIVE", Clippers@Suns
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/18388.ts
+#EXTINF:-1, group-title="NBA LIVE", Knicks@Lakers
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/61050.ts
+#EXTINF:-1, group-title="NBA LIVE", Thunder@Blazers
+http://vivid.ddns.net:25461/live/Toedanr01/leinad01/66402.ts
 #EXTINF:-1, group-title="WORLD TV", A&E
 http://vivid.ddns.net:25461/live/Toedanr01/leinad01/18515.ts
 #EXTINF:-1, group-title="WORLD TV", ACC..
