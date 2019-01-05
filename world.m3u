@@ -1,22 +1,18 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Mavs@Celtics
-http://f6.kironski2.xyz/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Wizards@Heat
 http://f4.lebron.xyz/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pacers@Bulls
 http://f17.oscapack.xyz/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Nets@Grizzlies
 http://f14.andrico2.xyz/hls/4.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Magic@TWolves
-http://f3.lebron1.xyz/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hawks@Bucks
 http://f6.kironski2.xyz/hls/7.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Clippers@Suns
 http://f20.oscapack3.xyz/hls/8.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Knicks@Lakers
-http://f7.kironski1.xyz/hls/preview.m3u8
+http://f3.lebron1.xyz/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Thunder@Blazers
-http://f7.kironski1.xyz/hls/preview.m3u8
+http://f15.andrico1.xyz/hls/5.m3u8
 #EXTINF:-1, group-title="WORLD TV", A&E
 http://vivid.ddns.net:25461/live/Toedanr01/leinad01/18515.ts
 #EXTINF:-1, group-title="WORLD TV", ACC..
