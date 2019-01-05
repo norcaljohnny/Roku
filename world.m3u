@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Knicks@Lakers
-http://f3.lebron1.xyz/hls/1a.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Thunder@Blazers
-http://f15.andrico1.xyz/hls/5.m3u8
 #EXTINF:-1, group-title="WORLD TV", A&E
 http://vivid.ddns.net:25461/live/Toedanr01/leinad01/18515.ts
 #EXTINF:-1, group-title="WORLD TV", ACC..
