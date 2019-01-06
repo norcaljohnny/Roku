@@ -1,186 +1,382 @@
 #EXTM3U
-#EXTINF:-1,group-title="WORLD TV", ESPN 
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6378
-#EXTINF:-1,group-title="WORLD TV", FOX SPORTS 1 
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6352
-#EXTINF:-1,group-title="WORLD TV", FOX SPORTS 2 
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6350
-#EXTINF:-1,group-title="WORLD TV", NBA TV
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6391
-#EXTINF:-1, group-title="WORLD TV", A&E
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3464
-#EXTINF:-1, group-title="WORLD TV", ABC
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3463
-#EXTINF:-1, group-title="WORLD TV", Adult Swim Channel
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3462
-#EXTINF:-1, group-title="WORLD TV", AMC | HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/29438
-#EXTINF:-1, group-title="WORLD TV", American Heroes
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3391
-#EXTINF:-1, group-title="WORLD TV", ANIMAL PLANET HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3460
-#EXTINF:-1, group-title="WORLD TV", ANTENNA TV | SD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27483
-#EXTINF:-1, group-title="WORLD TV", AXS TV | HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27484
-#EXTINF:-1, group-title="WORLD TV", BBC AMERICA
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27481
-#EXTINF:-1, group-title="WORLD TV", BET
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3459
-#EXTINF:-1, group-title="WORLD TV", BET her
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3458
-#EXTINF:-1, group-title="WORLD TV", BOUNCE TV 
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/7838
-#EXTINF:-1, group-title="WORLD TV", BOOMERANG
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3457
-#EXTINF:-1, group-title="WORLD TV", BRAVO HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3456
-#EXTINF:-1, group-title="WORLD TV", Cartoon Network Pacific
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3481
-#EXTINF:-1, group-title="WORLD TV", CARTOON NETWORK
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3455
-#EXTINF:-1, group-title="WORLD TV", CBS
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3454
-#EXTINF:-1, group-title="WORLD TV", CMT
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3390
-#EXTINF:-1, group-title="WORLD TV", COMEDY CENTRAL HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3453
-#EXTINF:-1, group-title="WORLD TV", COOKING CHANNEL HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3452
-#EXTINF:-1, group-title="WORLD TV", CW HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3450
-#EXTINF:-1, group-title="WORLD TV", Destination America
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3448
-#EXTINF:-1, group-title="WORLD TV", Discovery Channel HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3447
-#EXTINF:-1, group-title="WORLD TV", Discovery Science HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3446
-#EXTINF:-1, group-title="WORLD TV", Discovery Family
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3389
-#EXTINF:-1, group-title="WORLD TV", Disney Channel
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3388
-#EXTINF:-1, group-title="WORLD TV", Disney Junior Pacific
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3386
-#EXTINF:-1, group-title="WORLD TV", US|Disney XD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3385
-#EXTINF:-1, group-title="WORLD TV", DIY Network HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3445
-#EXTINF:-1, group-title="WORLD TV", E! Entertainment
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3443
-#EXTINF:-1, group-title="WORLD TV", EL REY NETWORK 
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3442
-#EXTINF:-1, group-title="WORLD TV", FOOD NETWORK
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3441
-#EXTINF:-1, group-title="WORLD TV", Food Network HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3440
+#EXTINF:-1, group-title="WORLD TV", Bloomberg TV
+http://149.56.241.228:25461/loum/trialjan06/52772
+#EXTINF:-1, group-title="WORLD TV", BNN
+http://149.56.241.228:25461/loum/trialjan06/52771
+#EXTINF:-1, group-title="WORLD TV", CBSN
+http://149.56.241.228:25461/loum/trialjan06/52770
+#EXTINF:-1, group-title="WORLD TV", CNBC
+http://149.56.241.228:25461/loum/trialjan06/52769
+#EXTINF:-1, group-title="WORLD TV", CNBC WORLD
+http://149.56.241.228:25461/loum/trialjan06/52768
+#EXTINF:-1, group-title="WORLD TV", CNN
+http://149.56.241.228:25461/loum/trialjan06/52767
 #EXTINF:-1, group-title="WORLD TV", FOX BUSINESS
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3438
-#EXTINF:-1, group-title="WORLD TV", FOX FHD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3437
+http://149.56.241.228:25461/loum/trialjan06/52766
+#EXTINF:-1, group-title="WORLD TV", FOX NEWS CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/52765
+#EXTINF:-1, group-title="WORLD TV", HEADLINE NEWS
+http://149.56.241.228:25461/loum/trialjan06/55182
+#EXTINF:-1, group-title="WORLD TV", MSNBC
+http://149.56.241.228:25461/loum/trialjan06/52763
+#EXTINF:-1, group-title="WORLD TV", The Weather Channel
+http://149.56.241.228:25461/loum/trialjan06/52762
+#EXTINF:-1, group-title="WORLD TV", CINEMAX
+http://149.56.241.228:25461/loum/trialjan06/101782
+#EXTINF:-1, group-title="WORLD TV", HBO
+http://149.56.241.228:25461/loum/trialjan06/101779
+#EXTINF:-1, group-title="WORLD TV", HBO COMEDY
+http://149.56.241.228:25461/loum/trialjan06/101777
+#EXTINF:-1, group-title="WORLD TV", USA: HBO Family
+http://149.56.241.228:25461/loum/trialjan06/101776
+#EXTINF:-1, group-title="WORLD TV", USA: HBO Signature
+http://149.56.241.228:25461/loum/trialjan06/101775
+#EXTINF:-1, group-title="WORLD TV", HBO ZONE
+http://149.56.241.228:25461/loum/trialjan06/101778
+#EXTINF:-1, group-title="WORLD TV", USA: Showtime
+http://149.56.241.228:25461/loum/trialjan06/101773
+#EXTINF:-1, group-title="WORLD TV", USA: Showtime 2
+http://149.56.241.228:25461/loum/trialjan06/101772
+#EXTINF:-1, group-title="WORLD TV", USA: Showtime Extreme
+http://149.56.241.228:25461/loum/trialjan06/101771
+#EXTINF:-1, group-title="WORLD TV", USA: Showtime Showcase
+http://149.56.241.228:25461/loum/trialjan06/101770
+#EXTINF:-1, group-title="WORLD TV", USA: Starz
+http://149.56.241.228:25461/loum/trialjan06/101769
+#EXTINF:-1, group-title="WORLD TV", USA: Starz Encore
+http://149.56.241.228:25461/loum/trialjan06/101768
+#EXTINF:-1, group-title="WORLD TV", USA: Starz Kids & Family
+http://149.56.241.228:25461/loum/trialjan06/101767
+#EXTINF:-1, group-title="WORLD TV", A&E
+http://149.56.241.228:25461/loum/trialjan06/71466
+#EXTINF:-1, group-title="WORLD TV", ABC 7 (NY)
+http://149.56.241.228:25461/loum/trialjan06/71455
+#EXTINF:-1, group-title="WORLD TV", ABC 7 (LA)
+http://149.56.241.228:25461/loum/trialjan06/71454
+#EXTINF:-1, group-title="WORLD TV", AMC
+http://149.56.241.228:25461/loum/trialjan06/71462
+#EXTINF:-1, group-title="WORLD TV", AMERICAN HEROES
+http://149.56.241.228:25461/loum/trialjan06/71460
+#EXTINF:-1, group-title="WORLD TV", ANIMAL PLANET.
+http://149.56.241.228:25461/loum/trialjan06/71458
+#EXTINF:-1, group-title="WORLD TV", AXS TV
+http://149.56.241.228:25461/loum/trialjan06/71457
+#EXTINF:-1, group-title="WORLD TV", BBC AMERICA
+http://149.56.241.228:25461/loum/trialjan06/52773
+#EXTINF:-1, group-title="WORLD TV", BET
+http://149.56.241.228:25461/loum/trialjan06/71448
+#EXTINF:-1, group-title="WORLD TV", BET HER
+http://149.56.241.228:25461/loum/trialjan06/71445
+#EXTINF:-1, group-title="WORLD TV", BET INTERNATIONAL
+http://149.56.241.228:25461/loum/trialjan06/71444
+#EXTINF:-1, group-title="WORLD TV", BOUNCE TV
+http://149.56.241.228:25461/loum/trialjan06/71441
+#EXTINF:-1, group-title="WORLD TV", BRAVO
+http://149.56.241.228:25461/loum/trialjan06/71439
+#EXTINF:-1, group-title="WORLD TV", BUZZER TV
+http://149.56.241.228:25461/loum/trialjan06/71437
+#EXTINF:-1, group-title="WORLD TV", CBS 2 (NY)
+http://149.56.241.228:25461/loum/trialjan06/71453
+#EXTINF:-1, group-title="WORLD TV", USN CBS 2 (LA)
+http://149.56.241.228:25461/loum/trialjan06/71452
+#EXTINF:-1, group-title="WORLD TV", CHEDDAR
+http://149.56.241.228:25461/loum/trialjan06/71433
+#EXTINF:-1, group-title="WORLD TV", COMEDY CENTRAL
+http://149.56.241.228:25461/loum/trialjan06/71431
+#EXTINF:-1, group-title="WORLD TV", COOKING CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71430
+#EXTINF:-1, group-title="WORLD TV", COZI TV
+http://149.56.241.228:25461/loum/trialjan06/71428
+#EXTINF:-1, group-title="WORLD TV", CRIME INVESTIGATION
+http://149.56.241.228:25461/loum/trialjan06/71427
+#EXTINF:-1, group-title="WORLD TV", CW (Central PA)
+http://149.56.241.228:25461/loum/trialjan06/71426
+#EXTINF:-1, group-title="WORLD TV", DESTINATION AMERICA
+http://149.56.241.228:25461/loum/trialjan06/71425
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71422
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY FAMILY
+http://149.56.241.228:25461/loum/trialjan06/71420
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY LIFE
+http://149.56.241.228:25461/loum/trialjan06/71423
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY SCIENCE
+http://149.56.241.228:25461/loum/trialjan06/71419
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY VELOCITY
+http://149.56.241.228:25461/loum/trialjan06/71424
+#EXTINF:-1, group-title="WORLD TV", USN:: DIY NETWORK
+http://149.56.241.228:25461/loum/trialjan06/71418
+#EXTINF:-1, group-title="WORLD TV", E! ENTERTAINMENT
+http://149.56.241.228:25461/loum/trialjan06/71417
+#EXTINF:-1, group-title="WORLD TV", EL REY NETWORK
+http://149.56.241.228:25461/loum/trialjan06/71416
+#EXTINF:-1, group-title="WORLD TV", FOOD NETWORK.
+http://149.56.241.228:25461/loum/trialjan06/71415
+#EXTINF:-1, group-title="WORLD TV", FOX 5 (NY)
+http://149.56.241.228:25461/loum/trialjan06/80755
+#EXTINF:-1, group-title="WORLD TV", FOX 11 (LA)
+http://149.56.241.228:25461/loum/trialjan06/71146
 #EXTINF:-1, group-title="WORLD TV", FREEFORM
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3436
-#EXTINF:-1, group-title="WORLD TV", US|Fusion
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3384
-#EXTINF:-1, group-title="WORLD TV", FX HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3435
+http://149.56.241.228:25461/loum/trialjan06/71393
+#EXTINF:-1, group-title="WORLD TV", FUEL TV |
+http://149.56.241.228:25461/loum/trialjan06/71395
+#EXTINF:-1, group-title="WORLD TV", FUSION..
+http://149.56.241.228:25461/loum/trialjan06/71394
+#EXTINF:-1, group-title="WORLD TV", FX
+http://149.56.241.228:25461/loum/trialjan06/71396
 #EXTINF:-1, group-title="WORLD TV", FXM
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3434
+http://149.56.241.228:25461/loum/trialjan06/71397
 #EXTINF:-1, group-title="WORLD TV", FXX
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3433
+http://149.56.241.228:25461/loum/trialjan06/71398
 #EXTINF:-1, group-title="WORLD TV", FYI
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3432
-#EXTINF:-1, group-title="WORLD TV", Game Show Network
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3612
-#EXTINF:-1, group-title="WORLD TV", HALLMARK
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3430
-#EXTINF:-1, group-title="WORLD TV", HALLMARK DRAMA | HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27303
-#EXTINF:-1, group-title="WORLD TV", HALLMARK M&M
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3428
-#EXTINF:-1, group-title="WORLD TV", HGTV HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3427
-#EXTINF:-1, group-title="WORLD TV", HISTORY HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3426
-#EXTINF:-1, group-title="WORLD TV", HISTORY 2 
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/29423
-#EXTINF:-1, group-title="WORLD TV", US|HLN
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3383
+http://149.56.241.228:25461/loum/trialjan06/71399
+#EXTINF:-1, group-title="WORLD TV", GAMESHOW NETWORK
+http://149.56.241.228:25461/loum/trialjan06/71400
+#EXTINF:-1, group-title="WORLD TV", GRIT
+http://149.56.241.228:25461/loum/trialjan06/71401
+#EXTINF:-1, group-title="WORLD TV", HALLMARK CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71402
+#EXTINF:-1, group-title="WORLD TV", HALLMARK DRAMA..
+http://149.56.241.228:25461/loum/trialjan06/71403
+#EXTINF:-1, group-title="WORLD TV", HALLMARK MOVIES & MYSTERIES
+http://149.56.241.228:25461/loum/trialjan06/71405
+#EXTINF:-1, group-title="WORLD TV", HGTV
+http://149.56.241.228:25461/loum/trialjan06/71407
+#EXTINF:-1, group-title="WORLD TV", HISTORY 2
+http://149.56.241.228:25461/loum/trialjan06/71408
+#EXTINF:-1, group-title="WORLD TV", HISTORY CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71409
+#EXTINF:-1, group-title="WORLD TV", HLN
+http://149.56.241.228:25461/loum/trialjan06/52764
+#EXTINF:-1, group-title="WORLD TV", HOME SHOPPING NETWORK
+http://149.56.241.228:25461/loum/trialjan06/71363
+#EXTINF:-1, group-title="WORLD TV", IFC
+http://149.56.241.228:25461/loum/trialjan06/71411
 #EXTINF:-1, group-title="WORLD TV", INVESTIGATION DISCOVERY
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3425
-#EXTINF:-1, group-title="WORLD TV", ION HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3424
+http://149.56.241.228:25461/loum/trialjan06/71412
+#EXTINF:-1, group-title="WORLD TV", ION
+http://149.56.241.228:25461/loum/trialjan06/71391
+#EXTINF:-1, group-title="WORLD TV", KEEP IT COUNTRY
+http://149.56.241.228:25461/loum/trialjan06/71390
+#EXTINF:-1, group-title="WORLD TV", KTLA 5 LOS ANGELES
+http://149.56.241.228:25461/loum/trialjan06/95940
 #EXTINF:-1, group-title="WORLD TV", LIFETIME
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3423
+http://149.56.241.228:25461/loum/trialjan06/71389
 #EXTINF:-1, group-title="WORLD TV", LIFETIME MOVIES
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3422
-#EXTINF:-1, group-title="WORLD TV",  ME TV | HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/18716
+http://149.56.241.228:25461/loum/trialjan06/71388
+#EXTINF:-1, group-title="WORLD TV", LOGO
+http://149.56.241.228:25461/loum/trialjan06/71387
+#EXTINF:-1, group-title="WORLD TV", ME TV
+http://149.56.241.228:25461/loum/trialjan06/71386
+#EXTINF:-1, group-title="WORLD TV", MGM
+http://149.56.241.228:25461/loum/trialjan06/71339
 #EXTINF:-1, group-title="WORLD TV", MTV
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3420
-#EXTINF:-1, group-title="WORLD TV", US|MGM
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3382
-#EXTINF:-1, group-title="WORLD TV", Nat Geo
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3419
-#EXTINF:-1, group-title="WORLD TV", NAT GEO WILD HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3418
-#EXTINF:-1, group-title="WORLD TV", NBC
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3417
-#EXTINF:-1, group-title="WORLD TV", NBC EAST HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3416
-#EXTINF:-1, group-title="WORLD TV", US|NBC Telemundo
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3380
-#EXTINF:-1, group-title="WORLD TV", Nick JR HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3415
-#EXTINF:-1, group-title="WORLD TV", NICK jr
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3414
-#EXTINF:-1, group-title="WORLD TV", NICKELODEON
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3413
+http://149.56.241.228:25461/loum/trialjan06/71383
+#EXTINF:-1, group-title="WORLD TV", MTV BASE
+http://149.56.241.228:25461/loum/trialjan06/71382
+#EXTINF:-1, group-title="WORLD TV", MTV LIVE
+http://149.56.241.228:25461/loum/trialjan06/71380
+#EXTINF:-1, group-title="WORLD TV", MY9
+http://149.56.241.228:25461/loum/trialjan06/71379
+#EXTINF:-1, group-title="WORLD TV", NAT GEO
+http://149.56.241.228:25461/loum/trialjan06/71378
+#EXTINF:-1, group-title="WORLD TV", NAT GEO WILD
+http://149.56.241.228:25461/loum/trialjan06/71377
+#EXTINF:-1, group-title="WORLD TV", NBC 4 (NY)
+http://149.56.241.228:25461/loum/trialjan06/71375
+#EXTINF:-1, group-title="WORLD TV", NBC 4 (LA)
+http://149.56.241.228:25461/loum/trialjan06/71374
+#EXTINF:-1, group-title="WORLD TV", OUTDOOR CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71373
 #EXTINF:-1, group-title="WORLD TV", OWN
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3412
-#EXTINF:-1, group-title="WORLD TV", OXYGEN HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3411
-#EXTINF:-1, group-title="WORLD TV", PBS FHD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3410
-#EXTINF:-1, group-title="WORLD TV", PBS KIDS
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3409
-#EXTINF:-1, group-title="WORLD TV", US|Sprout
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3379
-#EXTINF:-1, group-title="WORLD TV", SPIKE TV
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3408
+http://149.56.241.228:25461/loum/trialjan06/71372
+#EXTINF:-1, group-title="WORLD TV", OXYGEN
+http://149.56.241.228:25461/loum/trialjan06/71371
+#EXTINF:-1, group-title="WORLD TV", PARAMOUNT NETWORK
+http://149.56.241.228:25461/loum/trialjan06/71369
+#EXTINF:-1, group-title="WORLD TV", PEOPLE TV
+http://149.56.241.228:25461/loum/trialjan06/30522
+#EXTINF:-1, group-title="WORLD TV", QVC
+http://149.56.241.228:25461/loum/trialjan06/71366
+#EXTINF:-1, group-title="WORLD TV", RED BULL TV
+http://149.56.241.228:25461/loum/trialjan06/71365
+#EXTINF:-1, group-title="WORLD TV", REELZ
+http://149.56.241.228:25461/loum/trialjan06/71367
+#EXTINF:-1, group-title="WORLD TV", SMITHSONIAN CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71331
+#EXTINF:-1, group-title="WORLD TV", SONY MOVIE CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71362
+#EXTINF:-1, group-title="WORLD TV", START TV
+http://149.56.241.228:25461/loum/trialjan06/71392
+#EXTINF:-1, group-title="WORLD TV", SUNDANCE
+http://149.56.241.228:25461/loum/trialjan06/71361
 #EXTINF:-1, group-title="WORLD TV", SYFY
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3407
-#EXTINF:-1, group-title="WORLD TV", TBN
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3406
-#EXTINF:-1, group-title="WORLD TV", TBS HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3405
-#EXTINF:-1, group-title="WORLD TV", US|TCM
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3378
-#EXTINF:-1, group-title="WORLD TV", THE WEATHER CHANNEL
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3404
+http://149.56.241.228:25461/loum/trialjan06/71360
+#EXTINF:-1, group-title="WORLD TV", TBS
+http://149.56.241.228:25461/loum/trialjan06/71358
+#EXTINF:-1, group-title="WORLD TV", TCM
+http://149.56.241.228:25461/loum/trialjan06/71357
+#EXTINF:-1, group-title="WORLD TV", THE COWBOY CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/71337
 #EXTINF:-1, group-title="WORLD TV", TLC
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3403
+http://149.56.241.228:25461/loum/trialjan06/71354
 #EXTINF:-1, group-title="WORLD TV", TNT
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3402
+http://149.56.241.228:25461/loum/trialjan06/71353
 #EXTINF:-1, group-title="WORLD TV", TRAVEL CHANNEL
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3401
-#EXTINF:-1, group-title="WORLD TV", TRU TV
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3400
-#EXTINF:-1, group-title="WORLD TV", TV Land
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3399
+http://149.56.241.228:25461/loum/trialjan06/71352
+#EXTINF:-1, group-title="WORLD TV", TRUTV
+http://149.56.241.228:25461/loum/trialjan06/71351
+#EXTINF:-1, group-title="WORLD TV", TURNER CLASSIC MOVIES.
+http://149.56.241.228:25461/loum/trialjan06/71330
+#EXTINF:-1, group-title="WORLD TV", TV LAND
+http://149.56.241.228:25461/loum/trialjan06/71349
 #EXTINF:-1, group-title="WORLD TV", TV ONE
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3398
-#EXTINF:-1, group-title="WORLD TV", UNIVERSAL KIDS
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3397
-#EXTINF:-1, group-title="WORLD TV", USA Network HD
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3396
-#EXTINF:-1, group-title="WORLD TV", VELOCITY
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3395
-#EXTINF:-1, group-title="WORLD TV", VH1
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3394
+http://149.56.241.228:25461/loum/trialjan06/71348
+#EXTINF:-1, group-title="WORLD TV", UNIVISION LOS ANGELES
+http://149.56.241.228:25461/loum/trialjan06/71336
+#EXTINF:-1, group-title="WORLD TV", USA NETWORK
+http://149.56.241.228:25461/loum/trialjan06/71347
+#EXTINF:-1, group-title="WORLD TV", VH-1
+http://149.56.241.228:25461/loum/trialjan06/71346
 #EXTINF:-1, group-title="WORLD TV", VICELAND
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3393
-#EXTINF:-1, group-title="WORLD TV", YES NETWORK
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3392
+http://149.56.241.228:25461/loum/trialjan06/71345
+#EXTINF:-1, group-title="WORLD TV", WE TV
+http://149.56.241.228:25461/loum/trialjan06/71344
+#EXTINF:-1, group-title="WORLD TV", WGN (Chicago) | HD
+http://149.56.241.228:25461/loum/trialjan06/71343
+#EXTINF:-1, group-title="WORLD TV", WGN AMERICA
+http://149.56.241.228:25461/loum/trialjan06/71342
+#EXTINF:-1, group-title="WORLD TV", BEIN SPORT
+http://149.56.241.228:25461/loum/trialjan06/54773
+#EXTINF:-1, group-title="WORLD TV", BIG TEN NETWORK
+http://149.56.241.228:25461/loum/trialjan06/54772
+#EXTINF:-1, group-title="WORLD TV", CBS SPORTS NETWORK
+http://149.56.241.228:25461/loum/trialjan06/54771
+#EXTINF:-1, group-title="WORLD TV", Eleven Sports Network
+http://149.56.241.228:25461/loum/trialjan06/55189
+#EXTINF:-1, group-title="WORLD TV", ESPN
+http://149.56.241.228:25461/loum/trialjan06/54764
+#EXTINF:-1, group-title="WORLD TV", ESPN 2
+http://149.56.241.228:25461/loum/trialjan06/54763
+#EXTINF:-1, group-title="WORLD TV", ESPN 3
+http://149.56.241.228:25461/loum/trialjan06/54762
+#EXTINF:-1, group-title="WORLD TV", ESPN DEPORTES
+http://149.56.241.228:25461/loum/trialjan06/54760
+#EXTINF:-1, group-title="WORLD TV", ESPN News
+http://149.56.241.228:25461/loum/trialjan06/54759
+#EXTINF:-1, group-title="WORLD TV", ESPN U
+http://149.56.241.228:25461/loum/trialjan06/54758
+#EXTINF:-1, group-title="WORLD TV", FIGHT BOX
+http://149.56.241.228:25461/loum/trialjan06/54757
+#EXTINF:-1, group-title="WORLD TV", FOXDEPORTES
+http://149.56.241.228:25461/loum/trialjan06/54756
+#EXTINF:-1, group-title="WORLD TV", FOX SOCCER PLUS
+http://149.56.241.228:25461/loum/trialjan06/54755
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS 1
+http://149.56.241.228:25461/loum/trialjan06/54754
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS 2
+http://149.56.241.228:25461/loum/trialjan06/54753
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS ARIZONA
+http://149.56.241.228:25461/loum/trialjan06/65492
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS ATLANTA
+http://149.56.241.228:25461/loum/trialjan06/65485
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS CAROLINAS
+http://149.56.241.228:25461/loum/trialjan06/65461
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS CINCINNATI
+http://149.56.241.228:25461/loum/trialjan06/65484
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS CLEVELAND
+http://149.56.241.228:25461/loum/trialjan06/65483
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS DEPORTES
+http://149.56.241.228:25461/loum/trialjan06/65482
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS DETROIT
+http://149.56.241.228:25461/loum/trialjan06/65493
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS FLORIDA
+http://149.56.241.228:25461/loum/trialjan06/65491
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS INDIANA
+http://149.56.241.228:25461/loum/trialjan06/65480
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS KANSAS CITY
+http://149.56.241.228:25461/loum/trialjan06/65479
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS MIDWEST
+http://149.56.241.228:25461/loum/trialjan06/65494
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS NET
+http://149.56.241.228:25461/loum/trialjan06/65477
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS NEW ORLEANS
+http://149.56.241.228:25461/loum/trialjan06/65476
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS NORTH
+http://149.56.241.228:25461/loum/trialjan06/65490
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS OHIO
+http://149.56.241.228:25461/loum/trialjan06/65488
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS OKLAHOMA
+http://149.56.241.228:25461/loum/trialjan06/65473
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS PRIME TICKET
+http://149.56.241.228:25461/loum/trialjan06/65459
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SAN DIEGO
+http://149.56.241.228:25461/loum/trialjan06/65495
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTHEAST
+http://149.56.241.228:25461/loum/trialjan06/65486
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTH
+http://149.56.241.228:25461/loum/trialjan06/65457
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTHWEST
+http://149.56.241.228:25461/loum/trialjan06/65497
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTHWEST PLUS
+http://149.56.241.228:25461/loum/trialjan06/65458
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SPORTSTIME OHIO
+http://149.56.241.228:25461/loum/trialjan06/65468
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SUN
+http://149.56.241.228:25461/loum/trialjan06/65487
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS TENNESSEE
+http://149.56.241.228:25461/loum/trialjan06/65464
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS WEST
+http://149.56.241.228:25461/loum/trialjan06/65489
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS WISCONSIN
+http://149.56.241.228:25461/loum/trialjan06/65496
+#EXTINF:-1, group-title="WORLD TV", FOX SPORTS WISCONSIN PLUS
+http://149.56.241.228:25461/loum/trialjan06/65460
+#EXTINF:-1, group-title="WORLD TV", LONGHORN NETWORK
+http://149.56.241.228:25461/loum/trialjan06/54727
+#EXTINF:-1, group-title="WORLD TV", MAV TV
+http://149.56.241.228:25461/loum/trialjan06/82607
+#EXTINF:-1, group-title="WORLD TV", MOTORSPORT TV
+http://149.56.241.228:25461/loum/trialjan06/54725
+#EXTINF:-1, group-title="WORLD TV", MSG
+http://149.56.241.228:25461/loum/trialjan06/54724
+#EXTINF:-1, group-title="WORLD TV", NEW ENGLAND SPORTS NETWORK
+http://149.56.241.228:25461/loum/trialjan06/54806
+#EXTINF:-1, group-title="WORLD TV", NBC GOLF CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/54722
+#EXTINF:-1, group-title="WORLD TV", NBC SPORTS BAY AREA
+http://149.56.241.228:25461/loum/trialjan06/54770
+#EXTINF:-1, group-title="WORLD TV", NBC SPORTS BOSTON
+http://149.56.241.228:25461/loum/trialjan06/54769
+#EXTINF:-1, group-title="WORLD TV", NBC SPORTS CALIFORNIA
+http://149.56.241.228:25461/loum/trialjan06/54768
+#EXTINF:-1, group-title="WORLD TV", NBC SPORTS CHICAGO
+http://149.56.241.228:25461/loum/trialjan06/54767
+#EXTINF:-1, group-title="WORLD TV", NBC SPORTS NETWORK
+http://149.56.241.228:25461/loum/trialjan06/54717
+#EXTINF:-1, group-title="WORLD TV", NBC SPORTS NORTHWEST
+http://149.56.241.228:25461/loum/trialjan06/54766
+#EXTINF:-1, group-title="WORLD TV", NBC SPORTS PHILLY
+http://149.56.241.228:25461/loum/trialjan06/54765
+#EXTINF:-1, group-title="WORLD TV", OLYMPIC CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/55185
+#EXTINF:-1, group-title="WORLD TV", OUTDOOR CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/54715
+#EXTINF:-1, group-title="WORLD TV", RED BULL TV
+http://149.56.241.228:25461/loum/trialjan06/54707
+#EXTINF:-1, group-title="WORLD TV", SBG STADIUM 2
+http://149.56.241.228:25461/loum/trialjan06/65504
+#EXTINF:-1, group-title="WORLD TV", SEC NETWORK
+http://149.56.241.228:25461/loum/trialjan06/54705
+#EXTINF:-1, group-title="WORLD TV", SNY
+http://149.56.241.228:25461/loum/trialjan06/54716
+#EXTINF:-1, group-title="WORLD TV", SPORTSMAN CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/54703
+#EXTINF:-1, group-title="WORLD TV", SPORTSNET NY
+http://149.56.241.228:25461/loum/trialjan06/54701
+#EXTINF:-1, group-title="WORLD TV", TENNIS CHANNEL
+http://149.56.241.228:25461/loum/trialjan06/54700
+#EXTINF:-1, group-title="WORLD TV", WWE
+http://149.56.241.228:25461/loum/trialjan06/51725
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
