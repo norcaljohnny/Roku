@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,group-title="WORLD TV", ESPN 
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6378
+#EXTINF:-1,group-title="WORLD TV", FOX SPORTS 1 
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6352
+#EXTINF:-1,group-title="WORLD TV", FOX SPORTS 2 
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6350
+#EXTINF:-1,group-title="WORLD TV", NBA TV
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6391
 #EXTINF:-1, group-title="WORLD TV", A&E
 http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3464
 #EXTINF:-1, group-title="WORLD TV", ABC
