@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Hornets@Nuggets
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/5005
-#EXTINF:-1, group-title="NBA LIVE", Jazz@Pistons
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6343
-#EXTINF:-1, group-title="NBA LIVE", Mavs@76ers
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6380
-#EXTINF:-1, group-title="NBA LIVE", Pelicans@Cavs
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6344
-#EXTINF:-1, group-title="NBA LIVE", Raptors@Bucks
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6321
-#EXTINF:-1, group-title="NBA LIVE", Grizzlies@Spurs
-http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/23291
 #EXTINF:-1, group-title="NBA LIVE", Rockets@Blazers
 http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/6298
 #EXTINF:-1, group-title="NBA LIVE", Warriors@Kings
