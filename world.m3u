@@ -1,34 +1,178 @@
 #EXTM3U
-#EXTINF:-1, group-title="WORLD TV", ABC News
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/399
-#EXTINF:-1, group-title="WORLD TV", CNN HD
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/32
-#EXTINF:-1, group-title="WORLD TV", BBC WORLD NEWS
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/518
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY CHANNEL
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/395
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY SCIENCE
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/393
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY SHOWCASE
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/394
-#EXTINF:-1, group-title="WORLD TV", E!
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/392
-#EXTINF:-1, group-title="WORLD TV", ESPN HD
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/391
-#EXTINF:-1, group-title="WORLD TV", Fine Living
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/389
+#EXTINF:-1, group-title="WORLD TV", A&E
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3464
+#EXTINF:-1, group-title="WORLD TV", ABC
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3463
+#EXTINF:-1, group-title="WORLD TV", Adult Swim Channel
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3462
+#EXTINF:-1, group-title="WORLD TV", AMC | HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/29438
+#EXTINF:-1, group-title="WORLD TV", American Heroes
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3391
+#EXTINF:-1, group-title="WORLD TV", ANIMAL PLANET HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3460
+#EXTINF:-1, group-title="WORLD TV", ANTENNA TV | SD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27483
+#EXTINF:-1, group-title="WORLD TV", AXS TV | HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27484
+#EXTINF:-1, group-title="WORLD TV", BBC AMERICA
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27481
+#EXTINF:-1, group-title="WORLD TV", BET
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3459
+#EXTINF:-1, group-title="WORLD TV", BET her
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3458
+#EXTINF:-1, group-title="WORLD TV", BOUNCE TV 
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/7838
+#EXTINF:-1, group-title="WORLD TV", BOOMERANG
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3457
+#EXTINF:-1, group-title="WORLD TV", BRAVO HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3456
+#EXTINF:-1, group-title="WORLD TV", Cartoon Network Pacific
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3481
+#EXTINF:-1, group-title="WORLD TV", CARTOON NETWORK
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3455
+#EXTINF:-1, group-title="WORLD TV", CBS
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3454
+#EXTINF:-1, group-title="WORLD TV", CMT
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3390
+#EXTINF:-1, group-title="WORLD TV", COMEDY CENTRAL HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3453
+#EXTINF:-1, group-title="WORLD TV", COOKING CHANNEL HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3452
+#EXTINF:-1, group-title="WORLD TV", CW HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3450
+#EXTINF:-1, group-title="WORLD TV", Destination America
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3448
+#EXTINF:-1, group-title="WORLD TV", Discovery Channel HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3447
+#EXTINF:-1, group-title="WORLD TV", Discovery Science HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3446
+#EXTINF:-1, group-title="WORLD TV", Discovery Family
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3389
+#EXTINF:-1, group-title="WORLD TV", Disney Channel
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3388
+#EXTINF:-1, group-title="WORLD TV", Disney Junior Pacific
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3386
+#EXTINF:-1, group-title="WORLD TV", US|Disney XD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3385
+#EXTINF:-1, group-title="WORLD TV", DIY Network HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3445
+#EXTINF:-1, group-title="WORLD TV", E! Entertainment
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3443
+#EXTINF:-1, group-title="WORLD TV", EL REY NETWORK (FHD)
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3442
 #EXTINF:-1, group-title="WORLD TV", FOOD NETWORK
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/390
-#EXTINF:-1, group-title="WORLD TV", FOX NEWS HD
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/106
-#EXTINF:-1, group-title="WORLD TV", HBO COMEDY
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/296
-#EXTINF:-1, group-title="WORLD TV", HISTORY
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/388
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3441
+#EXTINF:-1, group-title="WORLD TV", Food Network HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3440
+#EXTINF:-1, group-title="WORLD TV", FOX BUSINESS
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3438
+#EXTINF:-1, group-title="WORLD TV", FOX FHD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3437
+#EXTINF:-1, group-title="WORLD TV", FREEFORM
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3436
+#EXTINF:-1, group-title="WORLD TV", US|Fusion
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3384
+#EXTINF:-1, group-title="WORLD TV", FX HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3435
+#EXTINF:-1, group-title="WORLD TV", FXM
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3434
+#EXTINF:-1, group-title="WORLD TV", FXX
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3433
+#EXTINF:-1, group-title="WORLD TV", FYI
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3432
+#EXTINF:-1, group-title="WORLD TV", Game Show Network
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3612
+#EXTINF:-1, group-title="WORLD TV", HALLMARK
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3430
+#EXTINF:-1, group-title="WORLD TV", HALLMARK DRAMA | HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/27303
+#EXTINF:-1, group-title="WORLD TV", HALLMARK M&M
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3428
+#EXTINF:-1, group-title="WORLD TV", HGTV HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3427
+#EXTINF:-1, group-title="WORLD TV", HISTORY HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3426
+#EXTINF:-1, group-title="WORLD TV",  HISTORY 2 | HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/29423
+#EXTINF:-1, group-title="WORLD TV", US|HLN
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3383
+#EXTINF:-1, group-title="WORLD TV", INVESTIGATION DISCOVERY
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3425
+#EXTINF:-1, group-title="WORLD TV", ION HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3424
+#EXTINF:-1, group-title="WORLD TV", LIFETIME
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3423
+#EXTINF:-1, group-title="WORLD TV", LIFETIME MOVIES
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3422
+#EXTINF:-1, group-title="WORLD TV",  ME TV | HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/18716
+#EXTINF:-1, group-title="WORLD TV", MTV
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3420
+#EXTINF:-1, group-title="WORLD TV", US|MGM
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3382
+#EXTINF:-1, group-title="WORLD TV", Nat Geo
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3419
+#EXTINF:-1, group-title="WORLD TV", NAT GEO WILD HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3418
+#EXTINF:-1, group-title="WORLD TV", NBC
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3417
+#EXTINF:-1, group-title="WORLD TV", NBC EAST HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3416
+#EXTINF:-1, group-title="WORLD TV", US|NBC Telemundo
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3380
+#EXTINF:-1, group-title="WORLD TV", Nick JR HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3415
+#EXTINF:-1, group-title="WORLD TV", NICK jr
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3414
 #EXTINF:-1, group-title="WORLD TV", NICKELODEON
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/387
-#EXTINF:-1, group-title="WORLD TV", VH1 CLASSIC
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/386
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3413
+#EXTINF:-1, group-title="WORLD TV", OWN
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3412
+#EXTINF:-1, group-title="WORLD TV", OXYGEN HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3411
+#EXTINF:-1, group-title="WORLD TV", PBS FHD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3410
+#EXTINF:-1, group-title="WORLD TV", PBS KIDS
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3409
+#EXTINF:-1, group-title="WORLD TV", US|Sprout
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3379
+#EXTINF:-1, group-title="WORLD TV", SPIKE TV
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3408
+#EXTINF:-1, group-title="WORLD TV", SYFY
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3407
+#EXTINF:-1, group-title="WORLD TV", TBN
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3406
+#EXTINF:-1, group-title="WORLD TV", TBS HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3405
+#EXTINF:-1, group-title="WORLD TV", US|TCM
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3378
+#EXTINF:-1, group-title="WORLD TV", THE WEATHER CHANNEL
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3404
+#EXTINF:-1, group-title="WORLD TV", TLC
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3403
+#EXTINF:-1, group-title="WORLD TV", TNT
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3402
+#EXTINF:-1, group-title="WORLD TV", TRAVEL CHANNEL
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3401
+#EXTINF:-1, group-title="WORLD TV", TRU TV
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3400
+#EXTINF:-1, group-title="WORLD TV", TV Land
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3399
+#EXTINF:-1, group-title="WORLD TV", TV ONE
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3398
+#EXTINF:-1, group-title="WORLD TV", UNIVERSAL KIDS
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3397
+#EXTINF:-1, group-title="WORLD TV", USA Network HD
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3396
+#EXTINF:-1, group-title="WORLD TV", VELOCITY
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3395
+#EXTINF:-1, group-title="WORLD TV", VH1
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3394
+#EXTINF:-1, group-title="WORLD TV", VICELAND
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3393
+#EXTINF:-1, group-title="WORLD TV", YES NETWORK
+http://thenew.tv:8000/LLMjsdsbsG/5OvMOYxVZC/3392
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
