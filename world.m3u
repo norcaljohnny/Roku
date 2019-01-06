@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Nets@Bulls
-http://rondoz.xyz/hls/preview.m3u8
+http://wizardz.xyz/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Lakers@TWolves
-http://rondoz.xyz/hls/preview.m3u8
+http://cavaliersz.xyz/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Magic@Clippers
-http://rondoz.xyz/hls/preview.m3u8
+http://allenz.xyz/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Heat@Hawks
 http://149.56.241.228:25461/loum/trialjan06/65487
 #EXTINF:-1, group-title="NBA LIVE", Wizards@Thunder
