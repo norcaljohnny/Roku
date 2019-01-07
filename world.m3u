@@ -1,382 +1,232 @@
 #EXTM3U
-#EXTINF:-1, group-title="WORLD TV", Bloomberg TV
-http://149.56.241.228:25461/loum/trialjan06/52772
-#EXTINF:-1, group-title="WORLD TV", BNN
-http://149.56.241.228:25461/loum/trialjan06/52771
-#EXTINF:-1, group-title="WORLD TV", CBSN
-http://149.56.241.228:25461/loum/trialjan06/52770
-#EXTINF:-1, group-title="WORLD TV", CNBC
-http://149.56.241.228:25461/loum/trialjan06/52769
-#EXTINF:-1, group-title="WORLD TV", CNBC WORLD
-http://149.56.241.228:25461/loum/trialjan06/52768
-#EXTINF:-1, group-title="WORLD TV", CNN
-http://149.56.241.228:25461/loum/trialjan06/52767
-#EXTINF:-1, group-title="WORLD TV", FOX BUSINESS
-http://149.56.241.228:25461/loum/trialjan06/52766
-#EXTINF:-1, group-title="WORLD TV", FOX NEWS CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/52765
-#EXTINF:-1, group-title="WORLD TV", HEADLINE NEWS
-http://149.56.241.228:25461/loum/trialjan06/55182
-#EXTINF:-1, group-title="WORLD TV", MSNBC
-http://149.56.241.228:25461/loum/trialjan06/52763
-#EXTINF:-1, group-title="WORLD TV", The Weather Channel
-http://149.56.241.228:25461/loum/trialjan06/52762
-#EXTINF:-1, group-title="WORLD TV", CINEMAX
-http://149.56.241.228:25461/loum/trialjan06/101782
-#EXTINF:-1, group-title="WORLD TV", HBO
-http://149.56.241.228:25461/loum/trialjan06/101779
-#EXTINF:-1, group-title="WORLD TV", HBO COMEDY
-http://149.56.241.228:25461/loum/trialjan06/101777
-#EXTINF:-1, group-title="WORLD TV", USA: HBO Family
-http://149.56.241.228:25461/loum/trialjan06/101776
-#EXTINF:-1, group-title="WORLD TV", USA: HBO Signature
-http://149.56.241.228:25461/loum/trialjan06/101775
-#EXTINF:-1, group-title="WORLD TV", HBO ZONE
-http://149.56.241.228:25461/loum/trialjan06/101778
-#EXTINF:-1, group-title="WORLD TV", Showtime
-http://149.56.241.228:25461/loum/trialjan06/101773
-#EXTINF:-1, group-title="WORLD TV", Showtime 2
-http://149.56.241.228:25461/loum/trialjan06/101772
-#EXTINF:-1, group-title="WORLD TV", Showtime Extreme
-http://149.56.241.228:25461/loum/trialjan06/101771
-#EXTINF:-1, group-title="WORLD TV", Showtime Showcase
-http://149.56.241.228:25461/loum/trialjan06/101770
-#EXTINF:-1, group-title="WORLD TV", Starz
-http://149.56.241.228:25461/loum/trialjan06/101769
-#EXTINF:-1, group-title="WORLD TV", Starz Encore
-http://149.56.241.228:25461/loum/trialjan06/101768
-#EXTINF:-1, group-title="WORLD TV", Starz Kids & Family
-http://149.56.241.228:25461/loum/trialjan06/101767
-#EXTINF:-1, group-title="WORLD TV", A&E
-http://149.56.241.228:25461/loum/trialjan06/71466
-#EXTINF:-1, group-title="WORLD TV", ABC 7 (NY)
-http://149.56.241.228:25461/loum/trialjan06/71455
-#EXTINF:-1, group-title="WORLD TV", ABC 7 (LA)
-http://149.56.241.228:25461/loum/trialjan06/71454
-#EXTINF:-1, group-title="WORLD TV", AMC
-http://149.56.241.228:25461/loum/trialjan06/71462
-#EXTINF:-1, group-title="WORLD TV", AMERICAN HEROES
-http://149.56.241.228:25461/loum/trialjan06/71460
-#EXTINF:-1, group-title="WORLD TV", ANIMAL PLANET.
-http://149.56.241.228:25461/loum/trialjan06/71458
-#EXTINF:-1, group-title="WORLD TV", AXS TV
-http://149.56.241.228:25461/loum/trialjan06/71457
-#EXTINF:-1, group-title="WORLD TV", BBC AMERICA
-http://149.56.241.228:25461/loum/trialjan06/52773
-#EXTINF:-1, group-title="WORLD TV", BET
-http://149.56.241.228:25461/loum/trialjan06/71448
-#EXTINF:-1, group-title="WORLD TV", BET HER
-http://149.56.241.228:25461/loum/trialjan06/71445
-#EXTINF:-1, group-title="WORLD TV", BET INTERNATIONAL
-http://149.56.241.228:25461/loum/trialjan06/71444
-#EXTINF:-1, group-title="WORLD TV", BOUNCE TV
-http://149.56.241.228:25461/loum/trialjan06/71441
-#EXTINF:-1, group-title="WORLD TV", BRAVO
-http://149.56.241.228:25461/loum/trialjan06/71439
-#EXTINF:-1, group-title="WORLD TV", BUZZER TV
-http://149.56.241.228:25461/loum/trialjan06/71437
-#EXTINF:-1, group-title="WORLD TV", CBS 2 (NY)
-http://149.56.241.228:25461/loum/trialjan06/71453
-#EXTINF:-1, group-title="WORLD TV", USN CBS 2 (LA)
-http://149.56.241.228:25461/loum/trialjan06/71452
-#EXTINF:-1, group-title="WORLD TV", CHEDDAR
-http://149.56.241.228:25461/loum/trialjan06/71433
-#EXTINF:-1, group-title="WORLD TV", COMEDY CENTRAL
-http://149.56.241.228:25461/loum/trialjan06/71431
-#EXTINF:-1, group-title="WORLD TV", COOKING CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71430
-#EXTINF:-1, group-title="WORLD TV", COZI TV
-http://149.56.241.228:25461/loum/trialjan06/71428
-#EXTINF:-1, group-title="WORLD TV", CRIME INVESTIGATION
-http://149.56.241.228:25461/loum/trialjan06/71427
-#EXTINF:-1, group-title="WORLD TV", CW (Central PA)
-http://149.56.241.228:25461/loum/trialjan06/71426
-#EXTINF:-1, group-title="WORLD TV", DESTINATION AMERICA
-http://149.56.241.228:25461/loum/trialjan06/71425
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71422
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY FAMILY
-http://149.56.241.228:25461/loum/trialjan06/71420
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY LIFE
-http://149.56.241.228:25461/loum/trialjan06/71423
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY SCIENCE
-http://149.56.241.228:25461/loum/trialjan06/71419
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY VELOCITY
-http://149.56.241.228:25461/loum/trialjan06/71424
-#EXTINF:-1, group-title="WORLD TV", DIY NETWORK
-http://149.56.241.228:25461/loum/trialjan06/71418
-#EXTINF:-1, group-title="WORLD TV", E! ENTERTAINMENT
-http://149.56.241.228:25461/loum/trialjan06/71417
-#EXTINF:-1, group-title="WORLD TV", EL REY NETWORK
-http://149.56.241.228:25461/loum/trialjan06/71416
-#EXTINF:-1, group-title="WORLD TV", FOOD NETWORK.
-http://149.56.241.228:25461/loum/trialjan06/71415
-#EXTINF:-1, group-title="WORLD TV", FOX 5 (NY)
-http://149.56.241.228:25461/loum/trialjan06/80755
-#EXTINF:-1, group-title="WORLD TV", FOX 11 (LA)
-http://149.56.241.228:25461/loum/trialjan06/71146
-#EXTINF:-1, group-title="WORLD TV", FREEFORM
-http://149.56.241.228:25461/loum/trialjan06/71393
-#EXTINF:-1, group-title="WORLD TV", FUEL TV |
-http://149.56.241.228:25461/loum/trialjan06/71395
-#EXTINF:-1, group-title="WORLD TV", FUSION..
-http://149.56.241.228:25461/loum/trialjan06/71394
-#EXTINF:-1, group-title="WORLD TV", FX
-http://149.56.241.228:25461/loum/trialjan06/71396
-#EXTINF:-1, group-title="WORLD TV", FXM
-http://149.56.241.228:25461/loum/trialjan06/71397
-#EXTINF:-1, group-title="WORLD TV", FXX
-http://149.56.241.228:25461/loum/trialjan06/71398
-#EXTINF:-1, group-title="WORLD TV", FYI
-http://149.56.241.228:25461/loum/trialjan06/71399
-#EXTINF:-1, group-title="WORLD TV", GAMESHOW NETWORK
-http://149.56.241.228:25461/loum/trialjan06/71400
-#EXTINF:-1, group-title="WORLD TV", GRIT
-http://149.56.241.228:25461/loum/trialjan06/71401
-#EXTINF:-1, group-title="WORLD TV", HALLMARK CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71402
-#EXTINF:-1, group-title="WORLD TV", HALLMARK DRAMA..
-http://149.56.241.228:25461/loum/trialjan06/71403
-#EXTINF:-1, group-title="WORLD TV", HALLMARK MOVIES & MYSTERIES
-http://149.56.241.228:25461/loum/trialjan06/71405
-#EXTINF:-1, group-title="WORLD TV", HGTV
-http://149.56.241.228:25461/loum/trialjan06/71407
-#EXTINF:-1, group-title="WORLD TV", HISTORY 2
-http://149.56.241.228:25461/loum/trialjan06/71408
-#EXTINF:-1, group-title="WORLD TV", HISTORY CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71409
-#EXTINF:-1, group-title="WORLD TV", HLN
-http://149.56.241.228:25461/loum/trialjan06/52764
-#EXTINF:-1, group-title="WORLD TV", HOME SHOPPING NETWORK
-http://149.56.241.228:25461/loum/trialjan06/71363
-#EXTINF:-1, group-title="WORLD TV", IFC
-http://149.56.241.228:25461/loum/trialjan06/71411
-#EXTINF:-1, group-title="WORLD TV", INVESTIGATION DISCOVERY
-http://149.56.241.228:25461/loum/trialjan06/71412
-#EXTINF:-1, group-title="WORLD TV", ION
-http://149.56.241.228:25461/loum/trialjan06/71391
-#EXTINF:-1, group-title="WORLD TV", KEEP IT COUNTRY
-http://149.56.241.228:25461/loum/trialjan06/71390
-#EXTINF:-1, group-title="WORLD TV", KTLA 5 LOS ANGELES
-http://149.56.241.228:25461/loum/trialjan06/95940
-#EXTINF:-1, group-title="WORLD TV", LIFETIME
-http://149.56.241.228:25461/loum/trialjan06/71389
-#EXTINF:-1, group-title="WORLD TV", LIFETIME MOVIES
-http://149.56.241.228:25461/loum/trialjan06/71388
-#EXTINF:-1, group-title="WORLD TV", LOGO
-http://149.56.241.228:25461/loum/trialjan06/71387
-#EXTINF:-1, group-title="WORLD TV", ME TV
-http://149.56.241.228:25461/loum/trialjan06/71386
-#EXTINF:-1, group-title="WORLD TV", MGM
-http://149.56.241.228:25461/loum/trialjan06/71339
-#EXTINF:-1, group-title="WORLD TV", MTV
-http://149.56.241.228:25461/loum/trialjan06/71383
-#EXTINF:-1, group-title="WORLD TV", MTV BASE
-http://149.56.241.228:25461/loum/trialjan06/71382
-#EXTINF:-1, group-title="WORLD TV", MTV LIVE
-http://149.56.241.228:25461/loum/trialjan06/71380
-#EXTINF:-1, group-title="WORLD TV", MY9
-http://149.56.241.228:25461/loum/trialjan06/71379
-#EXTINF:-1, group-title="WORLD TV", NAT GEO
-http://149.56.241.228:25461/loum/trialjan06/71378
-#EXTINF:-1, group-title="WORLD TV", NAT GEO WILD
-http://149.56.241.228:25461/loum/trialjan06/71377
-#EXTINF:-1, group-title="WORLD TV", NBC 4 (NY)
-http://149.56.241.228:25461/loum/trialjan06/71375
-#EXTINF:-1, group-title="WORLD TV", NBC 4 (LA)
-http://149.56.241.228:25461/loum/trialjan06/71374
-#EXTINF:-1, group-title="WORLD TV", OUTDOOR CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71373
-#EXTINF:-1, group-title="WORLD TV", OWN
-http://149.56.241.228:25461/loum/trialjan06/71372
-#EXTINF:-1, group-title="WORLD TV", OXYGEN
-http://149.56.241.228:25461/loum/trialjan06/71371
-#EXTINF:-1, group-title="WORLD TV", PARAMOUNT NETWORK
-http://149.56.241.228:25461/loum/trialjan06/71369
-#EXTINF:-1, group-title="WORLD TV", PEOPLE TV
-http://149.56.241.228:25461/loum/trialjan06/30522
-#EXTINF:-1, group-title="WORLD TV", QVC
-http://149.56.241.228:25461/loum/trialjan06/71366
-#EXTINF:-1, group-title="WORLD TV", RED BULL TV
-http://149.56.241.228:25461/loum/trialjan06/71365
-#EXTINF:-1, group-title="WORLD TV", REELZ
-http://149.56.241.228:25461/loum/trialjan06/71367
-#EXTINF:-1, group-title="WORLD TV", SMITHSONIAN CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71331
-#EXTINF:-1, group-title="WORLD TV", SONY MOVIE CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71362
-#EXTINF:-1, group-title="WORLD TV", START TV
-http://149.56.241.228:25461/loum/trialjan06/71392
-#EXTINF:-1, group-title="WORLD TV", SUNDANCE
-http://149.56.241.228:25461/loum/trialjan06/71361
-#EXTINF:-1, group-title="WORLD TV", SYFY
-http://149.56.241.228:25461/loum/trialjan06/71360
-#EXTINF:-1, group-title="WORLD TV", TBS
-http://149.56.241.228:25461/loum/trialjan06/71358
-#EXTINF:-1, group-title="WORLD TV", TCM
-http://149.56.241.228:25461/loum/trialjan06/71357
-#EXTINF:-1, group-title="WORLD TV", THE COWBOY CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71337
-#EXTINF:-1, group-title="WORLD TV", TLC
-http://149.56.241.228:25461/loum/trialjan06/71354
-#EXTINF:-1, group-title="WORLD TV", TNT
-http://149.56.241.228:25461/loum/trialjan06/71353
-#EXTINF:-1, group-title="WORLD TV", TRAVEL CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/71352
-#EXTINF:-1, group-title="WORLD TV", TRUTV
-http://149.56.241.228:25461/loum/trialjan06/71351
-#EXTINF:-1, group-title="WORLD TV", TURNER CLASSIC MOVIES.
-http://149.56.241.228:25461/loum/trialjan06/71330
-#EXTINF:-1, group-title="WORLD TV", TV LAND
-http://149.56.241.228:25461/loum/trialjan06/71349
-#EXTINF:-1, group-title="WORLD TV", TV ONE
-http://149.56.241.228:25461/loum/trialjan06/71348
-#EXTINF:-1, group-title="WORLD TV", UNIVISION LOS ANGELES
-http://149.56.241.228:25461/loum/trialjan06/71336
-#EXTINF:-1, group-title="WORLD TV", USA NETWORK
-http://149.56.241.228:25461/loum/trialjan06/71347
-#EXTINF:-1, group-title="WORLD TV", VH-1
-http://149.56.241.228:25461/loum/trialjan06/71346
-#EXTINF:-1, group-title="WORLD TV", VICELAND
-http://149.56.241.228:25461/loum/trialjan06/71345
-#EXTINF:-1, group-title="WORLD TV", WE TV
-http://149.56.241.228:25461/loum/trialjan06/71344
-#EXTINF:-1, group-title="WORLD TV", WGN (Chicago) | HD
-http://149.56.241.228:25461/loum/trialjan06/71343
-#EXTINF:-1, group-title="WORLD TV", WGN AMERICA
-http://149.56.241.228:25461/loum/trialjan06/71342
-#EXTINF:-1, group-title="WORLD TV", BEIN SPORT
-http://149.56.241.228:25461/loum/trialjan06/54773
-#EXTINF:-1, group-title="WORLD TV", BIG TEN NETWORK
-http://149.56.241.228:25461/loum/trialjan06/54772
-#EXTINF:-1, group-title="WORLD TV", CBS SPORTS NETWORK
-http://149.56.241.228:25461/loum/trialjan06/54771
-#EXTINF:-1, group-title="WORLD TV", Eleven Sports Network
-http://149.56.241.228:25461/loum/trialjan06/55189
-#EXTINF:-1, group-title="WORLD TV", ESPN
-http://149.56.241.228:25461/loum/trialjan06/54764
-#EXTINF:-1, group-title="WORLD TV", ESPN 2
-http://149.56.241.228:25461/loum/trialjan06/54763
-#EXTINF:-1, group-title="WORLD TV", ESPN 3
-http://149.56.241.228:25461/loum/trialjan06/54762
-#EXTINF:-1, group-title="WORLD TV", ESPN DEPORTES
-http://149.56.241.228:25461/loum/trialjan06/54760
-#EXTINF:-1, group-title="WORLD TV", ESPN News
-http://149.56.241.228:25461/loum/trialjan06/54759
-#EXTINF:-1, group-title="WORLD TV", ESPN U
-http://149.56.241.228:25461/loum/trialjan06/54758
-#EXTINF:-1, group-title="WORLD TV", FIGHT BOX
-http://149.56.241.228:25461/loum/trialjan06/54757
-#EXTINF:-1, group-title="WORLD TV", FOXDEPORTES
-http://149.56.241.228:25461/loum/trialjan06/54756
-#EXTINF:-1, group-title="WORLD TV", FOX SOCCER PLUS
-http://149.56.241.228:25461/loum/trialjan06/54755
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS 1
-http://149.56.241.228:25461/loum/trialjan06/54754
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS 2
-http://149.56.241.228:25461/loum/trialjan06/54753
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS ARIZONA
-http://149.56.241.228:25461/loum/trialjan06/65492
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS ATLANTA
-http://149.56.241.228:25461/loum/trialjan06/65485
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS CAROLINAS
-http://149.56.241.228:25461/loum/trialjan06/65461
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS CINCINNATI
-http://149.56.241.228:25461/loum/trialjan06/65484
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS CLEVELAND
-http://149.56.241.228:25461/loum/trialjan06/65483
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS DEPORTES
-http://149.56.241.228:25461/loum/trialjan06/65482
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS DETROIT
-http://149.56.241.228:25461/loum/trialjan06/65493
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS FLORIDA
-http://149.56.241.228:25461/loum/trialjan06/65491
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS INDIANA
-http://149.56.241.228:25461/loum/trialjan06/65480
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS KANSAS CITY
-http://149.56.241.228:25461/loum/trialjan06/65479
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS MIDWEST
-http://149.56.241.228:25461/loum/trialjan06/65494
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS NET
-http://149.56.241.228:25461/loum/trialjan06/65477
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS NEW ORLEANS
-http://149.56.241.228:25461/loum/trialjan06/65476
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS NORTH
-http://149.56.241.228:25461/loum/trialjan06/65490
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS OHIO
-http://149.56.241.228:25461/loum/trialjan06/65488
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS OKLAHOMA
-http://149.56.241.228:25461/loum/trialjan06/65473
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS PRIME TICKET
-http://149.56.241.228:25461/loum/trialjan06/65459
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SAN DIEGO
-http://149.56.241.228:25461/loum/trialjan06/65495
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTHEAST
-http://149.56.241.228:25461/loum/trialjan06/65486
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTH
-http://149.56.241.228:25461/loum/trialjan06/65457
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTHWEST
-http://149.56.241.228:25461/loum/trialjan06/65497
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SOUTHWEST PLUS
-http://149.56.241.228:25461/loum/trialjan06/65458
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SPORTSTIME OHIO
-http://149.56.241.228:25461/loum/trialjan06/65468
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS SUN
-http://149.56.241.228:25461/loum/trialjan06/65487
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS TENNESSEE
-http://149.56.241.228:25461/loum/trialjan06/65464
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS WEST
-http://149.56.241.228:25461/loum/trialjan06/65489
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS WISCONSIN
-http://149.56.241.228:25461/loum/trialjan06/65496
-#EXTINF:-1, group-title="WORLD TV", FOX SPORTS WISCONSIN PLUS
-http://149.56.241.228:25461/loum/trialjan06/65460
-#EXTINF:-1, group-title="WORLD TV", LONGHORN NETWORK
-http://149.56.241.228:25461/loum/trialjan06/54727
-#EXTINF:-1, group-title="WORLD TV", MAV TV
-http://149.56.241.228:25461/loum/trialjan06/82607
-#EXTINF:-1, group-title="WORLD TV", MOTORSPORT TV
-http://149.56.241.228:25461/loum/trialjan06/54725
-#EXTINF:-1, group-title="WORLD TV", MSG
-http://149.56.241.228:25461/loum/trialjan06/54724
-#EXTINF:-1, group-title="WORLD TV", NEW ENGLAND SPORTS NETWORK
-http://149.56.241.228:25461/loum/trialjan06/54806
-#EXTINF:-1, group-title="WORLD TV", NBC GOLF CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/54722
-#EXTINF:-1, group-title="WORLD TV", NBC SPORTS BAY AREA
-http://149.56.241.228:25461/loum/trialjan06/54770
-#EXTINF:-1, group-title="WORLD TV", NBC SPORTS BOSTON
-http://149.56.241.228:25461/loum/trialjan06/54769
-#EXTINF:-1, group-title="WORLD TV", NBC SPORTS CALIFORNIA
-http://149.56.241.228:25461/loum/trialjan06/54768
-#EXTINF:-1, group-title="WORLD TV", NBC SPORTS CHICAGO
-http://149.56.241.228:25461/loum/trialjan06/54767
-#EXTINF:-1, group-title="WORLD TV", NBC SPORTS NETWORK
-http://149.56.241.228:25461/loum/trialjan06/54717
-#EXTINF:-1, group-title="WORLD TV", NBC SPORTS NORTHWEST
-http://149.56.241.228:25461/loum/trialjan06/54766
-#EXTINF:-1, group-title="WORLD TV", NBC SPORTS PHILLY
-http://149.56.241.228:25461/loum/trialjan06/54765
-#EXTINF:-1, group-title="WORLD TV", OLYMPIC CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/55185
-#EXTINF:-1, group-title="WORLD TV", OUTDOOR CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/54715
-#EXTINF:-1, group-title="WORLD TV", RED BULL TV
-http://149.56.241.228:25461/loum/trialjan06/54707
-#EXTINF:-1, group-title="WORLD TV", SBG STADIUM 2
-http://149.56.241.228:25461/loum/trialjan06/65504
-#EXTINF:-1, group-title="WORLD TV", SEC NETWORK
-http://149.56.241.228:25461/loum/trialjan06/54705
-#EXTINF:-1, group-title="WORLD TV", SNY
-http://149.56.241.228:25461/loum/trialjan06/54716
-#EXTINF:-1, group-title="WORLD TV", SPORTSMAN CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/54703
-#EXTINF:-1, group-title="WORLD TV", SPORTSNET NY
-http://149.56.241.228:25461/loum/trialjan06/54701
-#EXTINF:-1, group-title="WORLD TV", TENNIS CHANNEL
-http://149.56.241.228:25461/loum/trialjan06/54700
-#EXTINF:-1, group-title="WORLD TV", WWE
-http://149.56.241.228:25461/loum/trialjan06/51725
+#EXTINF:-1 tvg-id="" tvg-name="US: Action Max HD" tvg-logo="http://leeztv.com/logo/tv/img_5298.png" group-title="USA TV",US: Action Max HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5298
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC" tvg-logo="http://leeztv.com/logo/tv/img_3674.png" group-title="USA TV",US: ABC
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3674
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC News" tvg-logo="http://leeztv.com/logo/tv/img_3677.png" group-title="USA TV",US: ABC News
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3677
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC" tvg-logo="http://leeztv.com/logo/tv/img_3667.png" group-title="USA TV",US: AMC
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3667
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8208.png" group-title="USA TV",US: AMC FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8208
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="US: AMC HD" tvg-logo="http://leeztv.com/logo/tv/img_5297.png" group-title="USA TV",US: AMC HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5297
+#EXTINF:-1 tvg-id="" tvg-name="US: AHC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8207.png" group-title="USA TV",US: AHC FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8207
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: Animal Planet" tvg-logo="http://leeztv.com/logo/tv/img_3666.png" group-title="USA TV",US: Animal Planet
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3666
+#EXTINF:-1 tvg-id="" tvg-name="US: ANIMAL PLANET FHD" tvg-logo="http://leeztv.com/logo/tv/img_8206.png" group-title="USA TV",US: ANIMAL PLANET FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8206
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC WORLD NEWS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8204.png" group-title="USA TV",US: BBC WORLD NEWS FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8204
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC AMERICA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8205.png" group-title="USA TV",US: BBC AMERICA FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8205
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC America" tvg-logo="http://leeztv.com/logo/tv/img_3675.png" group-title="USA TV",US: BBC America
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3675
+#EXTINF:-1 tvg-id="" tvg-name="US: BIG TEN NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8203.png" group-title="USA TV",US: BIG TEN NETWORK FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8203
+#EXTINF:-1 tvg-id="" tvg-name="US: BOOMERANG FHD" tvg-logo="http://leeztv.com/logo/tv/img_8202.png" group-title="USA TV",US: BOOMERANG FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8202
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US: BRAVO" tvg-logo="http://leeztv.com/logo/tv/img_3665.png" group-title="USA TV",US: BRAVO
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3665
+#EXTINF:-1 tvg-id="" tvg-name="US: BRAVO FHD" tvg-logo="http://leeztv.com/logo/tv/img_8201.png" group-title="USA TV",US: BRAVO FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8201
+#EXTINF:-1 tvg-id="" tvg-name="US: CARTOON NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8200.png" group-title="USA TV",US: CARTOON NETWORK FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8200
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US: CBNC" tvg-logo="http://leeztv.com/logo/tv/img_3664.png" group-title="USA TV",US: CBNC
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3664
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS" tvg-logo="http://leeztv.com/logo/tv/img_3673.png" group-title="USA TV",US: CBS
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3673
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS NEWS HD" tvg-logo="http://leeztv.com/logo/tv/img_6135.png" group-title="USA TV",US: CBS NEWS HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6135
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX HD" tvg-logo="http://leeztv.com/logo/tv/img_6143.png" group-title="USA TV",US: CINEMAX HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6143
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8199.png" group-title="USA TV",US: CNBC FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8199
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC WORLD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8198.png" group-title="USA TV",US: CNBC WORLD FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8198
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN FHD" tvg-logo="http://leeztv.com/logo/tv/img_8197.png" group-title="USA TV",US: CNN FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8197
+#EXTINF:-1 tvg-id="CNN.nws" tvg-name="US: CNN" tvg-logo="http://leeztv.com/logo/tv/img_195.png" group-title="USA TV",US: CNN
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/195
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: Comedy Central" tvg-logo="http://leeztv.com/logo/tv/img_3663.png" group-title="USA TV",US: Comedy Central
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3663
+#EXTINF:-1 tvg-id="" tvg-name="US: COOKING CHANNEL FHD" tvg-logo="http://leeztv.com/logo/tv/img_8196.png" group-title="USA TV",US: COOKING CHANNEL FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8196
+#EXTINF:-1 tvg-id="CW.us" tvg-name="US: CW" tvg-logo="http://leeztv.com/logo/tv/img_3672.png" group-title="USA TV",US: CW
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3672
+#EXTINF:-1 tvg-id="" tvg-name="US: DECADES FHD" tvg-logo="http://leeztv.com/logo/tv/img_8195.png" group-title="USA TV",US: DECADES FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8195
+#EXTINF:-1 tvg-id="" tvg-name="US: DESTINATION AMERICA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8194.png" group-title="USA TV",US: DESTINATION AMERICA FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8194
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery" tvg-logo="http://leeztv.com/logo/tv/img_3662.png" group-title="USA TV",US: Discovery
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3662
+#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY CHANNEL FHD" tvg-logo="http://leeztv.com/logo/tv/img_8192.png" group-title="USA TV",US: DISNEY CHANNEL FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8192
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY FAMILY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8191.png" group-title="USA TV",US: DISCOVERY FAMILY FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8191
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8193.png" group-title="USA TV",US: DISCOVERY FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8193
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY LIFE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8190.png" group-title="USA TV",US: DISCOVERY LIFE FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8190
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Science" tvg-logo="http://leeztv.com/logo/tv/img_6138.png" group-title="USA TV",US: Discovery Science
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6138
+#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY JUNIOR FHD" tvg-logo="http://leeztv.com/logo/tv/img_8189.png" group-title="USA TV",US: DISNEY JUNIOR FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8189
+#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY XD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8188.png" group-title="USA TV",US: DISNEY XD FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8188
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network FHD" tvg-logo="http://leeztv.com/logo/tv/img_8187.png" group-title="USA TV",US: DIY Network FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8187
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network HD" tvg-logo="http://leeztv.com/logo/tv/img_6133.png" group-title="USA TV",US: DIY Network HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6133
+#EXTINF:-1 tvg-id="" tvg-name="US: E! FHD" tvg-logo="http://leeztv.com/logo/tv/img_8186.png" group-title="USA TV",US: E! FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8186
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HITS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8185.png" group-title="USA TV",US: EPIX HITS FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8185
+#EXTINF:-1 tvg-id="" tvg-name="US: FOOD NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8183.png" group-title="USA TV",US: FOOD NETWORK FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8183
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="US: FOX News" tvg-logo="http://leeztv.com/logo/tv/img_3086.png" group-title="USA TV",US: FOX News
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3086
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX" tvg-logo="http://leeztv.com/logo/tv/img_3671.png" group-title="USA TV",US: FOX
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3671
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX BUSINESS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8182.png" group-title="USA TV",US: FOX BUSINESS FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8182
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX DEPORTES FHD" tvg-logo="http://leeztv.com/logo/tv/img_8181.png" group-title="USA TV",US: FOX DEPORTES FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8181
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX NEWS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8180.png" group-title="USA TV",US: FOX NEWS FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8180
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="US: Freeform" tvg-logo="http://leeztv.com/logo/tv/img_3656.png" group-title="USA TV",US: Freeform
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3656
+#EXTINF:-1 tvg-id="" tvg-name="US: FREEFORM FHD" tvg-logo="http://leeztv.com/logo/tv/img_8184.png" group-title="USA TV",US: FREEFORM FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8184
+#EXTINF:-1 tvg-id="" tvg-name="US: FUSION FHD" tvg-logo="http://leeztv.com/logo/tv/img_8179.png" group-title="USA TV",US: FUSION FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8179
+#EXTINF:-1 tvg-id="" tvg-name="US: FX" tvg-logo="http://leeztv.com/logo/tv/img_3661.png" group-title="USA TV",US: FX
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3661
+#EXTINF:-1 tvg-id="" tvg-name="US: FX FHD" tvg-logo="http://leeztv.com/logo/tv/img_8178.png" group-title="USA TV",US: FX FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8178
+#EXTINF:-1 tvg-id="" tvg-name="US: FXM FHD" tvg-logo="http://leeztv.com/logo/tv/img_8177.png" group-title="USA TV",US: FXM FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8177
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX" tvg-logo="http://leeztv.com/logo/tv/img_5294.png" group-title="USA TV",US: FXX
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5294
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX FHD" tvg-logo="http://leeztv.com/logo/tv/img_8176.png" group-title="USA TV",US: FXX FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8176
+#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK DRAMA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8174.png" group-title="USA TV",US: HALLMARK DRAMA FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8174
+#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8175.png" group-title="USA TV",US: HALLMARK FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8175
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark HD" tvg-logo="http://leeztv.com/logo/tv/img_6141.png" group-title="USA TV",US: Hallmark HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6141
+#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK MOVIES FHD" tvg-logo="http://leeztv.com/logo/tv/img_8173.png" group-title="USA TV",US: HALLMARK MOVIES FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8173
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO" tvg-logo="http://leeztv.com/logo/tv/img_5303.png" group-title="USA TV",US: HBO
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5303
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Comedy" tvg-logo="http://leeztv.com/logo/tv/img_5302.png" group-title="USA TV",US: HBO Comedy
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5302
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO EAST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8172.png" group-title="USA TV",US: HBO EAST FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8172
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature" tvg-logo="http://leeztv.com/logo/tv/img_5301.png" group-title="USA TV",US: HBO Signature
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5301
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO WEST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8171.png" group-title="USA TV",US: HBO WEST FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8171
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Zone" tvg-logo="http://leeztv.com/logo/tv/img_5300.png" group-title="USA TV",US: HBO Zone
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5300
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="US: HGTV" tvg-logo="http://leeztv.com/logo/tv/img_5293.png" group-title="USA TV",US: HGTV
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5293
+#EXTINF:-1 tvg-id="" tvg-name="US: HGTV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8170.png" group-title="USA TV",US: HGTV FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8170
+#EXTINF:-1 tvg-id="" tvg-name="US: ID" tvg-logo="http://leeztv.com/logo/tv/img_6139.png" group-title="USA TV",US: ID
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6139
+#EXTINF:-1 tvg-id="" tvg-name="US: IFC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8169.png" group-title="USA TV",US: IFC FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8169
+#EXTINF:-1 tvg-id="" tvg-name="US: ID FHD" tvg-logo="http://leeztv.com/logo/tv/img_8168.png" group-title="USA TV",US: ID FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8168
+#EXTINF:-1 tvg-id="" tvg-name="US: MGM HD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8167.png" group-title="USA TV",US: MGM HD FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8167
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US: MSNBC" tvg-logo="http://leeztv.com/logo/tv/img_3660.png" group-title="USA TV",US: MSNBC
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3660
+#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8166.png" group-title="USA TV",US: MSNBC FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8166
+#EXTINF:-1 tvg-id="My9.us" tvg-name="US: MY9" tvg-logo="http://leeztv.com/logo/tv/img_3670.png" group-title="USA TV",US: MY9
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3670
+#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO WILD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8165.png" group-title="USA TV",US: NAT GEO WILD FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8165
+#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO FHD" tvg-logo="http://leeztv.com/logo/tv/img_8164.png" group-title="USA TV",US: NAT GEO FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8164
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="US: National Geographic" tvg-logo="http://leeztv.com/logo/tv/img_3655.png" group-title="USA TV",US: National Geographic
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3655
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC" tvg-logo="http://leeztv.com/logo/tv/img_3669.png" group-title="USA TV",US: NBC
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3669
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="US: Nickelodeon" tvg-logo="http://leeztv.com/logo/tv/img_3654.png" group-title="USA TV",US: Nickelodeon
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3654
+#EXTINF:-1 tvg-id="" tvg-name="US: OWN FHD" tvg-logo="http://leeztv.com/logo/tv/img_8163.png" group-title="USA TV",US: OWN FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8163
+#EXTINF:-1 tvg-id="" tvg-name="US: OXYGENE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8162.png" group-title="USA TV",US: OXYGENE FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8162
+#EXTINF:-1 tvg-id="" tvg-name="US: PBS" tvg-logo="http://leeztv.com/logo/tv/img_3668.png" group-title="USA TV",US: PBS
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3668
+#EXTINF:-1 tvg-id="" tvg-name="US: POP FHD" tvg-logo="http://leeztv.com/logo/tv/img_8161.png" group-title="USA TV",US: POP FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8161
+#EXTINF:-1 tvg-id="" tvg-name="US: SCIENCE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8160.png" group-title="USA TV",US: SCIENCE FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8160
+#EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8159.png" group-title="USA TV",US: SEC NETWORK FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8159
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime 2 HD" tvg-logo="http://leeztv.com/logo/tv/img_6147.png" group-title="USA TV",US: Showtime 2 HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6147
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EAST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8158.png" group-title="USA TV",US: SHOWTIME EAST FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8158
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime HD" tvg-logo="http://leeztv.com/logo/tv/img_5299.png" group-title="USA TV",US: Showtime HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5299
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase HD" tvg-logo="http://leeztv.com/logo/tv/img_6146.png" group-title="USA TV",US: Showtime Showcase HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6146
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME WEST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8157.png" group-title="USA TV",US: SHOWTIME WEST FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8157
+#EXTINF:-1 tvg-id="" tvg-name="US: SONY MOVIE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8156.png" group-title="USA TV",US: SONY MOVIE FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8156
+#EXTINF:-1 tvg-id="" tvg-name="US: Spike" tvg-logo="http://leeztv.com/logo/tv/img_3653.png" group-title="USA TV",US: Spike
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3653
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Cinema HD" tvg-logo="http://leeztv.com/logo/tv/img_5296.png" group-title="USA TV",US: Starz Cinema HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5296
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Comedy HD" tvg-logo="http://leeztv.com/logo/tv/img_6145.png" group-title="USA TV",US: Starz Comedy HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6145
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EDGE HD" tvg-logo="http://leeztv.com/logo/tv/img_6144.png" group-title="USA TV",US: STARZ EDGE HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6144
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore HD" tvg-logo="http://leeztv.com/logo/tv/img_6140.png" group-title="USA TV",US: Starz Encore HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6140
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz HD" tvg-logo="http://leeztv.com/logo/tv/img_5295.png" group-title="USA TV",US: Starz HD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5295
+#EXTINF:-1 tvg-id="" tvg-name="US: Sundance" tvg-logo="http://leeztv.com/logo/tv/img_3652.png" group-title="USA TV",US: Sundance
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3652
+#EXTINF:-1 tvg-id="" tvg-name="US: SUNDANCE TV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8155.png" group-title="USA TV",US: SUNDANCE TV FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8155
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY" tvg-logo="http://leeztv.com/logo/tv/img_3659.png" group-title="USA TV",US: SYFY
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3659
+#EXTINF:-1 tvg-id="" tvg-name="US: SYFY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8154.png" group-title="USA TV",US: SYFY FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8154
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8153.png" group-title="USA TV",US: TBS FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8153
+#EXTINF:-1 tvg-id="" tvg-name="US: TELEMUNDO FHD" tvg-logo="http://leeztv.com/logo/tv/img_8152.png" group-title="USA TV",US: TELEMUNDO FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8152
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="US: TLC" tvg-logo="http://leeztv.com/logo/tv/img_3658.png" group-title="USA TV",US: TLC
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3658
+#EXTINF:-1 tvg-id="" tvg-name="US: TLC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8151.png" group-title="USA TV",US: TLC FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8151
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT FHD" tvg-logo="http://leeztv.com/logo/tv/img_8150.png" group-title="USA TV",US: TNT FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8150
+#EXTINF:-1 tvg-id="" tvg-name="US: TRAVEL FHD" tvg-logo="http://leeztv.com/logo/tv/img_8149.png" group-title="USA TV",US: TRAVEL FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8149
+#EXTINF:-1 tvg-id="" tvg-name="US: TRUTV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8148.png" group-title="USA TV",US: TRUTV FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8148
+#EXTINF:-1 tvg-id="" tvg-name="US: UNIVERSAL KIDS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8146.png" group-title="USA TV",US: UNIVERSAL KIDS FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8146
+#EXTINF:-1 tvg-id="" tvg-name="US: USA" tvg-logo="http://leeztv.com/logo/tv/img_3657.png" group-title="USA TV",US: USA
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3657
+#EXTINF:-1 tvg-id="" tvg-name="US: USA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8117.png" group-title="USA TV",US: USA FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8117
+#EXTINF:-1 tvg-id="" tvg-name="US: VELOCITY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8144.png" group-title="USA TV",US: VELOCITY FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8144
+#EXTINF:-1 tvg-id="" tvg-name="US: WE TV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8143.png" group-title="USA TV",US: WE TV FHD
+http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8143
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
