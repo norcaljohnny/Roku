@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Heat@Hawks
-http://maverickz.xyz/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Wizards@Thunder
 http://grizzliesz.xyz/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pacers@Raptors
-http://durantz.xyz/hls/preview.m3u8
+http://lowryz.xyz/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Suns
-http://durantz.xyz/hls/preview.m3u8
+http://raptorz.xyz/hls/7.m3u8
 #EXTINF:-1, group-title="WORLD TV", Bloomberg TV
 http://149.56.241.228:25461/loum/trialjan06/52772
 #EXTINF:-1, group-title="WORLD TV", BNN
