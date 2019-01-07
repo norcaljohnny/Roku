@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,group-title="NBA LIVE", Spurs@Pistons
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/33759
+#EXTINF:-1,group-title="NBA LIVE", Nets@Celtics
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/33762
+#EXTINF:-1,group-title="NBA LIVE", Nuggets@Rockets
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/88735
+#EXTINF:-1,group-title="NBA LIVE", Jazz@Bucks
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/33745
+#EXTINF:-1,group-title="NBA LIVE", Grizzlies@Pelicans
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/36272
+#EXTINF:-1,group-title="NBA LIVE", Lakers@Mavs
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/89362
+#EXTINF:-1,group-title="NBA LIVE", Knicks@Blazers
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/33474
+#EXTINF:-1,group-title="NBA LIVE", Magic@Kings
+http://primestreams.tv:826/rafasmb/23KOaqYLGi/35437
 #EXTINF:-1,group-title="WORLD TV", ABC NEWS HD
 http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/399
 #EXTINF:-1,group-title="WORLD TV", CNN HD
