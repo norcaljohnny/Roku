@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Wizards@Thunder
-http://howardz.xyz/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pacers@Raptors
 http://lowryz.xyz/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Suns
