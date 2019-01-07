@@ -1,232 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="US: Action Max HD" tvg-logo="http://leeztv.com/logo/tv/img_5298.png" group-title="USA TV",US: Action Max HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5298
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC" tvg-logo="http://leeztv.com/logo/tv/img_3674.png" group-title="USA TV",US: ABC
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3674
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC News" tvg-logo="http://leeztv.com/logo/tv/img_3677.png" group-title="USA TV",US: ABC News
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3677
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC" tvg-logo="http://leeztv.com/logo/tv/img_3667.png" group-title="USA TV",US: AMC
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3667
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8208.png" group-title="USA TV",US: AMC FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8208
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="US: AMC HD" tvg-logo="http://leeztv.com/logo/tv/img_5297.png" group-title="USA TV",US: AMC HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5297
-#EXTINF:-1 tvg-id="" tvg-name="US: AHC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8207.png" group-title="USA TV",US: AHC FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8207
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="US: Animal Planet" tvg-logo="http://leeztv.com/logo/tv/img_3666.png" group-title="USA TV",US: Animal Planet
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3666
-#EXTINF:-1 tvg-id="" tvg-name="US: ANIMAL PLANET FHD" tvg-logo="http://leeztv.com/logo/tv/img_8206.png" group-title="USA TV",US: ANIMAL PLANET FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8206
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC WORLD NEWS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8204.png" group-title="USA TV",US: BBC WORLD NEWS FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8204
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC AMERICA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8205.png" group-title="USA TV",US: BBC AMERICA FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8205
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC America" tvg-logo="http://leeztv.com/logo/tv/img_3675.png" group-title="USA TV",US: BBC America
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3675
-#EXTINF:-1 tvg-id="" tvg-name="US: BIG TEN NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8203.png" group-title="USA TV",US: BIG TEN NETWORK FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8203
-#EXTINF:-1 tvg-id="" tvg-name="US: BOOMERANG FHD" tvg-logo="http://leeztv.com/logo/tv/img_8202.png" group-title="USA TV",US: BOOMERANG FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8202
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="US: BRAVO" tvg-logo="http://leeztv.com/logo/tv/img_3665.png" group-title="USA TV",US: BRAVO
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3665
-#EXTINF:-1 tvg-id="" tvg-name="US: BRAVO FHD" tvg-logo="http://leeztv.com/logo/tv/img_8201.png" group-title="USA TV",US: BRAVO FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8201
-#EXTINF:-1 tvg-id="" tvg-name="US: CARTOON NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8200.png" group-title="USA TV",US: CARTOON NETWORK FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8200
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="US: CBNC" tvg-logo="http://leeztv.com/logo/tv/img_3664.png" group-title="USA TV",US: CBNC
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3664
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS" tvg-logo="http://leeztv.com/logo/tv/img_3673.png" group-title="USA TV",US: CBS
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3673
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS NEWS HD" tvg-logo="http://leeztv.com/logo/tv/img_6135.png" group-title="USA TV",US: CBS NEWS HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6135
-#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX HD" tvg-logo="http://leeztv.com/logo/tv/img_6143.png" group-title="USA TV",US: CINEMAX HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6143
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8199.png" group-title="USA TV",US: CNBC FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8199
-#EXTINF:-1 tvg-id="" tvg-name="US: CNBC WORLD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8198.png" group-title="USA TV",US: CNBC WORLD FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8198
-#EXTINF:-1 tvg-id="" tvg-name="US: CNN FHD" tvg-logo="http://leeztv.com/logo/tv/img_8197.png" group-title="USA TV",US: CNN FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8197
-#EXTINF:-1 tvg-id="CNN.nws" tvg-name="US: CNN" tvg-logo="http://leeztv.com/logo/tv/img_195.png" group-title="USA TV",US: CNN
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/195
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="US: Comedy Central" tvg-logo="http://leeztv.com/logo/tv/img_3663.png" group-title="USA TV",US: Comedy Central
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3663
-#EXTINF:-1 tvg-id="" tvg-name="US: COOKING CHANNEL FHD" tvg-logo="http://leeztv.com/logo/tv/img_8196.png" group-title="USA TV",US: COOKING CHANNEL FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8196
-#EXTINF:-1 tvg-id="CW.us" tvg-name="US: CW" tvg-logo="http://leeztv.com/logo/tv/img_3672.png" group-title="USA TV",US: CW
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3672
-#EXTINF:-1 tvg-id="" tvg-name="US: DECADES FHD" tvg-logo="http://leeztv.com/logo/tv/img_8195.png" group-title="USA TV",US: DECADES FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8195
-#EXTINF:-1 tvg-id="" tvg-name="US: DESTINATION AMERICA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8194.png" group-title="USA TV",US: DESTINATION AMERICA FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8194
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery" tvg-logo="http://leeztv.com/logo/tv/img_3662.png" group-title="USA TV",US: Discovery
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3662
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY CHANNEL FHD" tvg-logo="http://leeztv.com/logo/tv/img_8192.png" group-title="USA TV",US: DISNEY CHANNEL FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8192
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY FAMILY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8191.png" group-title="USA TV",US: DISCOVERY FAMILY FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8191
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8193.png" group-title="USA TV",US: DISCOVERY FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8193
-#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY LIFE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8190.png" group-title="USA TV",US: DISCOVERY LIFE FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8190
-#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Science" tvg-logo="http://leeztv.com/logo/tv/img_6138.png" group-title="USA TV",US: Discovery Science
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6138
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY JUNIOR FHD" tvg-logo="http://leeztv.com/logo/tv/img_8189.png" group-title="USA TV",US: DISNEY JUNIOR FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8189
-#EXTINF:-1 tvg-id="" tvg-name="US: DISNEY XD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8188.png" group-title="USA TV",US: DISNEY XD FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8188
-#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network FHD" tvg-logo="http://leeztv.com/logo/tv/img_8187.png" group-title="USA TV",US: DIY Network FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8187
-#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network HD" tvg-logo="http://leeztv.com/logo/tv/img_6133.png" group-title="USA TV",US: DIY Network HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6133
-#EXTINF:-1 tvg-id="" tvg-name="US: E! FHD" tvg-logo="http://leeztv.com/logo/tv/img_8186.png" group-title="USA TV",US: E! FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8186
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HITS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8185.png" group-title="USA TV",US: EPIX HITS FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8185
-#EXTINF:-1 tvg-id="" tvg-name="US: FOOD NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8183.png" group-title="USA TV",US: FOOD NETWORK FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8183
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="US: FOX News" tvg-logo="http://leeztv.com/logo/tv/img_3086.png" group-title="USA TV",US: FOX News
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3086
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX" tvg-logo="http://leeztv.com/logo/tv/img_3671.png" group-title="USA TV",US: FOX
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3671
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX BUSINESS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8182.png" group-title="USA TV",US: FOX BUSINESS FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8182
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX DEPORTES FHD" tvg-logo="http://leeztv.com/logo/tv/img_8181.png" group-title="USA TV",US: FOX DEPORTES FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8181
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX NEWS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8180.png" group-title="USA TV",US: FOX NEWS FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8180
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="US: Freeform" tvg-logo="http://leeztv.com/logo/tv/img_3656.png" group-title="USA TV",US: Freeform
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3656
-#EXTINF:-1 tvg-id="" tvg-name="US: FREEFORM FHD" tvg-logo="http://leeztv.com/logo/tv/img_8184.png" group-title="USA TV",US: FREEFORM FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8184
-#EXTINF:-1 tvg-id="" tvg-name="US: FUSION FHD" tvg-logo="http://leeztv.com/logo/tv/img_8179.png" group-title="USA TV",US: FUSION FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8179
-#EXTINF:-1 tvg-id="" tvg-name="US: FX" tvg-logo="http://leeztv.com/logo/tv/img_3661.png" group-title="USA TV",US: FX
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3661
-#EXTINF:-1 tvg-id="" tvg-name="US: FX FHD" tvg-logo="http://leeztv.com/logo/tv/img_8178.png" group-title="USA TV",US: FX FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8178
-#EXTINF:-1 tvg-id="" tvg-name="US: FXM FHD" tvg-logo="http://leeztv.com/logo/tv/img_8177.png" group-title="USA TV",US: FXM FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8177
-#EXTINF:-1 tvg-id="" tvg-name="US: FXX" tvg-logo="http://leeztv.com/logo/tv/img_5294.png" group-title="USA TV",US: FXX
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5294
-#EXTINF:-1 tvg-id="" tvg-name="US: FXX FHD" tvg-logo="http://leeztv.com/logo/tv/img_8176.png" group-title="USA TV",US: FXX FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8176
-#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK DRAMA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8174.png" group-title="USA TV",US: HALLMARK DRAMA FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8174
-#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8175.png" group-title="USA TV",US: HALLMARK FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8175
-#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark HD" tvg-logo="http://leeztv.com/logo/tv/img_6141.png" group-title="USA TV",US: Hallmark HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6141
-#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK MOVIES FHD" tvg-logo="http://leeztv.com/logo/tv/img_8173.png" group-title="USA TV",US: HALLMARK MOVIES FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8173
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO" tvg-logo="http://leeztv.com/logo/tv/img_5303.png" group-title="USA TV",US: HBO
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5303
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO Comedy" tvg-logo="http://leeztv.com/logo/tv/img_5302.png" group-title="USA TV",US: HBO Comedy
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5302
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO EAST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8172.png" group-title="USA TV",US: HBO EAST FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8172
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature" tvg-logo="http://leeztv.com/logo/tv/img_5301.png" group-title="USA TV",US: HBO Signature
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5301
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO WEST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8171.png" group-title="USA TV",US: HBO WEST FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8171
-#EXTINF:-1 tvg-id="" tvg-name="US: HBO Zone" tvg-logo="http://leeztv.com/logo/tv/img_5300.png" group-title="USA TV",US: HBO Zone
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5300
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="US: HGTV" tvg-logo="http://leeztv.com/logo/tv/img_5293.png" group-title="USA TV",US: HGTV
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5293
-#EXTINF:-1 tvg-id="" tvg-name="US: HGTV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8170.png" group-title="USA TV",US: HGTV FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8170
-#EXTINF:-1 tvg-id="" tvg-name="US: ID" tvg-logo="http://leeztv.com/logo/tv/img_6139.png" group-title="USA TV",US: ID
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6139
-#EXTINF:-1 tvg-id="" tvg-name="US: IFC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8169.png" group-title="USA TV",US: IFC FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8169
-#EXTINF:-1 tvg-id="" tvg-name="US: ID FHD" tvg-logo="http://leeztv.com/logo/tv/img_8168.png" group-title="USA TV",US: ID FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8168
-#EXTINF:-1 tvg-id="" tvg-name="US: MGM HD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8167.png" group-title="USA TV",US: MGM HD FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8167
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="US: MSNBC" tvg-logo="http://leeztv.com/logo/tv/img_3660.png" group-title="USA TV",US: MSNBC
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3660
-#EXTINF:-1 tvg-id="" tvg-name="US: MSNBC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8166.png" group-title="USA TV",US: MSNBC FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8166
-#EXTINF:-1 tvg-id="My9.us" tvg-name="US: MY9" tvg-logo="http://leeztv.com/logo/tv/img_3670.png" group-title="USA TV",US: MY9
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3670
-#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO WILD FHD" tvg-logo="http://leeztv.com/logo/tv/img_8165.png" group-title="USA TV",US: NAT GEO WILD FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8165
-#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO FHD" tvg-logo="http://leeztv.com/logo/tv/img_8164.png" group-title="USA TV",US: NAT GEO FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8164
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="US: National Geographic" tvg-logo="http://leeztv.com/logo/tv/img_3655.png" group-title="USA TV",US: National Geographic
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3655
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC" tvg-logo="http://leeztv.com/logo/tv/img_3669.png" group-title="USA TV",US: NBC
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3669
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="US: Nickelodeon" tvg-logo="http://leeztv.com/logo/tv/img_3654.png" group-title="USA TV",US: Nickelodeon
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3654
-#EXTINF:-1 tvg-id="" tvg-name="US: OWN FHD" tvg-logo="http://leeztv.com/logo/tv/img_8163.png" group-title="USA TV",US: OWN FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8163
-#EXTINF:-1 tvg-id="" tvg-name="US: OXYGENE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8162.png" group-title="USA TV",US: OXYGENE FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8162
-#EXTINF:-1 tvg-id="" tvg-name="US: PBS" tvg-logo="http://leeztv.com/logo/tv/img_3668.png" group-title="USA TV",US: PBS
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3668
-#EXTINF:-1 tvg-id="" tvg-name="US: POP FHD" tvg-logo="http://leeztv.com/logo/tv/img_8161.png" group-title="USA TV",US: POP FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8161
-#EXTINF:-1 tvg-id="" tvg-name="US: SCIENCE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8160.png" group-title="USA TV",US: SCIENCE FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8160
-#EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK FHD" tvg-logo="http://leeztv.com/logo/tv/img_8159.png" group-title="USA TV",US: SEC NETWORK FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8159
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime 2 HD" tvg-logo="http://leeztv.com/logo/tv/img_6147.png" group-title="USA TV",US: Showtime 2 HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6147
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EAST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8158.png" group-title="USA TV",US: SHOWTIME EAST FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8158
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime HD" tvg-logo="http://leeztv.com/logo/tv/img_5299.png" group-title="USA TV",US: Showtime HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5299
-#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase HD" tvg-logo="http://leeztv.com/logo/tv/img_6146.png" group-title="USA TV",US: Showtime Showcase HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6146
-#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME WEST FHD" tvg-logo="http://leeztv.com/logo/tv/img_8157.png" group-title="USA TV",US: SHOWTIME WEST FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8157
-#EXTINF:-1 tvg-id="" tvg-name="US: SONY MOVIE FHD" tvg-logo="http://leeztv.com/logo/tv/img_8156.png" group-title="USA TV",US: SONY MOVIE FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8156
-#EXTINF:-1 tvg-id="" tvg-name="US: Spike" tvg-logo="http://leeztv.com/logo/tv/img_3653.png" group-title="USA TV",US: Spike
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3653
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Cinema HD" tvg-logo="http://leeztv.com/logo/tv/img_5296.png" group-title="USA TV",US: Starz Cinema HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5296
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Comedy HD" tvg-logo="http://leeztv.com/logo/tv/img_6145.png" group-title="USA TV",US: Starz Comedy HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6145
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EDGE HD" tvg-logo="http://leeztv.com/logo/tv/img_6144.png" group-title="USA TV",US: STARZ EDGE HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6144
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz Encore HD" tvg-logo="http://leeztv.com/logo/tv/img_6140.png" group-title="USA TV",US: Starz Encore HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/6140
-#EXTINF:-1 tvg-id="" tvg-name="US: Starz HD" tvg-logo="http://leeztv.com/logo/tv/img_5295.png" group-title="USA TV",US: Starz HD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/5295
-#EXTINF:-1 tvg-id="" tvg-name="US: Sundance" tvg-logo="http://leeztv.com/logo/tv/img_3652.png" group-title="USA TV",US: Sundance
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3652
-#EXTINF:-1 tvg-id="" tvg-name="US: SUNDANCE TV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8155.png" group-title="USA TV",US: SUNDANCE TV FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8155
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY" tvg-logo="http://leeztv.com/logo/tv/img_3659.png" group-title="USA TV",US: SYFY
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3659
-#EXTINF:-1 tvg-id="" tvg-name="US: SYFY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8154.png" group-title="USA TV",US: SYFY FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8154
-#EXTINF:-1 tvg-id="" tvg-name="US: TBS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8153.png" group-title="USA TV",US: TBS FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8153
-#EXTINF:-1 tvg-id="" tvg-name="US: TELEMUNDO FHD" tvg-logo="http://leeztv.com/logo/tv/img_8152.png" group-title="USA TV",US: TELEMUNDO FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8152
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="US: TLC" tvg-logo="http://leeztv.com/logo/tv/img_3658.png" group-title="USA TV",US: TLC
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3658
-#EXTINF:-1 tvg-id="" tvg-name="US: TLC FHD" tvg-logo="http://leeztv.com/logo/tv/img_8151.png" group-title="USA TV",US: TLC FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8151
-#EXTINF:-1 tvg-id="" tvg-name="US: TNT FHD" tvg-logo="http://leeztv.com/logo/tv/img_8150.png" group-title="USA TV",US: TNT FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8150
-#EXTINF:-1 tvg-id="" tvg-name="US: TRAVEL FHD" tvg-logo="http://leeztv.com/logo/tv/img_8149.png" group-title="USA TV",US: TRAVEL FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8149
-#EXTINF:-1 tvg-id="" tvg-name="US: TRUTV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8148.png" group-title="USA TV",US: TRUTV FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8148
-#EXTINF:-1 tvg-id="" tvg-name="US: UNIVERSAL KIDS FHD" tvg-logo="http://leeztv.com/logo/tv/img_8146.png" group-title="USA TV",US: UNIVERSAL KIDS FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8146
-#EXTINF:-1 tvg-id="" tvg-name="US: USA" tvg-logo="http://leeztv.com/logo/tv/img_3657.png" group-title="USA TV",US: USA
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/3657
-#EXTINF:-1 tvg-id="" tvg-name="US: USA FHD" tvg-logo="http://leeztv.com/logo/tv/img_8117.png" group-title="USA TV",US: USA FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8117
-#EXTINF:-1 tvg-id="" tvg-name="US: VELOCITY FHD" tvg-logo="http://leeztv.com/logo/tv/img_8144.png" group-title="USA TV",US: VELOCITY FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8144
-#EXTINF:-1 tvg-id="" tvg-name="US: WE TV FHD" tvg-logo="http://leeztv.com/logo/tv/img_8143.png" group-title="USA TV",US: WE TV FHD
-http://iptv.clines.cc:80/regi_mclub/fepRP00cfy/8143
+#EXTINF:-1,group-title="WORLD TV", ABC NEWS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/399
+#EXTINF:-1,group-title="WORLD TV", CNN HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/32
+#EXTINF:-1,group-title="WORLD TV", BBC WORLD NEWS
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/518
+#EXTINF:-1,group-title="WORLD TV", DISCOVERY CHANNEL
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/395
+#EXTINF:-1,group-title="WORLD TV", DISCOVERY SCIENCE
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/393
+#EXTINF:-1,group-title="WORLD TV", DISCOVERY SHOWCASE
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/394
+#EXTINF:-1,group-title="WORLD TV", E!
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/392
+#EXTINF:-1,group-title="WORLD TV", ESPN HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/391
+#EXTINF:-1,group-title="WORLD TV", Fine Living
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/389
+#EXTINF:-1,group-title="WORLD TV", FOOD NETWORK
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/390
+#EXTINF:-1,group-title="WORLD TV", FOX NEWS HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/106
+#EXTINF:-1,group-title="WORLD TV", HBO COMEDY
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/296
+#EXTINF:-1,group-title="WORLD TV", HISTORY
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/388
+#EXTINF:-1,group-title="WORLD TV", NICKELODEON
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/387
+#EXTINF:-1,group-title="WORLD TV", VH1 CLASSIC
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/386
+#EXTINF:-1,group-title="WORLD TV", BRA - SEXY HOT HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/37
+#EXTINF:-1,group-title="WORLD TV", Brazzers Europe
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/443
+#EXTINF:-1,group-title="WORLD TV", SEXY HOT 1080p
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/181
+#EXTINF:-1,group-title="WORLD TV", HOT
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/442
+#EXTINF:-1,group-title="WORLD TV", AnySex
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/336
+#EXTINF:-1,group-title="WORLD TV", Cento X Cento
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/397
+#EXTINF:-1,group-title="WORLD TV", Hustler HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/431
+#EXTINF:-1,group-title="WORLD TV", JASMIN TV
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/441
+#EXTINF:-1,group-title="WORLD TV", RedLight HD
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/438
+#EXTINF:-1,group-title="WORLD TV", VENUS
+http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/437
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
