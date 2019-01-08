@@ -1,34 +1,144 @@
 #EXTM3U
-#EXTINF:-1,group-title="WORLD TV", ABC NEWS HD
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/399
-#EXTINF:-1,group-title="WORLD TV", CNN HD
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/32
-#EXTINF:-1,group-title="WORLD TV", BBC WORLD NEWS
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/518
-#EXTINF:-1,group-title="WORLD TV", DISCOVERY CHANNEL
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/395
-#EXTINF:-1,group-title="WORLD TV", DISCOVERY SCIENCE
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/393
-#EXTINF:-1,group-title="WORLD TV", DISCOVERY SHOWCASE
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/394
-#EXTINF:-1,group-title="WORLD TV", E!
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/392
-#EXTINF:-1,group-title="WORLD TV", ESPN HD
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/391
-#EXTINF:-1,group-title="WORLD TV", Fine Living
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/389
-#EXTINF:-1,group-title="WORLD TV", FOOD NETWORK
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/390
-#EXTINF:-1,group-title="WORLD TV", FOX NEWS HD
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/106
-#EXTINF:-1,group-title="WORLD TV", HBO COMEDY
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/296
-#EXTINF:-1,group-title="WORLD TV", HISTORY
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/388
-#EXTINF:-1,group-title="WORLD TV", NICKELODEON
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/387
-#EXTINF:-1,group-title="WORLD TV", VH1 CLASSIC
-http://msdo.iptvsystem.cloud:8880/9oiua87waZ/213eOPlayuza/386
+#EXTINF:-1, group-title="WORLD TV", EIR Sport 1
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2151.ts
+#EXTINF:-1, group-title="WORLD TV", Film 4 UK
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2199.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Movies Action & Adventure
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2186.ts
+#EXTINF:-1, group-title="WORLD TV", Sky.Movies.Family.UK
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2185.ts
+#EXTINF:-1, group-title="WORLD TV", Sky.Movies.Modern.HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2184.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Movies Premiere UK
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2183.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Movies Sci-Fi & Horror
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2182.ts
+#EXTINF:-1, group-title="WORLD TV", Syfy UK
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2200.ts
+#EXTINF:-1, group-title="WORLD TV", Baby tv
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2203.ts
+#EXTINF:-1, group-title="WORLD TV", BBC Four
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2216.ts
+#EXTINF:-1, group-title="WORLD TV", BBC Three
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2217.ts
+#EXTINF:-1, group-title="WORLD TV", Boxnation_HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2147.ts
+#EXTINF:-1, group-title="WORLD TV", BT Sport 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2157.ts
+#EXTINF:-1, group-title="WORLD TV", BT-Sports-1-HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2158.ts
+#EXTINF:-1, group-title="WORLD TV", Cartoon Network
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2197.ts
+#EXTINF:-1, group-title="WORLD TV", CBS Action
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2205.ts
+#EXTINF:-1, group-title="WORLD TV", CBS Reality
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2204.ts
+#EXTINF:-1, group-title="WORLD TV", channel 4
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2210.ts
+#EXTINF:-1, group-title="WORLD TV", CHELSEA TV
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2149.ts
+#EXTINF:-1, group-title="WORLD TV", Comedy Central
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2196.ts
+#EXTINF:-1, group-title="WORLD TV", DAVE HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2173.ts
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY-HISTORY
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2198.ts
+#EXTINF:-1, group-title="WORLD TV", E4
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2209.ts
+#EXTINF:-1, group-title="WORLD TV", FOOD_NETWORK
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2162.ts
+#EXTINF:-1, group-title="WORLD TV", islam tv
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2178.ts
+#EXTINF:-1, group-title="WORLD TV", islamchannel
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2177.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 3
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2213.ts
+#EXTINF:-1, group-title="WORLD TV", ITV BE
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2211.ts
+#EXTINF:-1, group-title="WORLD TV", Liverpool FC
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2148.ts
+#EXTINF:-1, group-title="WORLD TV", Racing UK
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2202.ts
+#EXTINF:-1, group-title="WORLD TV", MORE4
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2194.ts
+#EXTINF:-1, group-title="WORLD TV", MTA1
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2176.ts
+#EXTINF:-1, group-title="WORLD TV", MTA2
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2175.ts
+#EXTINF:-1, group-title="WORLD TV", MTA3
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2174.ts
+#EXTINF:-1, group-title="WORLD TV", MUTV
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2150.ts
+#EXTINF:-1, group-title="WORLD TV", NAT GEO HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2172.ts
+#EXTINF:-1, group-title="WORLD TV", Nat Geo Wild
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2195.ts
+#EXTINF:-1, group-title="WORLD TV", NatGeo Wild HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2171.ts
+#EXTINF:-1, group-title="WORLD TV", Peace TV
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2179.ts
+#EXTINF:-1, group-title="WORLD TV", RTE 1
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2208.ts
+#EXTINF:-1, group-title="WORLD TV", RTE 2
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2207.ts
+#EXTINF:-1, group-title="WORLD TV", RTE NEWS
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2206.ts
+#EXTINF:-1, group-title="WORLD TV", Sky 3D
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2180.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Atlantic
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2181.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Disney channel
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2161.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Movies Select HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2187.ts
+#EXTINF:-1, group-title="WORLD TV", Sky News
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2159.ts
+#EXTINF:-1, group-title="WORLD TV", SKY1
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2170.ts
+#EXTINF:-1, group-title="WORLD TV", SKY 2
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2169.ts
+#EXTINF:-1, group-title="WORLD TV", SONY CHANNEL
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2168.ts
+#EXTINF:-1, group-title="WORLD TV", Spike
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2201.ts
+#EXTINF:-1, group-title="WORLD TV", TRUE MOVIES
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2167.ts
+#EXTINF:-1, group-title="WORLD TV", BT Sports Espn
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2193.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2215.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2214.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Thriller
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2192.ts
+#EXTINF:-1, group-title="WORLD TV", Animal Planet
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2164.ts
+#EXTINF:-1, group-title="WORLD TV", Discovery
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2163.ts
+#EXTINF:-1, group-title="WORLD TV", Disney Channel
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2166.ts
+#EXTINF:-1, group-title="WORLD TV", Disney Junior
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2165.ts
+#EXTINF:-1, group-title="WORLD TV", UK National Geographic UK
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2160.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Action Movies
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2191.ts
+#EXTINF:-1, group-title="WORLD TV", Sky DramaRom Movies
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2190.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Movies Comedy
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2188.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Movies Showcase
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2189.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 1 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2156.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 2 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2155.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 3 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2154.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 4 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2153.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 5 HD
+http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2152.ts
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
