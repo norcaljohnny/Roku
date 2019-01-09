@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Knicks@Warriors
-http://kil7.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Clippers
 http://kil15.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="WORLD TV", ABC USA
