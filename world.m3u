@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1, group-title="AFC ASian Cup", AFC Asian Cup 1
 https://wowzaprod100-i.akamaihd.net/hls/live/254627/13d23a98_1_1/chunklist.m3u8
-#EXTINF:-1, group-title="AFC ASian Cup", AFC Asian Cup 2
-http://sensei-iptv.cf:8000/live/driss/sadik-xy/563.ts
-#EXTINF:-1, group-title="AFC ASian Cup", AFC Asian Cup 3
 http://sensei-iptv.cf:8000/live/driss/sadik-xy/1.ts
 #EXTINF:-1, group-title="NBA LIVE", Pacers@Celtics
 http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/59179
