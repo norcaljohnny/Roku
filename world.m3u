@@ -4,9 +4,9 @@ http://kil6.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Wizards@76ers
 http://kil13.azureedge.net/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Nuggets@Heat
-http://kil4.azureedge.net/hls/preview.m3u8
+http://kil7.azureedge.net/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hawks@Raptors
-http://kil4.azureedge.net/hls/preview.m3u8
+http://kil14.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", TWolves@Thunder
 http://kil4.azureedge.net/hls/preview.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Kings@Suns
