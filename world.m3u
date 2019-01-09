@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Hornets@Clippers
-http://kil15.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="WORLD TV", ABC USA
 http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8191.ts
 #EXTINF:-1, group-title="WORLD TV", ABC news
