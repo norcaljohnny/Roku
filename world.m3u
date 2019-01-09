@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, roup-title="AFC ASian Cup", AFC Asian Cup
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/161908.ts
 #EXTINF:-1, group-title="NBA LIVE", Pacers@Celtics
 http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/59179
 #EXTINF:-1, group-title="NBA LIVE", 76ers@Wizards
