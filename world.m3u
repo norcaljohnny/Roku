@@ -5,146 +5,416 @@ http://kil2.azureedge.net/hls/7.m3u8
 http://kil7.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Clippers
 http://kil15.azureedge.net/hls/6.m3u8
-#EXTINF:-1, group-title="WORLD TV", EIR Sport 1
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2151.m3u8
-#EXTINF:-1, group-title="WORLD TV", Film 4 UK
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2199.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Movies Action & Adventure
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2186.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky.Movies.Family.UK
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2185.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky.Movies.Modern.HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2184.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Movies Premiere UK
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2183.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Movies Sci-Fi & Horror
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2182.m3u8
-#EXTINF:-1, group-title="WORLD TV", Syfy UK
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2200.m3u8
-#EXTINF:-1, group-title="WORLD TV", Baby tv
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2203.m3u8
-#EXTINF:-1, group-title="WORLD TV", BBC Four
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2216.m3u8
-#EXTINF:-1, group-title="WORLD TV", BBC Three
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2217.m3u8
-#EXTINF:-1, group-title="WORLD TV", Boxnation_HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2147.m3u8
-#EXTINF:-1, group-title="WORLD TV", BT Sport 2 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2157.m3u8
-#EXTINF:-1, group-title="WORLD TV", BT-Sports-1-HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2158.m3u8
-#EXTINF:-1, group-title="WORLD TV", Cartoon Network
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2197.m3u8
-#EXTINF:-1, group-title="WORLD TV", CBS Action
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2205.m3u8
-#EXTINF:-1, group-title="WORLD TV", CBS Reality
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2204.m3u8
-#EXTINF:-1, group-title="WORLD TV", channel 4
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2210.m3u8
-#EXTINF:-1, group-title="WORLD TV", CHELSEA TV
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2149.m3u8
-#EXTINF:-1, group-title="WORLD TV", Comedy Central
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2196.m3u8
-#EXTINF:-1, group-title="WORLD TV", DAVE HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2173.m3u8
-#EXTINF:-1, group-title="WORLD TV", DISCOVERY-HISTORY
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2198.m3u8
-#EXTINF:-1, group-title="WORLD TV", E4
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2209.m3u8
-#EXTINF:-1, group-title="WORLD TV", FOOD_NETWORK
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2162.m3u8
-#EXTINF:-1, group-title="WORLD TV", islam tv
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2178.m3u8
-#EXTINF:-1, group-title="WORLD TV", islamchannel
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2177.m3u8
-#EXTINF:-1, group-title="WORLD TV", ITV 3
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2213.m3u8
-#EXTINF:-1, group-title="WORLD TV", ITV BE
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2211.m3u8
-#EXTINF:-1, group-title="WORLD TV", Liverpool FC
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2148.m3u8
-#EXTINF:-1, group-title="WORLD TV", Racing UK
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2202.m3u8
-#EXTINF:-1, group-title="WORLD TV", MORE4
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2194.m3u8
-#EXTINF:-1, group-title="WORLD TV", MTA1
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2176.m3u8
-#EXTINF:-1, group-title="WORLD TV", MTA2
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2175.m3u8
-#EXTINF:-1, group-title="WORLD TV", MTA3
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2174.m3u8
-#EXTINF:-1, group-title="WORLD TV", MUTV
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2150.m3u8
-#EXTINF:-1, group-title="WORLD TV", NAT GEO HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2172.m3u8
-#EXTINF:-1, group-title="WORLD TV", Nat Geo Wild
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2195.m3u8
-#EXTINF:-1, group-title="WORLD TV", NatGeo Wild HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2171.m3u8
-#EXTINF:-1, group-title="WORLD TV", Peace TV
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2179.m3u8
-#EXTINF:-1, group-title="WORLD TV", RTE 1
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2208.m3u8
-#EXTINF:-1, group-title="WORLD TV", RTE 2
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2207.m3u8
-#EXTINF:-1, group-title="WORLD TV", RTE NEWS
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2206.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky 3D
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2180.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Atlantic
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2181.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Disney channel
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2161.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Movies Select HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2187.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky News
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2159.m3u8
-#EXTINF:-1, group-title="WORLD TV", SKY1
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2170.m3u8
-#EXTINF:-1, group-title="WORLD TV", SKY 2
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2169.m3u8
-#EXTINF:-1, group-title="WORLD TV", SONY CHANNEL
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2168.m3u8
-#EXTINF:-1, group-title="WORLD TV", Spike
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2201.m3u8
-#EXTINF:-1, group-title="WORLD TV", TRUE MOVIES
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2167.m3u8
-#EXTINF:-1, group-title="WORLD TV", BT Sports Espn
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2193.m3u8
-#EXTINF:-1, group-title="WORLD TV", ITV 1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2215.m3u8
-#EXTINF:-1, group-title="WORLD TV", ITV 2 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2214.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Thriller
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2192.m3u8
+#EXTINF:-1, group-title="WORLD TV", ABC USA
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8191.ts
+#EXTINF:-1, group-title="WORLD TV", ABC news
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130946.ts
+#EXTINF:-1, group-title="WORLD TV", AFN SPORTS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130895.ts
+#EXTINF:-1, group-title="WORLD TV", AFN SPORTS 2
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130894.ts
+#EXTINF:-1, group-title="WORLD TV", Amazing Facts TV
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130903.ts
+#EXTINF:-1, group-title="WORLD TV", AMC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130919.ts
 #EXTINF:-1, group-title="WORLD TV", Animal Planet
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2164.m3u8
-#EXTINF:-1, group-title="WORLD TV", Discovery
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2163.m3u8
-#EXTINF:-1, group-title="WORLD TV", Disney Channel
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2166.m3u8
-#EXTINF:-1, group-title="WORLD TV", Disney Junior
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2165.m3u8
-#EXTINF:-1, group-title="WORLD TV", UK National Geographic UK
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2160.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Action Movies
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2191.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky DramaRom Movies
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2190.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Movies Comedy
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2188.m3u8
-#EXTINF:-1, group-title="WORLD TV", Sky Movies Showcase
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2189.m3u8
-#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 1 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2156.m3u8
-#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 2 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2155.m3u8
-#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 3 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2154.m3u8
-#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 4 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2153.m3u8
-#EXTINF:-1, group-title="WORLD TV", SKY SPORTS 5 HD
-http://daddyiptv.com:8000/live/pay4iptv/OovQKViJrC/2152.m3u8
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130904.ts
+#EXTINF:-1, group-title="WORLD TV", Bein Sports USA HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130893.ts
+#EXTINF:-1, group-title="WORLD TV", Bloomberg
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130945.ts
+#EXTINF:-1, group-title="WORLD TV", Bravo HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130926.ts
+#EXTINF:-1, group-title="WORLD TV", CBS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130944.ts
+#EXTINF:-1, group-title="WORLD TV", CBS 2
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130943.ts
+#EXTINF:-1, group-title="WORLD TV", CBSN HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130942.ts
+#EXTINF:-1, group-title="WORLD TV", Cinemax ActionMax East
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130918.ts
+#EXTINF:-1, group-title="WORLD TV", Cinemax Moremax
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130917.ts
+#EXTINF:-1, group-title="WORLD TV", CNBC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130941.ts
+#EXTINF:-1, group-title="WORLD TV", CNN HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130940.ts
+#EXTINF:-1, group-title="WORLD TV", ESPN 2 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130891.ts
+#EXTINF:-1, group-title="WORLD TV", ESPN HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130892.ts
+#EXTINF:-1, group-title="WORLD TV", Food Network
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130902.ts
+#EXTINF:-1, group-title="WORLD TV", Fox HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130937.ts
+#EXTINF:-1, group-title="WORLD TV", Fox News
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130938.ts
+#EXTINF:-1, group-title="WORLD TV", Fox Sport 1 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130890.ts
+#EXTINF:-1, group-title="WORLD TV", Fox Sport 2 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130889.ts
+#EXTINF:-1, group-title="WORLD TV", Freeform HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130925.ts
+#EXTINF:-1, group-title="WORLD TV", HBO
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130916.ts
+#EXTINF:-1, group-title="WORLD TV", HBO Comedy
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130915.ts
+#EXTINF:-1, group-title="WORLD TV", HBO Family
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130914.ts
+#EXTINF:-1, group-title="WORLD TV", HBO SIGNATURE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130913.ts
+#EXTINF:-1, group-title="WORLD TV", HBO ZONE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130912.ts
+#EXTINF:-1, group-title="WORLD TV", History Channel
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130901.ts
+#EXTINF:-1, group-title="WORLD TV", KTVU News
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130924.ts
+#EXTINF:-1, group-title="WORLD TV", Mello TV
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130922.ts
+#EXTINF:-1, group-title="WORLD TV", National Geographic
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130900.ts
+#EXTINF:-1, group-title="WORLD TV", NBA HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130888.ts
+#EXTINF:-1, group-title="WORLD TV", NBC Golf HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130887.ts
+#EXTINF:-1, group-title="WORLD TV", NBC HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130936.ts
+#EXTINF:-1, group-title="WORLD TV", NBC HD  US
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130935.ts
+#EXTINF:-1, group-title="WORLD TV", NBCSN
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130934.ts
+#EXTINF:-1, group-title="WORLD TV", Nickelodeon HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130920.ts
+#EXTINF:-1, group-title="WORLD TV", RT America HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130899.ts
+#EXTINF:-1, group-title="WORLD TV", RT Documentary
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130898.ts
+#EXTINF:-1, group-title="WORLD TV", Spike HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130910.ts
+#EXTINF:-1, group-title="WORLD TV", SportsNet One HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130885.ts
+#EXTINF:-1, group-title="WORLD TV", Starz Cinema HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130909.ts
+#EXTINF:-1, group-title="WORLD TV", Starz Edge
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130908.ts
+#EXTINF:-1, group-title="WORLD TV", SyFy HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130907.ts
+#EXTINF:-1, group-title="WORLD TV", TBS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130931.ts
+#EXTINF:-1, group-title="WORLD TV", TBS HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130932.ts
+#EXTINF:-1, group-title="WORLD TV", TLC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130897.ts
+#EXTINF:-1, group-title="WORLD TV", TNT HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130906.ts
+#EXTINF:-1, group-title="WORLD TV", TSC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130930.ts
+#EXTINF:-1, group-title="WORLD TV", TSN 1 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130883.ts
+#EXTINF:-1, group-title="WORLD TV", TSN 2 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130882.ts
+#EXTINF:-1, group-title="WORLD TV", TSN 3 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130881.ts
+#EXTINF:-1, group-title="WORLD TV", TSN 4 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130880.ts
+#EXTINF:-1, group-title="WORLD TV", TSN 5 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130879.ts
+#EXTINF:-1, group-title="WORLD TV", Willow Cricket HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130878.ts
+#EXTINF:-1, group-title="WORLD TV", World Fashion HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130896.ts
+#EXTINF:-1, group-title="WORLD TV", WWE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/130877.ts
+#EXTINF:-1, group-title="WORLD TV", BBC 1 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15054.ts
+#EXTINF:-1, group-title="WORLD TV", BBC 1
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1251.ts
+#EXTINF:-1, group-title="WORLD TV", BBC2 Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15053.ts
+#EXTINF:-1, group-title="WORLD TV", BBC 2
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1252.ts
+#EXTINF:-1, group-title="WORLD TV", BBC3 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15052.ts
+#EXTINF:-1, group-title="WORLD TV", BBC 3
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1253.ts
+#EXTINF:-1, group-title="WORLD TV", BBC4 Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15051.ts
+#EXTINF:-1, group-title="WORLD TV", BBC 4
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1254.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 1 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15050.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 1
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1263.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 2 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15049.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 2
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1264.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 3 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15048.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 3
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1265.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 4  Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15047.ts
+#EXTINF:-1, group-title="WORLD TV", ITV 4
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1266.ts
+#EXTINF:-1, group-title="WORLD TV", ITV Be
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/133849.ts
+#EXTINF:-1, group-title="WORLD TV", BBC1 HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150649.ts
+#EXTINF:-1, group-title="WORLD TV", BBC1 Wales BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150652.ts
+#EXTINF:-1, group-title="WORLD TV", BBC2 HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150647.ts
+#EXTINF:-1, group-title="WORLD TV", BBC3/CBBC FHD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150646.ts
+#EXTINF:-1, group-title="WORLD TV", BBC Four BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150645.ts
+#EXTINF:-1, group-title="WORLD TV", BBC One FHD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150657.ts
+#EXTINF:-1, group-title="WORLD TV", BBC One London BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150656.ts
+#EXTINF:-1, group-title="WORLD TV", BBC One NI HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150648.ts
+#EXTINF:-1, group-title="WORLD TV", BBC One Scotland FHD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150655.ts
+#EXTINF:-1, group-title="WORLD TV", BBC One Wales BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150654.ts
+#EXTINF:-1, group-title="WORLD TV", BBC Parliament BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150653.ts
+#EXTINF:-1, group-title="WORLD TV", BBC Two BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150650.ts
+#EXTINF:-1, group-title="WORLD TV", BBC Two HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150651.ts
+#EXTINF:-1, group-title="WORLD TV", BBC WORLD NEWS BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150658.ts
+#EXTINF:-1, group-title="WORLD TV", ITV1 FHD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150643.ts
+#EXTINF:-1, group-title="WORLD TV", ITV1 HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150644.ts
+#EXTINF:-1, group-title="WORLD TV", ITV1  1 BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150635.ts
+#EXTINF:-1, group-title="WORLD TV", ITV2  1 BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150640.ts
+#EXTINF:-1, group-title="WORLD TV", ITV2 BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150641.ts
+#EXTINF:-1, group-title="WORLD TV", ITV2 HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150642.ts
+#EXTINF:-1, group-title="WORLD TV", ITV3 BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150638.ts
+#EXTINF:-1, group-title="WORLD TV", ITV3 HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150639.ts
+#EXTINF:-1, group-title="WORLD TV", ITV4 BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150636.ts
+#EXTINF:-1, group-title="WORLD TV", ITV4 HD BACKUP
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/150637.ts
+#EXTINF:-1, group-title="WORLD TV", CHANNEL 4 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1257.ts
+#EXTINF:-1, group-title="WORLD TV", CHANNEL 4 Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15045.ts
+#EXTINF:-1, group-title="WORLD TV", CHANNEL 5 Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15046.ts
+#EXTINF:-1, group-title="WORLD TV", GOLD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8564.ts
+#EXTINF:-1, group-title="WORLD TV", SKY ONE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1327.ts
+#EXTINF:-1, group-title="WORLD TV", SKY TWO
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15044.ts
+#EXTINF:-1, group-title="WORLD TV", SKY LIVING
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1325.ts
+#EXTINF:-1, group-title="WORLD TV", SKY ATLANTIC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1323.ts
+#EXTINF:-1, group-title="WORLD TV", SYFY
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15021.ts
+#EXTINF:-1, group-title="WORLD TV", SKY ART 1
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15020.ts
+#EXTINF:-1, group-title="WORLD TV", BOX NATION
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1296.ts
+#EXTINF:-1, group-title="WORLD TV", E4 UK
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15029.ts
+#EXTINF:-1, group-title="WORLD TV", 5 USA
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15031.ts
+#EXTINF:-1, group-title="WORLD TV", ALIBI
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15032.ts
+#EXTINF:-1, group-title="WORLD TV", COLORS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15010.ts
+#EXTINF:-1, group-title="WORLD TV", Comedy Central
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15014.ts
+#EXTINF:-1, group-title="WORLD TV", DAVE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15042.ts
+#EXTINF:-1, group-title="WORLD TV", E!
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15035.ts
+#EXTINF:-1, group-title="WORLD TV", Home
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14993.ts
+#EXTINF:-1, group-title="WORLD TV", LONDON LIVE Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14991.ts
+#EXTINF:-1, group-title="WORLD TV", MORE 4
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15041.ts
+#EXTINF:-1, group-title="WORLD TV", CHALLENGE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/149264.ts
+#EXTINF:-1, group-title="WORLD TV", VICELAND
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/136171.ts
+#EXTINF:-1, group-title="WORLD TV", CBeebies
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/134445.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES SELECT
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1336.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES PREMIERE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1334.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES FAMILY
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1332.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES COMEDY
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1329.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES ACTION AND ADVENTURE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1328.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES DISNEY
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15015.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES DRAMA & ROMANCE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15016.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES SCI-FI & HORROR
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15018.ts
+#EXTINF:-1, group-title="WORLD TV", SKY MOVIES THRILLER
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15019.ts
+#EXTINF:-1, group-title="WORLD TV", TRUE MOVIES  1 Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15025.ts
+#EXTINF:-1, group-title="WORLD TV", True Movies 1
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3979.ts
+#EXTINF:-1, group-title="WORLD TV", True Movies 2
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3980.ts
+#EXTINF:-1, group-title="WORLD TV", CBS ACTION Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15022.ts
+#EXTINF:-1, group-title="WORLD TV", CBS DRAMA Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15023.ts
+#EXTINF:-1, group-title="WORLD TV", CBS REALITY Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15024.ts
+#EXTINF:-1, group-title="WORLD TV", BOOMERANG
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15003.ts
+#EXTINF:-1, group-title="WORLD TV", Cartoon Network
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15004.ts
+#EXTINF:-1, group-title="WORLD TV", Disney Jr
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15009.ts
+#EXTINF:-1, group-title="WORLD TV", Disney channel
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/134124.ts
+#EXTINF:-1, group-title="WORLD TV", DISNEY XD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/5377.ts
+#EXTINF:-1, group-title="WORLD TV", DISNEY JUNIOR
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1288.ts
+#EXTINF:-1, group-title="WORLD TV", Nick JR
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15005.ts
+#EXTINF:-1, group-title="WORLD TV", NICKTOONS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15008.ts
+#EXTINF:-1, group-title="WORLD TV", NATIONAL GEOGRAPHIC WILD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1286.ts
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY CHANNEL
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1275.ts
+#EXTINF:-1, group-title="WORLD TV", DISCOVERY HISTORY
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1280.ts
+#EXTINF:-1, group-title="WORLD TV", Discovery Turbo UK
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15011.ts
+#EXTINF:-1, group-title="WORLD TV", Travel channel
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/134122.ts
+#EXTINF:-1, group-title="WORLD TV", Animal planet
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/134123.ts
+#EXTINF:-1, group-title="WORLD TV", FINE LIVING NETWORK Full HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14994.ts
+#EXTINF:-1, group-title="WORLD TV", FOOD NETWORK
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15026.ts
+#EXTINF:-1, group-title="WORLD TV", SKY GOOD FOOD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15028.ts
+#EXTINF:-1, group-title="WORLD TV", NATIONAL GEOGRAPHIC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15012.ts
+#EXTINF:-1, group-title="WORLD TV", PICK TV
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15027.ts
+#EXTINF:-1, group-title="WORLD TV", REALLY
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15038.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS NEWS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14987.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORT NEWS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1314.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Sport MAIN EVENTS Backup
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14985.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS MAIN EVENTS HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14986.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS MAIN EVENTS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1308.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORT CRICKET HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14984.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Cricket Backup
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14983.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS CRICKET
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1309.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS ACTION HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14982.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Sport Action Backup
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14981.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS GOLF
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1310.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS GOLF HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1311.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS PREMIERE LEAGUE HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14979.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS PERMIERE LEAGUE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1312.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS FOOTBALL HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14980.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS F1 HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14977.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS F1
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1313.ts
+#EXTINF:-1, group-title="WORLD TV", PREMIERE SPORT
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14978.ts
+#EXTINF:-1, group-title="WORLD TV", PREMIER SPORTS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1306.ts
+#EXTINF:-1, group-title="WORLD TV", SETANTA SPORTS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1307.ts
+#EXTINF:-1, group-title="WORLD TV", BT SPORT EUROPE
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1299.ts
+#EXTINF:-1, group-title="WORLD TV", BT SPORT 1
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1297.ts
+#EXTINF:-1, group-title="WORLD TV", BT SPORT 2
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1298.ts
+#EXTINF:-1, group-title="WORLD TV", BT SPORT 3
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123269.ts
+#EXTINF:-1, group-title="WORLD TV", EUROSPORT 1
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14975.ts
+#EXTINF:-1, group-title="WORLD TV", EUROSPORT 2
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14976.ts
+#EXTINF:-1, group-title="WORLD TV", CHELSEA TV
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14973.ts
+#EXTINF:-1, group-title="WORLD TV", LiverpooL FC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14974.ts
+#EXTINF:-1, group-title="WORLD TV", MAN UTD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14970.ts
+#EXTINF:-1, group-title="WORLD TV", MOTORS TV
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14971.ts
+#EXTINF:-1, group-title="WORLD TV", RACING UK
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14972.ts
+#EXTINF:-1, group-title="WORLD TV", ESPN
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1302.ts
+#EXTINF:-1, group-title="WORLD TV", Sky Sports Box Office (LIVE DURING BOXING MATCH)
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/142973.ts
+#EXTINF:-1, group-title="WORLD TV", AT RACES
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/155637.ts
+#EXTINF:-1, group-title="WORLD TV", BBC News
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14999.ts
+#EXTINF:-1, group-title="WORLD TV", SKY NEWS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1256.ts
+#EXTINF:-1, group-title="WORLD TV", MTV Base
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15000.ts
+#EXTINF:-1, group-title="WORLD TV", MTV HITS
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/14997.ts
+#EXTINF:-1, group-title="WORLD TV", VH1 CLASSIC
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/1295.ts
+#EXTINF:-1, group-title="WORLD TV", CNBC Europe
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/134443.ts
+#EXTINF:-1, group-title="WORLD TV", YESTERDAY
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/15043.ts
+#EXTINF:-1, group-title="WORLD TV", CNN International
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/73489.ts
+#EXTINF:-1, group-title="WORLD TV", British Muslim
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/134446.ts
+#EXTINF:-1, group-title="WORLD TV", Euronews English
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/134441.ts
+#EXTINF:-1, group-title="WORLD TV", SKY SPORTS ARENA HD
+http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/174630.ts
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
