@@ -8,7 +8,7 @@ http://kil7.azureedge.net/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hawks@Raptors
 http://kil14.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", TWolves@Thunder
-http://kil4.azureedge.net/hls/preview.m3u8
+http://kil7.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Kings@Suns
 http://kil4.azureedge.net/hls/preview.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Knicks@Warriors
