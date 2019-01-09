@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1, group-title="NBA LIVE", Pacers@Celtics
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/59179
+#EXTINF:-1, group-title="NBA LIVE", 76ers@Wizards
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/60478
+#EXTINF:-1, group-title="NBA LIVE", Hawks@Nets
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58846
+#EXTINF:-1, group-title="NBA LIVE", Bucks@Rockets
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/59187
+#EXTINF:-1, group-title="NBA LIVE", Spurs@Grizzlies
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/60474
+#EXTINF:-1, group-title="NBA LIVE", Cavs@Pelicans
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58848
+#EXTINF:-1, group-title="NBA LIVE", Suns@Mavericks
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58855
+#EXTINF:-1, group-title="NBA LIVE", Magic@Jazz
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58852
+#EXTINF:-1, group-title="NBA LIVE", Bulls@Blazers
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/60476
+#EXTINF:-1, group-title="NBA LIVE", Pistons@Lakers
+http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/59187
 #EXTINF:-1, group-title="WORLD TV", ABC USA
 http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8191.ts
 #EXTINF:-1, group-title="WORLD TV", ABC news
