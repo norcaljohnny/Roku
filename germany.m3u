@@ -1,261 +1,127 @@
 #EXTM3U
-#EXTINF:-1,DE: Das Erste HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3463.ts
-#EXTINF:-1,DE: 13th Street HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8195.ts
-#EXTINF:-1,DE: 3sat HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3456.ts
-#EXTINF:-1,DE: AXN FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3460.ts
-#EXTINF:-1,DE: Arte HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3458.ts
-#EXTINF:-1,DE: DMAX HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3441.ts
-#EXTINF:-1,DE: DMAX FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3464.ts
-#EXTINF:-1,DE: E Entertainment HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30048.ts
-#EXTINF:-1,DE: FOX HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3887.ts
-#EXTINF:-1,DE: HEIMATKANAL HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8196.ts
-#EXTINF:-1,DE: Kabel Eins Classics HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29036.ts
-#EXTINF:-1,DE: KINOWELT HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30050.ts
-#EXTINF:-1,DE: Kabel Eins HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3471.ts
-#EXTINF:-1,DE: MDR FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30051.ts
-#EXTINF:-1,DE: Phoenix HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30052.ts
-#EXTINF:-1,DE: Pro 7 MAXX HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3426.ts
-#EXTINF:-1,DE: PRO 7 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3427.ts
-#EXTINF:-1,DE: PRO 7 Fun HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30053.ts
-#EXTINF:-1,DE: RTL 2 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3425.ts
-#EXTINF:-1,DE: RTL HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3424.ts
-#EXTINF:-1,DE: RTL Living HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3483.ts
-#EXTINF:-1,DE: RTL NITRO HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3482.ts
-#EXTINF:-1,DE: RTL Nitro FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3423.ts
-#EXTINF:-1,DE: RTL PLUS HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8193.ts
-#EXTINF:-1,DE: Romance HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30054.ts
-#EXTINF:-1,DE: SIXX FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29035.ts
-#EXTINF:-1,DE: SWR HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3421.ts
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3485.ts
-#EXTINF:-1,DE: Super RTL HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3368.ts
-#EXTINF:-1,DE: SKY SYFY HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3367.ts
-#EXTINF:-1,DE: TLC HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3365.ts
-#EXTINF:-1,DE: TNT Comedy HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30042.ts
-#EXTINF:-1,DE: TNT Film HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3363.ts
-#EXTINF:-1,DE: TNT Serie HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3362.ts
-#EXTINF:-1,DE: Tele 5 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29037.ts
-#EXTINF:-1,DE: Universal Channel HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30043.ts
-#EXTINF:-1,DE: VOX HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3361.ts
-#EXTINF:-1,DE: ZDF Neo HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3489.ts
-#EXTINF:-1,DE: ZEE ONE HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8493.ts
-#EXTINF:-1,DE: BR HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3461.ts
-#EXTINF:-1,DE: NDR HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3429.ts
-#EXTINF:-1,DE: WDR FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3486.ts
-#EXTINF:-1,DE: ZDF Info HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3487.ts
-#EXTINF:-1,DE: N24 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3430.ts
-#EXTINF:-1,DE: Sat 1 Gold HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30356.ts
-#EXTINF:-1,DE: N-TV HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3476.ts
-#EXTINF:-1,AT: PULS4 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123006.ts
-#EXTINF:-1,AT: ORF 1 HD AUSTRIA
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29995.ts
-#EXTINF:-1,AT: ORF 2 HD AUSTRIA
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29996.ts
-#EXTINF:-1,AT: ORF 3 HD AUSTRIA
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/129284.ts
-#EXTINF:-1,AT: ATV HD AUSTRIA
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29993.ts
-#EXTINF:-1,AT: ATV 2 AUSTRIA
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29994.ts
-#EXTINF:-1,DE: Sky 1 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30041.ts
-#EXTINF:-1,DE: Sky Arts HD+
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/131174.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3404.ts
-#EXTINF:-1,DE: Sky Cinema +1 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3402.ts
-#EXTINF:-1,DE: Sky Cinema  +24 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3403.ts
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30390.ts
-#EXTINF:-1,DE: Sky Cinema Comedy
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3401.ts
-#EXTINF:-1,DE: Sky Cinema Emotion HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3400.ts
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3417.ts
-#EXTINF:-1,DE: Sky Nostalgie
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3396.ts
-#EXTINF:-1,DE: Sky Krimi
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3397.ts
-#EXTINF:-1,DE: Sky Atlantic HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3416.ts
-#EXTINF:-1,DE: Sky Select 1 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3395.ts
-#EXTINF:-1,DE: Sky Select 2 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3394.ts
-#EXTINF:-1,DE: Sky Select 3 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3393.ts
-#EXTINF:-1,DE: Sky Select 5 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3391.ts
-#EXTINF:-1,DE: Sky Select 6 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3390.ts
-#EXTINF:-1,DE: Sky Select 4 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3392.ts
-#EXTINF:-1,DE: Sky Select 7 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3389.ts
-#EXTINF:-1,DE: Sky Select 8 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3388.ts
-#EXTINF:-1,DE: Discovery Channel HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3446.ts
-#EXTINF:-1,DE: National Geographic  FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3455.ts
-#EXTINF:-1,DE: National Geo Wild HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3454.ts
-#EXTINF:-1,DE: Animal Planet FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30046.ts
-#EXTINF:-1,DE: Planet HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30044.ts
-#EXTINF:-1,DE: A&E HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30045.ts
-#EXTINF:-1,DE: History HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3439.ts
-#EXTINF:-1,DE: N24 Doku
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30391.ts
-#EXTINF:-1,DE: Kabel 1 Doku HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30388.ts
-#EXTINF:-1,DE: Disney Channel HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3445.ts
-#EXTINF:-1,DE: Disney XD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3442.ts
-#EXTINF:-1,DE: Disney Junior HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3443.ts
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3444.ts
-#EXTINF:-1,DE: Junior HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3437.ts
-#EXTINF:-1,DE: TOGGO PLUS HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8194.ts
-#EXTINF:-1,DE: CARTOON NETWORK HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8321.ts
-#EXTINF:-1,DE: Delux Music HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30358.ts
-#EXTINF:-1,DE: Nickelodeon HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30359.ts
-#EXTINF:-1,DE: Boomerang HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3449.ts
-#EXTINF:-1,DE: Kika HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3435.ts
-#EXTINF:-1,DE: KIKA FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/8186.ts
-#EXTINF:-1,DE: Sport Digital HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3371.ts
-#EXTINF:-1,DE: Sky Sport News HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3374.ts
-#EXTINF:-1,DE: Sport 1 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3373.ts
-#EXTINF:-1,DE: Sport 1 FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30357.ts
-#EXTINF:-1,DE: Sky Sport HD 1
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3376.ts
-#EXTINF:-1,DE: Sky Sport HD 2
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3375.ts
-#EXTINF:-1,DE: Sky Sport 1
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3387.ts
-#EXTINF:-1,DE: Sky Sport 2
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3385.ts
-#EXTINF:-1,DE: Sky Sport Austria
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3377.ts
-#EXTINF:-1,DE: Sky Sport 1 HD 1080P
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30036.ts
-#EXTINF:-1,DE: Sky Sport 2 HD 1080P
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30039.ts
-#EXTINF:-1,DE: Sky Sport 3 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123018.ts
-#EXTINF:-1,DE: Sky Sport 4 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123019.ts
-#EXTINF:-1,DE: Sky Sport 5 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123020.ts
-#EXTINF:-1,DE: Sky Sport 6 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123021.ts
-#EXTINF:-1,DE: Sky Sport 7 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123022.ts
-#EXTINF:-1,DE: Sky Sport 8 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123023.ts
-#EXTINF:-1,DE: Sky Sport 9 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123024.ts
-#EXTINF:-1,DE: Sky Sport 10 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123025.ts
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD 1080P
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/29997.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3405.ts
-#EXTINF:-1,DE: Sky Bundesliga 1 FHD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3415.ts
-#EXTINF:-1,DE: Sky Bundesliga 2 match time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3413.ts
-#EXTINF:-1,DE: Sky Bundesliga 3 match time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3412.ts
-#EXTINF:-1,DE: Sky Bundesliga 4 match time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123115.ts
-#EXTINF:-1,DE: Sky Bundesliga 5 HD Match Time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3410.ts
-#EXTINF:-1,DE: Sky Bundesliga 6 Match Time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3409.ts
-#EXTINF:-1,DE: Sky Bundesliga 7 Match Time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3408.ts
-#EXTINF:-1,DE: Sky Bundesliga 8 Match Time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3407.ts
-#EXTINF:-1,DE: Sky Bundesliga 9 Match Time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3406.ts
-#EXTINF:-1,DE: SKY Bundesliga 10 match time
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3414.ts
-#EXTINF:-1,DE: Motorvision HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3433.ts
-#EXTINF:-1,DE: Eurosport 1 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/3440.ts
-#EXTINF:-1,DE: Eurosport 2 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/30049.ts
-#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/123027.ts
-#EXTINF:-1,DE: Dazn Bar 1 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/161313.ts
-#EXTINF:-1,DE: Dazn Bar 2 HD
-http://ip.bttv.be:8000/live/hL2sVnkFI1999/hFI0I5i4fZ999/161314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: Disney Junior HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: Disney Junior HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39321
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: EuroSp0rt 2 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: EuroSp0rt 2 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39320
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: MDR S-Anhalt HD 1080P DE" tvg-logo="" group-title="GERMAN",BT VIP DE: MDR S-Anhalt HD 1080P DE
+http://primestreams.tv:826/Sin6let0n/emmansin/39319
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: MDR Sachsen HD 1080P DE" tvg-logo="" group-title="GERMAN",BT VIP DE: MDR Sachsen HD 1080P DE
+http://primestreams.tv:826/Sin6let0n/emmansin/39318
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: MDR Th" tvg-logo="" group-title="GERMAN",BT VIP DE: MDR Th
+http://primestreams.tv:826/Sin6let0n/emmansin/39317
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: Mediaspar HD 1080P DE" tvg-logo="" group-title="GERMAN",BT VIP DE: Mediaspar HD 1080P DE
+http://primestreams.tv:826/Sin6let0n/emmansin/39316
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: MTV HD 1080P DE" tvg-logo="" group-title="GERMAN",BT VIP DE: MTV HD 1080P DE
+http://primestreams.tv:826/Sin6let0n/emmansin/39315
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: RTL Crime HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: RTL Crime HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39314
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y 1 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y 1 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39312
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Arts HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Arts HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39311
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Cinema  1 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Cinema  1 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39310
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Cinema  24 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Cinema  24 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39309
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Cinema Family HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Cinema Family HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39308
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 1 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 1 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39307
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 10 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 10 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39306
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 11 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 11 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39305
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 2 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 2 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39304
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 3 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 3 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39303
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 4 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 4 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39302
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 5 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 5 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39301
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 7 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 7 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39299
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 8 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 8 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39298
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: S3y Sp0rt 9 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: S3y Sp0rt 9 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39297
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: SAT.1 HD 1080P DE" tvg-logo="" group-title="GERMAN",BT VIP DE: SAT.1 HD 1080P DE
+http://primestreams.tv:826/Sin6let0n/emmansin/39313
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: SRF 1 HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: SRF 1 HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39296
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: SRF Zwei DE" tvg-logo="" group-title="GERMAN",BT VIP DE: SRF Zwei DE
+http://primestreams.tv:826/Sin6let0n/emmansin/39295
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: SWR DE" tvg-logo="" group-title="GERMAN",BT VIP DE: SWR DE
+http://primestreams.tv:826/Sin6let0n/emmansin/39294
+#EXTINF:-1 tvg-ID="" tvg-name="BT VIP DE: Universal Channel HD (1080P)" tvg-logo="" group-title="GERMAN",BT VIP DE: Universal Channel HD (1080P)
+http://primestreams.tv:826/Sin6let0n/emmansin/39293
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 13th Steet HD" tvg-logo="" group-title="GERMAN",DE: 13th Steet HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39291
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 3p0rt1 1  HD" tvg-logo="" group-title="GERMAN",DE: 3p0rt1 1  HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39260
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Arte HD" tvg-logo="" group-title="GERMAN",DE: Arte HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39290
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAS ERSTE HD" tvg-logo="" group-title="GERMAN",DE: DAS ERSTE HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39289
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Kabel 1 Doku" tvg-logo="" group-title="GERMAN",DE: Kabel 1 Doku
+http://primestreams.tv:826/Sin6let0n/emmansin/39288
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Kabel 1 HD" tvg-logo="" group-title="GERMAN",DE: Kabel 1 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39287
+#EXTINF:-1 tvg-ID="" tvg-name="DE: N24 HD" tvg-logo="" group-title="GERMAN",DE: N24 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39286
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NDR HD" tvg-logo="" group-title="GERMAN",DE: NDR HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39285
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NTV HD" tvg-logo="" group-title="GERMAN",DE: NTV HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39284
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Pro 7 HD" tvg-logo="" group-title="GERMAN",DE: Pro 7 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39283
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Pro 7 MAXX HD" tvg-logo="" group-title="GERMAN",DE: Pro 7 MAXX HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39282
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL 2 HD" tvg-logo="" group-title="GERMAN",DE: RTL 2 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39281
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL HD" tvg-logo="" group-title="GERMAN",DE: RTL HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39280
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y  3p0rt1 US HD" tvg-logo="" group-title="GERMAN",DE: S3y  3p0rt1 US HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39278
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Bundesliga  6 (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMAN",DE: S3y Bundesliga  6 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/Sin6let0n/emmansin/39277
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Bundesliga 1" tvg-logo="" group-title="GERMAN",DE: S3y Bundesliga 1
+http://primestreams.tv:826/Sin6let0n/emmansin/39276
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Bundesliga 2 (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMAN",DE: S3y Bundesliga 2 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/Sin6let0n/emmansin/39275
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Bundesliga 3 (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMAN",DE: S3y Bundesliga 3 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/Sin6let0n/emmansin/39274
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Bundesliga 4 (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMAN",DE: S3y Bundesliga 4 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/Sin6let0n/emmansin/39273
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Bundesliga 5  (ONLY ON MATCHDAY)" tvg-logo="" group-title="GERMAN",DE: S3y Bundesliga 5  (ONLY ON MATCHDAY)
+http://primestreams.tv:826/Sin6let0n/emmansin/39272
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Cinema  1 HD" tvg-logo="" group-title="GERMAN",DE: S3y Cinema  1 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39271
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Cinema  24 HD" tvg-logo="" group-title="GERMAN",DE: S3y Cinema  24 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39270
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Cinema Action HD" tvg-logo="" group-title="GERMAN",DE: S3y Cinema Action HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39269
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Cinema Comedy" tvg-logo="" group-title="GERMAN",DE: S3y Cinema Comedy
+http://primestreams.tv:826/Sin6let0n/emmansin/39268
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Cinema Emotion" tvg-logo="" group-title="GERMAN",DE: S3y Cinema Emotion
+http://primestreams.tv:826/Sin6let0n/emmansin/39267
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y Cinema Hits" tvg-logo="" group-title="GERMAN",DE: S3y Cinema Hits
+http://primestreams.tv:826/Sin6let0n/emmansin/39266
+#EXTINF:-1 tvg-ID="" tvg-name="DE: S3y One HD" tvg-logo="" group-title="GERMAN",DE: S3y One HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39265
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SAT 1 HD" tvg-logo="" group-title="GERMAN",DE: SAT 1 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39279
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sports 2 HD" tvg-logo="" group-title="GERMAN",DE: Sky Sports 2 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39263
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sp0rt 1 HD" tvg-logo="" group-title="GERMAN",DE: Sp0rt 1 HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39262
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sportdigital HD" tvg-logo="" group-title="GERMAN",DE: Sportdigital HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39261
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TELE 5" tvg-logo="" group-title="GERMAN",DE: TELE 5
+http://primestreams.tv:826/Sin6let0n/emmansin/39259
+#EXTINF:-1 tvg-ID="" tvg-name="DE: WDR HD" tvg-logo="" group-title="GERMAN",DE: WDR HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39258
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ZDF HD" tvg-logo="" group-title="GERMAN",DE: ZDF HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39257
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ZDF Info HD" tvg-logo="" group-title="GERMAN",DE: ZDF Info HD
+http://primestreams.tv:826/Sin6let0n/emmansin/39256
