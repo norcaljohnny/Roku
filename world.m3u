@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Suns@Mavericks
-http://jil14.azureedge.net/hls/7.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Magic@Jazz
 http://jil7.azureedge.net/hls/8.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bulls@Blazers
