@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Pacers@Celtics
-http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/60499
+http://jil4.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", 76ers@Wizards
-http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/60478
+http://jil6.azureedge.net/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hawks@Nets
-http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58846
+http://jil14.azureedge.net/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bucks@Rockets
-http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/59187
+http://jil2.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Spurs@Grizzlies
-http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/60474
+http://jil13.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Cavs@Pelicans
-http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58848
+http://jil3.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Suns@Mavericks
 http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58855
 #EXTINF:-1, group-title="NBA LIVE", Magic@Jazz
