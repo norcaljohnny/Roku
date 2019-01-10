@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Pistons@Lakers
-http://jil15.azureedge.net/hls/4.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Celtics@Heat
+http://primestreams.tv:826/Sin6let0n/emmansin/1448
+#EXTINF:-1, group-title="NBA LIVE", Clippers@Nuggets
+http://primestreams.tv:826/Sin6let0n/emmansin/36570
+#EXTINF:-1, group-title="NBA LIVE", Thunder@Spurs
+http://primestreams.tv:826/Sin6let0n/emmansin/1448
+#EXTINF:-1, group-title="NBA LIVE", Pistons@Kings
+http://primestreams.tv:826/Sin6let0n/emmansin/35437
 #EXTINF:-1, group-title="WORLD TV", A&E
 http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58408
 #EXTINF:-1, group-title="WORLD TV", ABC
