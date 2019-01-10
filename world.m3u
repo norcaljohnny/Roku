@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="AFC ASIAN CUP", Bahrain vs Thailand
-https://wowzaprod100-i.akamaihd.net/hls/live/254872/7a937947_1_1/chunklist.m3u8
-#EXTINF:-1, group-title="AFC ASIAN CUP", Bahrain vs Thailand 2
-http://tv.bm5.co:8080/live/rafasmb/2AxMF74B8n/35552.ts
 #EXTINF:-1, group-title="NBA LIVE", Celtics@Heat
 http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58283
 #EXTINF:-1, group-title="NBA LIVE", Clippers@Nuggets
