@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Clippers@Nuggets
-http://jil2.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Thunder@Spurs
 http://jil6.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pistons@Kings
