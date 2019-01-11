@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="AFC ASIAN CUP", AZKALS vs CHINA
+https://wowzaprod100-i.akamaihd.net/hls/live/254628/7e4506c4_1_1/chunklist.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hawks@76ers
 http://primestreams.tv:826/live/Sin6let0n/emmansin/1734.ts
 #EXTINF:-1, group-title="NBA LIVE", Bucks@Wizards
