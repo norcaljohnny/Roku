@@ -1,22 +1,10 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Hawks@76ers
-http://dil8.azureedge.net/hls/1a.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Bucks@Wizards
-http://dil8.azureedge.net/hls/2.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Pacers@Knicks
-http://dil8.azureedge.net/hls/1a.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Nets@Raptors
-http://dil8.azureedge.net/hls/4.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Cavs@Rockets
-http://jil1.azureedge.net/hls/5.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Mavs@TWolves
-http://jil1.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Lakers@Jazz
-http://jil1.azureedge.net/hls/3.m3u8
+http://dil3.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Blazers
-http://jil1.azureedge.net/hls/7.m3u8
+http://dil3.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bulls@Warriors
-http://jil1.azureedge.net/hls/8.m3u8
+http://dil6.azureedge.net/hls/2.m3u8
 #EXTINF:-1, group-title="WORLD TV", A&E
 http://netseronline.com:25461/jesus584739574398/4eF1UzF0IM/58408
 #EXTINF:-1, group-title="WORLD TV", ABC
