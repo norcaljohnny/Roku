@@ -353,18 +353,6 @@ http://kstreams.tk:25461/login1/login1/9425
 http://kstreams.tk:25461/login1/login1/9434
 #EXTINF:-1, group-title="WORLD TV", ESPN 3 | HD
 http://kstreams.tk:25461/login1/login1/9433
-#EXTINF:-1, group-title="WORLD TV", ESPN COLLEGE EXTRA 1 | HD
-http://kstreams.tk:25461/login1/login1/9432
-#EXTINF:-1, group-title="WORLD TV", ESPN COLLEGE EXTRA 2 | HD
-http://kstreams.tk:25461/login1/login1/9431
-#EXTINF:-1, group-title="WORLD TV", ESPN COLLEGE EXTRA 3 | HD
-http://kstreams.tk:25461/login1/login1/9430
-#EXTINF:-1, group-title="WORLD TV", ESPN COLLEGE EXTRA 4 | HD
-http://kstreams.tk:25461/login1/login1/9429
-#EXTINF:-1, group-title="WORLD TV", ESPN COLLEGE EXTRA 5 | HD
-http://kstreams.tk:25461/login1/login1/9428
-#EXTINF:-1, group-title="WORLD TV", ESPN COLLEGE EXTRA 6 | HD
-http://kstreams.tk:25461/login1/login1/9427
 #EXTINF:-1, group-title="WORLD TV", ESPN DEPORTES | HD
 http://kstreams.tk:25461/login1/login1/9426
 #EXTINF:-1, group-title="WORLD TV", FANTASY NETWORK | HD
@@ -389,12 +377,6 @@ http://kstreams.tk:25461/login1/login1/9414
 http://kstreams.tk:25461/login1/login1/9412
 #EXTINF:-1, group-title="WORLD TV", FOX BUSINESS NETWORK | HD
 http://kstreams.tk:25461/login1/login1/9411
-#EXTINF:-1, group-title="WORLD TV", FOX COLLEGE SPORTS ATLANTIC | HD
-http://kstreams.tk:25461/login1/login1/9410
-#EXTINF:-1, group-title="WORLD TV", FOX COLLEGE SPORTS CENTRAL | HD
-http://kstreams.tk:25461/login1/login1/9409
-#EXTINF:-1, group-title="WORLD TV", FOX COLLEGE SPORTS PACIFIC | HD
-http://kstreams.tk:25461/login1/login1/9408
 #EXTINF:-1, group-title="WORLD TV", FOX NEWS | HD*
 http://kstreams.tk:25461/login1/login1/9407
 #EXTINF:-1, group-title="WORLD TV", FOX SOCCER PLUS | SD
