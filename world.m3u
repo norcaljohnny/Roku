@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Hawks@76ers
-http://jil1.azureedge.net/hls/1a.m3u8
+http://dil8.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bucks@Wizards
-http://jil1.azureedge.net/hls/2.m3u8
+http://dil8.azureedge.net/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pacers@Knicks
-http://jil1.azureedge.net/hls/3.m3u8
+http://dil8.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Nets@Raptors
-http://jil1.azureedge.net/hls/4.m3u8
+http://dil8.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Cavs@Rockets
 http://jil1.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Mavs@TWolves
