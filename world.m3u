@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Lakers@Jazz
-http://dil3.azureedge.net/hls/4.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Hornets@Blazers
-http://dil3.azureedge.net/hls/1a.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Bulls@Warriors
-http://dil6.azureedge.net/hls/2.m3u8
 #EXTINF:-1, group-title="PINOY TV", SHOP TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1, group-title="PINOY TV", LIFE TV
