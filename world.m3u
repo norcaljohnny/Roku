@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Hornets@Kings
-http://mil1.azureedge.net/hls/7.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Bulls@Jazz
-http://mil1.azureedge.net/hls/8.m3u8
 #EXTINF:-1, group-title="WORLD TV", 5 STAR MAX 
 http://kstreams.tk:25461/pat123/pat123/5683
 #EXTINF:-1, group-title="WORLD TV", A&E 
