@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Nuggets@Suns
-http://mil1.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Kings
 http://mil1.azureedge.net/hls/7.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bulls@Jazz
