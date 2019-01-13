@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Grizzlies@Heat
-http://mil1.azureedge.net/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Celtics@Magic
 http://mil8.azureedge.net/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pelicans@TWolves
