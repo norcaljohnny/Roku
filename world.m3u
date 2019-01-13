@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Bucks vs Hawks
-http://bil1.azureedge.net/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Rockets vs Magic
 http://bil1.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Warriors@Mavs
