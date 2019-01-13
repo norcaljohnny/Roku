@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="AFC ASIAN CUPV", Oman vs Japan
+https://wowzaprod100-i.akamaihd.net/hls/live/254626/509c1685_1_1/chunklist.m3u8
 #EXTINF:-1, group-title="WORLD TV", 5 STAR MAX 
 http://kstreams.tk:25461/pat123/pat123/5683
 #EXTINF:-1, group-title="WORLD TV", A&E 
