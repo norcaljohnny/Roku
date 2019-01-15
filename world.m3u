@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Blazers@Kings
-http://gil1.azureedge.net/hls/7.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pelicans@Clippers
 http://gil1.azureedge.net/hls/8.m3u8
 #EXTINF:-1, group-title="WORLD TV", 5 STAR MAX 
