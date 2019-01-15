@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Grizzlies@Rockets
-http://gil1.azureedge.net/hls/5.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Hornets@Spurs
-http://gil1.azureedge.net/hls/9.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Pistons@Jazz
-http://gil1.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Blazers@Kings
 http://gil1.azureedge.net/hls/7.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pelicans@Clippers
