@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Celtics@Nets
-http://gil1.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Grizzlies@Rockets
 http://gil1.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Hornets@Spurs
