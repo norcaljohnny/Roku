@@ -1,383 +1,969 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FRANCE",FR: TF1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/15113
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6TER HD" tvg-logo="" group-title="FRANCE",FR: 6TER HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9067
-#EXTINF:-1 tvg-id="ABMoteurs.fr" tvg-name="FR: AB Moteurs HD" tvg-logo="" group-title="FRANCE",FR: AB Moteurs HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9066
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB1" tvg-logo="" group-title="FRANCE",FR: AB1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9065
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3" tvg-logo="" group-title="FRANCE",FR: AB3
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9064
-#EXTINF:-1 tvg-id="" tvg-name="FR: Animaux HD" tvg-logo="" group-title="FRANCE",FR: Animaux HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9063
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: Arte HD" tvg-logo="" group-title="FRANCE",FR: Arte HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9062
-#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="FR: Bein Sport 1 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sport 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9061
-#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="FR: Bein Sport 2 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sport 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9060
-#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="FR: Bein Sport 3 HD" tvg-logo="" group-title="FRANCE",FR: Bein Sport 3 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9059
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="FR: BFM Business" tvg-logo="" group-title="FRANCE",FR: BFM Business
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9058
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR: BFMTV HD" tvg-logo="" group-title="FRANCE",FR: BFMTV HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9057
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="FR: Boing" tvg-logo="" group-title="FRANCE",FR: Boing
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9056
-#EXTINF:-1 tvg-id="Boomerang FR" tvg-name="FR: Boomerang HD" tvg-logo="" group-title="FRANCE",FR: Boomerang HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9055
-#EXTINF:-1 tvg-id="13RUE.fr" tvg-name="FR: 13eme Rue FHD" tvg-logo="" group-title="FRANCE",FR: 13eme Rue FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9068
-#EXTINF:-1 tvg-id="Canal 8 FR" tvg-name="FR: Canal 8 FHD" tvg-logo="" group-title="FRANCE",FR: Canal 8 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9054
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J HD" tvg-logo="" group-title="FRANCE",FR: Canal J HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9053
-#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="FR: Canal + Cinema HD" tvg-logo="" group-title="FRANCE",FR: Canal + Cinema HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9051
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Decale FHD" tvg-logo="" group-title="FRANCE",FR: Canal + Decale FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9050
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Famiz FHD" tvg-logo="" group-title="FRANCE",FR: Canal + Famiz FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9049
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + HD" tvg-logo="" group-title="FRANCE",FR: Canal + HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9052
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal + Series HD" tvg-logo="" group-title="FRANCE",FR: Canal + Series HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9048
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport FHD" tvg-logo="" group-title="FRANCE",FR: Canal+ Sport FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9047
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="FRANCE",FR: Cartoon Network
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9046
-#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse e Peche" tvg-logo="" group-title="FRANCE",FR: Chasse e Peche
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9045
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25 FHD" tvg-logo="" group-title="FRANCE",FR: Cherie 25 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9044
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cine FX HD" tvg-logo="" group-title="FRANCE",FR: Cine FX HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9043
-#EXTINF:-1 tvg-id="" tvg-name="FR: CinePlus Emotion HD" tvg-logo="" group-title="FRANCE",FR: CinePlus Emotion HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9042
-#EXTINF:-1 tvg-id="" tvg-name="FR: CinePlus Frisson HD" tvg-logo="" group-title="FRANCE",FR: CinePlus Frisson HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9041
-#EXTINF:-1 tvg-id="" tvg-name="FR: CinePlus Polar HD" tvg-logo="" group-title="FRANCE",FR: CinePlus Polar HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9040
-#EXTINF:-1 tvg-id="" tvg-name="FR: CinePlus Premier HD" tvg-logo="" group-title="FRANCE",FR: CinePlus Premier HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9039
-#EXTINF:-1 tvg-id="" tvg-name="FR: ComediePlus FHD" tvg-logo="" group-title="FRANCE",FR: ComediePlus FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9038
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Choc FHD" tvg-logo="" group-title="FRANCE",FR: OCS Choc FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9037
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Urban" tvg-logo="" group-title="FRANCE",FR: Trace Urban
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9035
-#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery" tvg-logo="" group-title="FRANCE",FR: Discovery
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9034
-#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR: Discovery Science HD" tvg-logo="" group-title="FRANCE",FR: Discovery Science HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9033
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel HD" tvg-logo="" group-title="FRANCE",FR: Disney Channel HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9032
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinema" tvg-logo="" group-title="FRANCE",FR: Disney Cinema
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9031
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Junior FHD" tvg-logo="" group-title="FRANCE",FR: Disney Junior FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9030
-#EXTINF:-1 tvg-id="" tvg-name="FR: E! Entertainment" tvg-logo="" group-title="FRANCE",FR: E! Entertainment
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9029
-#EXTINF:-1 tvg-id="" tvg-name="FR: Enorme" tvg-logo="" group-title="FRANCE",FR: Enorme
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9028
-#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Life" tvg-logo="" group-title="FRANCE",FR: Equidia Life
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9027
-#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Live" tvg-logo="" group-title="FRANCE",FR: Equidia Live
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9026
-#EXTINF:-1 tvg-id="" tvg-name="FR: Equipe 21 HD" tvg-logo="" group-title="FRANCE",FR: Equipe 21 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9025
-#EXTINF:-1 tvg-id="" tvg-name="FR: Euronews" tvg-logo="" group-title="FRANCE",FR: Euronews
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9024
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1" tvg-logo="" group-title="FRANCE",FR: Eurosport 1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9023
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2 HD" tvg-logo="" group-title="FRANCE",FR: Eurosport 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9022
-#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+ 24/24" tvg-logo="" group-title="FRANCE",FR: Foot+ 24/24
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9021
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 2 HD" tvg-logo="" group-title="FRANCE",FR: France 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9020
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 24" tvg-logo="" group-title="FRANCE",FR: France 24
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9019
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 3" tvg-logo="" group-title="FRANCE",FR: France 3
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9018
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 4 HD" tvg-logo="" group-title="FRANCE",FR: France 4 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9017
-#EXTINF:-1 tvg-id="" tvg-name="FR: France 5 FHD" tvg-logo="" group-title="FRANCE",FR: France 5 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9016
-#EXTINF:-1 tvg-id="" tvg-name="FR: France Ô" tvg-logo="" group-title="FRANCE",FR: France Ô
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9015
-#EXTINF:-1 tvg-id="" tvg-name="FR: Game One" tvg-logo="" group-title="FRANCE",FR: Game One
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9014
-#EXTINF:-1 tvg-id="" tvg-name="FR: HD1 FHD" tvg-logo="" group-title="FRANCE",FR: HD1 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9013
-#EXTINF:-1 tvg-id="" tvg-name="FR: Info Sport+" tvg-logo="" group-title="FRANCE",FR: Info Sport+
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9012
-#EXTINF:-1 tvg-id="" tvg-name="FR: iTele" tvg-logo="" group-title="FRANCE",FR: iTele
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9011
-#EXTINF:-1 tvg-id="" tvg-name="FR: KTO" tvg-logo="" group-title="FRANCE",FR: KTO
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9010
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Chaine Normande" tvg-logo="" group-title="FRANCE",FR: La Chaine Normande
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9009
-#EXTINF:-1 tvg-id="" tvg-name="FR: HD1" tvg-logo="" group-title="FRANCE",FR: HD1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9008
-#EXTINF:-1 tvg-id="" tvg-name="FR: LCi HD" tvg-logo="" group-title="FRANCE",FR: LCi HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9007
-#EXTINF:-1 tvg-id="" tvg-name="FR: LCP" tvg-logo="" group-title="FRANCE",FR: LCP
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9006
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 FHD" tvg-logo="" group-title="FRANCE",FR: M6 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9005
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music" tvg-logo="" group-title="FRANCE",FR: M6 Music
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9004
-#EXTINF:-1 tvg-id="MezzoLiveHD.fr" tvg-name="FR: Mezzo FHD" tvg-logo="" group-title="FRANCE",FR: Mezzo FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9003
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 1 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9002
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 2 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9000
-#EXTINF:-1 tvg-id="" tvg-name="FR: Crime District FHD" tvg-logo="" group-title="FRANCE",FR: Crime District FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8999
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 3 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 3 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8998
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 4 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 4 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8997
-#EXTINF:-1 tvg-id="" tvg-name="FR: Nat Geo Wild HD" tvg-logo="" group-title="FRANCE",FR: Nat Geo Wild HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8996
-#EXTINF:-1 tvg-id="" tvg-name="FR: National Geographic HD" tvg-logo="" group-title="FRANCE",FR: National Geographic HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8995
-#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="FR: My Cuisine FHD" tvg-logo="" group-title="FRANCE",FR: My Cuisine FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/16215
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1 HD" tvg-logo="" group-title="FRANCE",FR: beIN Sports 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8084
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2 HD" tvg-logo="" group-title="FRANCE",FR: beIN Sports 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8085
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 3 HD" tvg-logo="" group-title="FRANCE",FR: beIN Sports 3 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8086
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Sport HD" tvg-logo="" group-title="FRANCE",FR: Canal+ Sport HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8087
-#EXTINF:-1 tvg-id="" tvg-name="FR: SRF 1 HD" tvg-logo="" group-title="FRANCE",FR: SRF 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/16211
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/16212
-#EXTINF:-1 tvg-id="" tvg-name="FR: SRF 4 HD" tvg-logo="" group-title="FRANCE",FR: SRF 4 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/16213
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="" group-title="FRANCE",FR: RMC Sport 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/16214
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1 FHD" tvg-logo="" group-title="UK",UK: BBC 1 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8541
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2 HD" tvg-logo="" group-title="UK",UK: BBC 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8540
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 3" tvg-logo="" group-title="UK",UK: BBC 3
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8538
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 4 HD" tvg-logo="" group-title="UK",UK: BBC 4 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8539
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC Brit HD" tvg-logo="" group-title="UK",UK: BBC Brit HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8537
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC One" tvg-logo="" group-title="UK",UK: BBC One
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8542
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 2" tvg-logo="" group-title="UK",UK: ITV 2
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8529
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 3" tvg-logo="" group-title="UK",UK: ITV 3
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8528
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4" tvg-logo="" group-title="UK",UK: ITV 4
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8527
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV C" tvg-logo="" group-title="UK",UK: ITV C
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8469
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV Encore" tvg-logo="" group-title="UK",UK: ITV Encore
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8476
-#EXTINF:-1 tvg-id="" tvg-name="UK: ITV HD" tvg-logo="" group-title="UK",UK: ITV HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8530
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 4 HD" tvg-logo="" group-title="UK",UK: Channel 4 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8526
-#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 5" tvg-logo="" group-title="UK",UK: Channel 5
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8525
-#EXTINF:-1 tvg-id="" tvg-name="UK: CNN HD" tvg-logo="" group-title="UK",UK: CNN HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8524
-#EXTINF:-1 tvg-id="" tvg-name="UK: Boomerang" tvg-logo="" group-title="UK",UK: Boomerang
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8519
-#EXTINF:-1 tvg-id="" tvg-name="UK: Comedy Central HD" tvg-logo="" group-title="UK",UK: Comedy Central HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8517
-#EXTINF:-1 tvg-id="" tvg-name="UK: Crime Investigation" tvg-logo="" group-title="UK",UK: Crime Investigation
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8477
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery  1" tvg-logo="" group-title="UK",UK: Discovery  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8487
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Channel  1" tvg-logo="" group-title="UK",UK: Discovery Channel  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8478
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery HD" tvg-logo="" group-title="UK",UK: Discovery HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8515
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery History" tvg-logo="" group-title="UK",UK: Discovery History
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8486
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery History  1" tvg-logo="" group-title="UK",UK: Discovery History  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8485
-#EXTINF:-1 tvg-id="" tvg-name="UK: DMAX" tvg-logo="" group-title="UK",UK: DMAX
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8484
-#EXTINF:-1 tvg-id="" tvg-name="UK: DY Film FHD" tvg-logo="" group-title="UK",UK: DY Film FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8522
-#EXTINF:-1 tvg-id="" tvg-name="UK: Disney Junior" tvg-logo="" group-title="UK",UK: Disney Junior
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/5931
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky 2 HD" tvg-logo="" group-title="UK",UK: Sky 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/5932
-#EXTINF:-1 tvg-id="" tvg-name="UK: Alibi" tvg-logo="" group-title="UK",UK: Alibi
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8518
-#EXTINF:-1 tvg-id="" tvg-name="UK: Animal Planet  1" tvg-logo="" group-title="UK",UK: Animal Planet  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8488
-#EXTINF:-1 tvg-id="" tvg-name="UK: At the Races" tvg-logo="" group-title="UK",UK: At the Races
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8489
-#EXTINF:-1 tvg-id="" tvg-name="UK: E4" tvg-logo="" group-title="UK",UK: E4
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8514
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eden" tvg-logo="" group-title="UK",UK: Eden
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8513
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eden  1" tvg-logo="" group-title="UK",UK: Eden  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8483
-#EXTINF:-1 tvg-id="" tvg-name="UK: Film 4 HD" tvg-logo="" group-title="UK",UK: Film 4 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8512
-#EXTINF:-1 tvg-id="" tvg-name="UK: Fox HD" tvg-logo="" group-title="UK",UK: Fox HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8511
-#EXTINF:-1 tvg-id="" tvg-name="UK: History" tvg-logo="" group-title="UK",UK: History
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8481
-#EXTINF:-1 tvg-id="" tvg-name="UK: History  HD" tvg-logo="" group-title="UK",UK: History  HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8480
-#EXTINF:-1 tvg-id="" tvg-name="UK: Home&Health  1" tvg-logo="" group-title="UK",UK: Home&Health  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8468
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="" group-title="UK",UK: Sky Cinema Comedy HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9192
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Family HD" tvg-logo="" group-title="UK",UK: Sky Cinema Family HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9193
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Modern Greats HD" tvg-logo="" group-title="UK",UK: Sky Cinema Modern Greats HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9195
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Select HD" tvg-logo="" group-title="UK",UK: Sky Cinema Select HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9194
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Crime & Thriller HD" tvg-logo="" group-title="UK",UK: Sky Crime & Thriller HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9196
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Modern Greats" tvg-logo="" group-title="UK",UK: Sky Movies Modern Greats
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9188
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Movies Hits FHD" tvg-logo="" group-title="UK",UK: Sky Movies Hits FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9189
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Drama&Romance HD" tvg-logo="" group-title="UK",UK: Sky Cinema Drama&Romance HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8505
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Disney HD" tvg-logo="" group-title="UK",UK: Sky Cinema Disney HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8506
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="" group-title="UK",UK: Sky Cinema Greats HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8504
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Cinema Premiere HD" tvg-logo="" group-title="UK",UK: SKY Cinema Premiere HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8502
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Cinema SC-FI & Horror HD" tvg-logo="" group-title="UK",UK: SKY Cinema SC-FI & Horror HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8501
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic  1" tvg-logo="" group-title="UK",UK: Sky Atlantic  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8474
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic HD" tvg-logo="" group-title="UK",UK: Sky Atlantic HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9198
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Living" tvg-logo="" group-title="UK",UK: Sky Living
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9187
-#EXTINF:-1 tvg-id="" tvg-name="UK: True Entertainmment" tvg-logo="" group-title="UK",UK: True Entertainmment
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/9190
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sony Movie Channel" tvg-logo="" group-title="UK",UK: Sony Movie Channel
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8472
-#EXTINF:-1 tvg-id="" tvg-name="UK: Star Gold" tvg-logo="" group-title="UK",UK: Star Gold
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8482
-#EXTINF:-1 tvg-id="" tvg-name="UK:  Investigation Discovery HD" tvg-logo="" group-title="UK",UK:  Investigation Discovery HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8479
-#EXTINF:-1 tvg-id="" tvg-name="UK: NJE Film HD" tvg-logo="" group-title="UK",UK: NJE Film HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8521
-#EXTINF:-1 tvg-id="" tvg-name="UK: True Movies 1" tvg-logo="" group-title="UK",UK: True Movies 1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8503
-#EXTINF:-1 tvg-id="" tvg-name="UK: Universal" tvg-logo="" group-title="UK",UK: Universal
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8490
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nollywood Movies" tvg-logo="" group-title="UK",UK: Nollywood Movies
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8475
-#EXTINF:-1 tvg-id="" tvg-name="UK: Challenge +1" tvg-logo="" group-title="UK",UK: Challenge +1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8523
-#EXTINF:-1 tvg-id="" tvg-name="UK: SyFy" tvg-logo="" group-title="UK",UK: SyFy
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8492
-#EXTINF:-1 tvg-id="" tvg-name="UK: Syfy   1" tvg-logo="" group-title="UK",UK: Syfy   1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8471
-#EXTINF:-1 tvg-id="" tvg-name="UK: TCM" tvg-logo="" group-title="UK",UK: TCM
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8491
-#EXTINF:-1 tvg-id="" tvg-name="UK: TLC   1" tvg-logo="" group-title="UK",UK: TLC   1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8470
-#EXTINF:-1 tvg-id="" tvg-name="UK: Travel Channel" tvg-logo="" group-title="UK",UK: Travel Channel
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8473
-#EXTINF:-1 tvg-id="" tvg-name="UK: Travel Channel  1" tvg-logo="" group-title="UK",UK: Travel Channel  1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8520
-#EXTINF:-1 tvg-id="" tvg-name="UK: Nat Geo Wild HD" tvg-logo="" group-title="UK",UK: Nat Geo Wild HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8508
-#EXTINF:-1 tvg-id="" tvg-name="UK: National Geographic" tvg-logo="" group-title="UK",UK: National Geographic
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8507
-#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Turbo" tvg-logo="" group-title="UK",UK: Discovery Turbo
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8466
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky News HD" tvg-logo="" group-title="UK",UK: Sky News HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8494
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Box Office" tvg-logo="" group-title="UK",UK: Sky Sports Box Office
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8613
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sport News FHD" tvg-logo="" group-title="UK",UK: Sky Sport News FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8493
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="UK",UK: Sky Sports News HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8496
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix HD" tvg-logo="" group-title="UK",UK: Sky Sports Mix HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8611
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports HD [Football]" tvg-logo="" group-title="UK",UK: Sky Sports HD [Football]
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8610
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports HD [Premier League]" tvg-logo="" group-title="UK",UK: Sky Sports HD [Premier League]
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8612
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports  HD [Golf]" tvg-logo="" group-title="UK",UK: Sky Sports  HD [Golf]
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8497
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="" group-title="UK",UK: Sky Sports F1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8495
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports FHD [Cricket]" tvg-logo="" group-title="UK",UK: Sky Sports FHD [Cricket]
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8499
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports HD [Arena]" tvg-logo="" group-title="UK",UK: Sky Sports HD [Arena]
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8500
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports HD [Main Event]" tvg-logo="" group-title="UK",UK: Sky Sports HD [Main Event]
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8531
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports HD [Action]" tvg-logo="" group-title="UK",UK: Sky Sports HD [Action]
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8498
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 1 FHD" tvg-logo="" group-title="UK",UK: BT Sports 1 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8614
-#EXTINF:-1 tvg-id="" tvg-name="UK: Fox Sport 1 HD" tvg-logo="" group-title="UK",UK: Fox Sport 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8357
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="UK",UK: BT Sport 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8370
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="UK",UK: BT Sport 1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8369
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 2 FHD" tvg-logo="" group-title="UK",UK: BT Sports 2 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8615
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="UK",UK: BT Sport 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8368
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="UK",UK: BT Sport 2
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8367
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sports 3 FHD" tvg-logo="" group-title="UK",UK: BT Sports 3 FHD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8616
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="UK",UK: BT Sport 3 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8366
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 3" tvg-logo="" group-title="UK",UK: BT Sport 3
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8365
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 1" tvg-logo="" group-title="UK",UK: BT Sport Extra 1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8362
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 2" tvg-logo="" group-title="UK",UK: BT Sport Extra 2
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8361
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 3" tvg-logo="" group-title="UK",UK: BT Sport Extra 3
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8360
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 4" tvg-logo="" group-title="UK",UK: BT Sport Extra 4
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8359
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Extra 5" tvg-logo="" group-title="UK",UK: BT Sport Extra 5
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8358
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport | ESPN HD" tvg-logo="" group-title="UK",UK: BT Sport | ESPN HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8363
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport//ESPN" tvg-logo="" group-title="UK",UK: BT Sport//ESPN
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8364
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports 1" tvg-logo="" group-title="UK",UK: Eir Sports 1
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8536
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sports 2" tvg-logo="" group-title="UK",UK: Eir Sports 2
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8535
-#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports HD" tvg-logo="" group-title="UK",UK: Premier Sports HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8533
-#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK HD" tvg-logo="" group-title="UK",UK: Racing UK HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8532
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV HD" tvg-logo="" group-title="UK",UK: LFC TV HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8510
-#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV HD" tvg-logo="" group-title="UK",UK: MUTV HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8534
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 HD" tvg-logo="" group-title="UK",UK: Eurosport 1 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8356
-#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 HD" tvg-logo="" group-title="UK",UK: Eurosport 2 HD
-http://hrsolu.sytes.net:25461/b1UjGbew4U/IWPpA52LvW/8355
+#EXTINF:-1,13 ME RUE HD
+http://kstv.xyz:8080/Xonder/6231957871/38639
+#EXTINF:-1,6Ter HD
+http://kstv.xyz:8080/Xonder/6231957871/38638
+#EXTINF:-1,AB 3 HD
+http://kstv.xyz:8080/Xonder/6231957871/38620
+#EXTINF:-1,AB Moteurs HD
+http://kstv.xyz:8080/Xonder/6231957871/38619
+#EXTINF:-1,AB1 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38618
+#EXTINF:-1,Action HD
+http://kstv.xyz:8080/Xonder/6231957871/38617
+#EXTINF:-1,Africa 24
+http://kstv.xyz:8080/Xonder/6231957871/38616
+#EXTINF:-1,Alsace 20
+http://kstv.xyz:8080/Xonder/6231957871/38615
+#EXTINF:-1,ALTICE STUDIO HD
+http://kstv.xyz:8080/Xonder/6231957871/38614
+#EXTINF:-1,ANIMAUX FHD
+http://kstv.xyz:8080/Xonder/6231957871/38613
+#EXTINF:-1,Arte HD
+http://kstv.xyz:8080/Xonder/6231957871/38612
+#EXTINF:-1,AZUR TV
+http://kstv.xyz:8080/Xonder/6231957871/38611
+#EXTINF:-1,BBlack Africa
+http://kstv.xyz:8080/Xonder/6231957871/38610
+#EXTINF:-1,BBLACK CARIBBEAN
+http://kstv.xyz:8080/Xonder/6231957871/38609
+#EXTINF:-1,BBlack Classic
+http://kstv.xyz:8080/Xonder/6231957871/38608
+#EXTINF:-1,beIN Sports 1 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38607
+#EXTINF:-1,beIN Sports 10 Max
+http://kstv.xyz:8080/Xonder/6231957871/38599
+#EXTINF:-1,beIN Sports 3 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38606
+#EXTINF:-1,beIN Sports 4 Max
+http://kstv.xyz:8080/Xonder/6231957871/38605
+#EXTINF:-1,beIN Sports 5 Max
+http://kstv.xyz:8080/Xonder/6231957871/38604
+#EXTINF:-1,beIN Sports 6 Max
+http://kstv.xyz:8080/Xonder/6231957871/38603
+#EXTINF:-1,beIN Sports 7 Max
+http://kstv.xyz:8080/Xonder/6231957871/38602
+#EXTINF:-1,beIN Sports 8 Max
+http://kstv.xyz:8080/Xonder/6231957871/38601
+#EXTINF:-1,beIN Sports 9 Max
+http://kstv.xyz:8080/Xonder/6231957871/38600
+#EXTINF:-1,beIN Sports HD 10
+http://kstv.xyz:8080/Xonder/6231957871/38591
+#EXTINF:-1,beIN Sports HD 2
+http://kstv.xyz:8080/Xonder/6231957871/38598
+#EXTINF:-1,beIN Sports HD 4
+http://kstv.xyz:8080/Xonder/6231957871/38597
+#EXTINF:-1,beIN Sports HD 5
+http://kstv.xyz:8080/Xonder/6231957871/38596
+#EXTINF:-1,beIN Sports HD 6
+http://kstv.xyz:8080/Xonder/6231957871/38595
+#EXTINF:-1,beIN Sports HD 7
+http://kstv.xyz:8080/Xonder/6231957871/38594
+#EXTINF:-1,beIN Sports HD 8
+http://kstv.xyz:8080/Xonder/6231957871/38593
+#EXTINF:-1,beIN Sports HD 9
+http://kstv.xyz:8080/Xonder/6231957871/38592
+#EXTINF:-1,beIN Sports Max 4
+http://kstv.xyz:8080/Xonder/6231957871/38590
+#EXTINF:-1,beIN Sports Max 5
+http://kstv.xyz:8080/Xonder/6231957871/38589
+#EXTINF:-1,beIN Sports Max 6
+http://kstv.xyz:8080/Xonder/6231957871/38588
+#EXTINF:-1,beIN Sports Max 7
+http://kstv.xyz:8080/Xonder/6231957871/38587
+#EXTINF:-1,beIN Sports Max 8
+http://kstv.xyz:8080/Xonder/6231957871/38586
+#EXTINF:-1,beIN Sports MAX 9
+http://kstv.xyz:8080/Xonder/6231957871/38585
+#EXTINF:-1,Bet etoile HD
+http://kstv.xyz:8080/Xonder/6231957871/38584
+#EXTINF:-1,BET HD
+http://kstv.xyz:8080/Xonder/6231957871/38583
+#EXTINF:-1,BFM Business
+http://kstv.xyz:8080/Xonder/6231957871/38582
+#EXTINF:-1,BFM Bussiness
+http://kstv.xyz:8080/Xonder/6231957871/38581
+#EXTINF:-1,BFM FHD
+http://kstv.xyz:8080/Xonder/6231957871/38580
+#EXTINF:-1,BFM PARIS
+http://kstv.xyz:8080/Xonder/6231957871/38579
+#EXTINF:-1,BFM Sport
+http://kstv.xyz:8080/Xonder/6231957871/38578
+#EXTINF:-1,BFMTV HD
+http://kstv.xyz:8080/Xonder/6231957871/38577
+#EXTINF:-1,BOING FHD
+http://kstv.xyz:8080/Xonder/6231957871/38576
+#EXTINF:-1,BOOMERAN HD
+http://kstv.xyz:8080/Xonder/6231957871/38575
+#EXTINF:-1,Boomerang HD
+http://kstv.xyz:8080/Xonder/6231957871/38574
+#EXTINF:-1,BRAVA HD
+http://kstv.xyz:8080/Xonder/6231957871/38554
+#EXTINF:-1,C NEWS HD
+http://kstv.xyz:8080/Xonder/6231957871/38553
+#EXTINF:-1,C8 HD
+http://kstv.xyz:8080/Xonder/6231957871/38552
+#EXTINF:-1,CANAL  CINEMA FHD
+http://kstv.xyz:8080/Xonder/6231957871/38530
+#EXTINF:-1,CANAL  Classic
+http://kstv.xyz:8080/Xonder/6231957871/38529
+#EXTINF:-1,CANAL  Décale HD
+http://kstv.xyz:8080/Xonder/6231957871/38528
+#EXTINF:-1,CANAL  Emotion
+http://kstv.xyz:8080/Xonder/6231957871/38527
+#EXTINF:-1,CANAL  Family HD
+http://kstv.xyz:8080/Xonder/6231957871/38526
+#EXTINF:-1,CANAL  FHD
+http://kstv.xyz:8080/Xonder/6231957871/38525
+#EXTINF:-1,CANAL  Premier
+http://kstv.xyz:8080/Xonder/6231957871/38524
+#EXTINF:-1,Canal  Serie Club
+http://kstv.xyz:8080/Xonder/6231957871/38523
+#EXTINF:-1,CANAL  SERIE HD
+http://kstv.xyz:8080/Xonder/6231957871/38522
+#EXTINF:-1,CANAL  SPORT Football
+http://kstv.xyz:8080/Xonder/6231957871/38521
+#EXTINF:-1,CANAL  SPORT Golf HD
+http://kstv.xyz:8080/Xonder/6231957871/38520
+#EXTINF:-1,CANAL  SPORT HD
+http://kstv.xyz:8080/Xonder/6231957871/38519
+#EXTINF:-1,CANAL 6TER HD
+http://kstv.xyz:8080/Xonder/6231957871/38550
+#EXTINF:-1,Canal 8
+http://kstv.xyz:8080/Xonder/6231957871/38551
+#EXTINF:-1,Canal Alpha Ju HD
+http://kstv.xyz:8080/Xonder/6231957871/38549
+#EXTINF:-1,CANAL CINEMA FHD
+http://kstv.xyz:8080/Xonder/6231957871/38548
+#EXTINF:-1,CANAL EMOTION HD
+http://kstv.xyz:8080/Xonder/6231957871/38547
+#EXTINF:-1,CANAL FAMILY HD
+http://kstv.xyz:8080/Xonder/6231957871/38546
+#EXTINF:-1,CANAL FHD
+http://kstv.xyz:8080/Xonder/6231957871/38545
+#EXTINF:-1,CANAL J HD
+http://kstv.xyz:8080/Xonder/6231957871/38544
+#EXTINF:-1,CANAL M6 HD
+http://kstv.xyz:8080/Xonder/6231957871/38543
+#EXTINF:-1,CANAL NEWS HD
+http://kstv.xyz:8080/Xonder/6231957871/38542
+#EXTINF:-1,Cartoon Network FHD
+http://kstv.xyz:8080/Xonder/6231957871/38506
+#EXTINF:-1,CGTN France
+http://kstv.xyz:8080/Xonder/6231957871/38505
+#EXTINF:-1,Chasse Et Peche HD
+http://kstv.xyz:8080/Xonder/6231957871/38504
+#EXTINF:-1,CHERIE 25 HD
+http://kstv.xyz:8080/Xonder/6231957871/38503
+#EXTINF:-1,CINE  CLASSIC HD
+http://kstv.xyz:8080/Xonder/6231957871/38492
+#EXTINF:-1,Cine  Club HD
+http://kstv.xyz:8080/Xonder/6231957871/38491
+#EXTINF:-1,Cine  Emotion HD
+http://kstv.xyz:8080/Xonder/6231957871/38490
+#EXTINF:-1,CINE  FAMILY HD
+http://kstv.xyz:8080/Xonder/6231957871/38489
+#EXTINF:-1,Cine  Famiz HD
+http://kstv.xyz:8080/Xonder/6231957871/38488
+#EXTINF:-1,Cine  Frisson HD
+http://kstv.xyz:8080/Xonder/6231957871/38487
+#EXTINF:-1,CINE  POLAR HD
+http://kstv.xyz:8080/Xonder/6231957871/38486
+#EXTINF:-1,CINE  PREMIERE HD
+http://kstv.xyz:8080/Xonder/6231957871/38485
+#EXTINF:-1,Cine Action HD
+http://kstv.xyz:8080/Xonder/6231957871/38502
+#EXTINF:-1,Cine Classic HD
+http://kstv.xyz:8080/Xonder/6231957871/38501
+#EXTINF:-1,Cine Comedie HD
+http://kstv.xyz:8080/Xonder/6231957871/38500
+#EXTINF:-1,Cine Frisson HD
+http://kstv.xyz:8080/Xonder/6231957871/38499
+#EXTINF:-1,CINE FX FHD
+http://kstv.xyz:8080/Xonder/6231957871/38498
+#EXTINF:-1,Cine Polar HD
+http://kstv.xyz:8080/Xonder/6231957871/38497
+#EXTINF:-1,Cine Premier FHD
+http://kstv.xyz:8080/Xonder/6231957871/38496
+#EXTINF:-1,CINE PREMIERE HD
+http://kstv.xyz:8080/Xonder/6231957871/38495
+#EXTINF:-1,CINE PRIMIER
+http://kstv.xyz:8080/Xonder/6231957871/38494
+#EXTINF:-1,Cine Star HD
+http://kstv.xyz:8080/Xonder/6231957871/38493
+#EXTINF:-1,CINEMA BOX OFFICE 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/38484
+#EXTINF:-1,CINEMA BOX OFFICE 3 HD
+http://kstv.xyz:8080/Xonder/6231957871/38483
+#EXTINF:-1,CinePlus Classic
+http://kstv.xyz:8080/Xonder/6231957871/38482
+#EXTINF:-1,CinePlus Polar
+http://kstv.xyz:8080/Xonder/6231957871/38481
+#EXTINF:-1,CinePlus Premier
+http://kstv.xyz:8080/Xonder/6231957871/38480
+#EXTINF:-1,Clubbing TV
+http://kstv.xyz:8080/Xonder/6231957871/38479
+#EXTINF:-1,COMEDIE  HD
+http://kstv.xyz:8080/Xonder/6231957871/38478
+#EXTINF:-1,CRIME DISTRICT HD
+http://kstv.xyz:8080/Xonder/6231957871/38477
+#EXTINF:-1,CRIME INVESTIGATION HD
+http://kstv.xyz:8080/Xonder/6231957871/38476
+#EXTINF:-1,CSTAR FHD
+http://kstv.xyz:8080/Xonder/6231957871/38475
+#EXTINF:-1,D17
+http://kstv.xyz:8080/Xonder/6231957871/38474
+#EXTINF:-1,D8 HD
+http://kstv.xyz:8080/Xonder/6231957871/38473
+#EXTINF:-1,Discovery Channel FHD
+http://kstv.xyz:8080/Xonder/6231957871/38472
+#EXTINF:-1,Discovery Science FHD
+http://kstv.xyz:8080/Xonder/6231957871/38471
+#EXTINF:-1,Disney Channel 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/38470
+#EXTINF:-1,DISNEY CINEMA FHD
+http://kstv.xyz:8080/Xonder/6231957871/38469
+#EXTINF:-1,DISNEY JUNIOR FHD
+http://kstv.xyz:8080/Xonder/6231957871/38468
+#EXTINF:-1,Disney XD HD
+http://kstv.xyz:8080/Xonder/6231957871/38467
+#EXTINF:-1,E! Entertainment HD
+http://kstv.xyz:8080/Xonder/6231957871/38466
+#EXTINF:-1,ELLE GIRL FHD
+http://kstv.xyz:8080/Xonder/6231957871/38465
+#EXTINF:-1,Enorme
+http://kstv.xyz:8080/Xonder/6231957871/38464
+#EXTINF:-1,Equidia HD
+http://kstv.xyz:8080/Xonder/6231957871/38463
+#EXTINF:-1,Equidia Live HD
+http://kstv.xyz:8080/Xonder/6231957871/38462
+#EXTINF:-1,EQUIPE 21 HD
+http://kstv.xyz:8080/Xonder/6231957871/38461
+#EXTINF:-1,Euronews HD
+http://kstv.xyz:8080/Xonder/6231957871/38460
+#EXTINF:-1,Eurosport 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/38459
+#EXTINF:-1,Eurosport 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/38458
+#EXTINF:-1,EXTREME SPORTS HD
+http://kstv.xyz:8080/Xonder/6231957871/38457
+#EXTINF:-1,FASHION TV
+http://kstv.xyz:8080/Xonder/6231957871/38456
+#EXTINF:-1,Foot  24 HD
+http://kstv.xyz:8080/Xonder/6231957871/38455
+#EXTINF:-1,France 2 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38454
+#EXTINF:-1,France 24 HD
+http://kstv.xyz:8080/Xonder/6231957871/38450
+#EXTINF:-1,France 24 HD EN
+http://kstv.xyz:8080/Xonder/6231957871/38449
+#EXTINF:-1,France 3 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38453
+#EXTINF:-1,France 4 HD
+http://kstv.xyz:8080/Xonder/6231957871/38452
+#EXTINF:-1,FRANCE 5 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38451
+#EXTINF:-1,France Info HD
+http://kstv.xyz:8080/Xonder/6231957871/38448
+#EXTINF:-1,France Ô HD
+http://kstv.xyz:8080/Xonder/6231957871/38447
+#EXTINF:-1,GAME ONE FHD
+http://kstv.xyz:8080/Xonder/6231957871/38446
+#EXTINF:-1,GINX TV
+http://kstv.xyz:8080/Xonder/6231957871/38445
+#EXTINF:-1,GOLF  HD
+http://kstv.xyz:8080/Xonder/6231957871/38444
+#EXTINF:-1,Gong TV
+http://kstv.xyz:8080/Xonder/6231957871/38443
+#EXTINF:-1,GongMax
+http://kstv.xyz:8080/Xonder/6231957871/38442
+#EXTINF:-1,GRAND LILLE TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38441
+#EXTINF:-1,Grande Lile
+http://kstv.xyz:8080/Xonder/6231957871/38440
+#EXTINF:-1,Gulli HD
+http://kstv.xyz:8080/Xonder/6231957871/38439
+#EXTINF:-1,HD 1
+http://kstv.xyz:8080/Xonder/6231957871/38438
+#EXTINF:-1,Histoire HD
+http://kstv.xyz:8080/Xonder/6231957871/38437
+#EXTINF:-1,I 24 NEWS HD
+http://kstv.xyz:8080/Xonder/6231957871/38436
+#EXTINF:-1,I24 TV
+http://kstv.xyz:8080/Xonder/6231957871/38435
+#EXTINF:-1,IL TV
+http://kstv.xyz:8080/Xonder/6231957871/38434
+#EXTINF:-1,InfoSport  HD
+http://kstv.xyz:8080/Xonder/6231957871/38433
+#EXTINF:-1,iTele HD
+http://kstv.xyz:8080/Xonder/6231957871/38432
+#EXTINF:-1,J-ONE HD
+http://kstv.xyz:8080/Xonder/6231957871/38431
+#EXTINF:-1,KOMBA SPORT HD
+http://kstv.xyz:8080/Xonder/6231957871/38430
+#EXTINF:-1,KOMBAT SPORT
+http://kstv.xyz:8080/Xonder/6231957871/38429
+#EXTINF:-1,KTO
+http://kstv.xyz:8080/Xonder/6231957871/38428
+#EXTINF:-1,L Equipe HD
+http://kstv.xyz:8080/Xonder/6231957871/38427
+#EXTINF:-1,L HD
+http://kstv.xyz:8080/Xonder/6231957871/38426
+#EXTINF:-1,L histoire
+http://kstv.xyz:8080/Xonder/6231957871/38425
+#EXTINF:-1,La Chaine Normande
+http://kstv.xyz:8080/Xonder/6231957871/38424
+#EXTINF:-1,La Chaine Normandie
+http://kstv.xyz:8080/Xonder/6231957871/38423
+#EXTINF:-1,La Tele
+http://kstv.xyz:8080/Xonder/6231957871/38422
+#EXTINF:-1,La Une
+http://kstv.xyz:8080/Xonder/6231957871/38421
+#EXTINF:-1,LCI HD
+http://kstv.xyz:8080/Xonder/6231957871/38420
+#EXTINF:-1,LCP HD
+http://kstv.xyz:8080/Xonder/6231957871/38419
+#EXTINF:-1,LCP/PUBLIC SENAT
+http://kstv.xyz:8080/Xonder/6231957871/38418
+#EXTINF:-1,Leman Bleu
+http://kstv.xyz:8080/Xonder/6231957871/38417
+#EXTINF:-1,LUCKY JACK
+http://kstv.xyz:8080/Xonder/6231957871/38416
+#EXTINF:-1,LUXE TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38415
+#EXTINF:-1,M6 BOUTIQUES
+http://kstv.xyz:8080/Xonder/6231957871/38414
+#EXTINF:-1,M6 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38413
+#EXTINF:-1,M6 Music HD
+http://kstv.xyz:8080/Xonder/6231957871/38412
+#EXTINF:-1,Ma Chaine Sport
+http://kstv.xyz:8080/Xonder/6231957871/38411
+#EXTINF:-1,Mangas HD
+http://kstv.xyz:8080/Xonder/6231957871/38410
+#EXTINF:-1,MCM HD
+http://kstv.xyz:8080/Xonder/6231957871/38409
+#EXTINF:-1,MCM TOP HD
+http://kstv.xyz:8080/Xonder/6231957871/38408
+#EXTINF:-1,MENS UP
+http://kstv.xyz:8080/Xonder/6231957871/38407
+#EXTINF:-1,Mezzo HD
+http://kstv.xyz:8080/Xonder/6231957871/38406
+#EXTINF:-1,MEZZO LIVE HD
+http://kstv.xyz:8080/Xonder/6231957871/38405
+#EXTINF:-1,Monte Carlo
+http://kstv.xyz:8080/Xonder/6231957871/38404
+#EXTINF:-1,MOTOR SPORT TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38403
+#EXTINF:-1,Movies 1
+http://kstv.xyz:8080/Xonder/6231957871/38402
+#EXTINF:-1,Movies 2 FR
+http://kstv.xyz:8080/Xonder/6231957871/38401
+#EXTINF:-1,Movies 3 FR
+http://kstv.xyz:8080/Xonder/6231957871/38400
+#EXTINF:-1,Movies 4 FR
+http://kstv.xyz:8080/Xonder/6231957871/38399
+#EXTINF:-1,Movies 5 FR
+http://kstv.xyz:8080/Xonder/6231957871/38398
+#EXTINF:-1,Movies 6 FR
+http://kstv.xyz:8080/Xonder/6231957871/38397
+#EXTINF:-1,Movies 7 FR
+http://kstv.xyz:8080/Xonder/6231957871/38396
+#EXTINF:-1,MTV Base
+http://kstv.xyz:8080/Xonder/6231957871/38395
+#EXTINF:-1,MTV Classic
+http://kstv.xyz:8080/Xonder/6231957871/38394
+#EXTINF:-1,MTV FRANCE
+http://kstv.xyz:8080/Xonder/6231957871/38393
+#EXTINF:-1,MTV HD
+http://kstv.xyz:8080/Xonder/6231957871/38392
+#EXTINF:-1,MTV HIST
+http://kstv.xyz:8080/Xonder/6231957871/38391
+#EXTINF:-1,MTV HITS FHD
+http://kstv.xyz:8080/Xonder/6231957871/38390
+#EXTINF:-1,MTV Music
+http://kstv.xyz:8080/Xonder/6231957871/38389
+#EXTINF:-1,MTV Rocks
+http://kstv.xyz:8080/Xonder/6231957871/38388
+#EXTINF:-1,MY CUISINE HD
+http://kstv.xyz:8080/Xonder/6231957871/38387
+#EXTINF:-1,NAT GEO Wild HD
+http://kstv.xyz:8080/Xonder/6231957871/38380
+#EXTINF:-1,NATIONAL GEOGRAPHIC Channel HD
+http://kstv.xyz:8080/Xonder/6231957871/38379
+#EXTINF:-1,Nautical Channel HD
+http://kstv.xyz:8080/Xonder/6231957871/38378
+#EXTINF:-1,NICK JR HD FRANCE
+http://kstv.xyz:8080/Xonder/6231957871/38377
+#EXTINF:-1,NICKELODEON 4TEEN HD
+http://kstv.xyz:8080/Xonder/6231957871/38376
+#EXTINF:-1,nickelodeon HD
+http://kstv.xyz:8080/Xonder/6231957871/38375
+#EXTINF:-1,Nickelodeon Junior HD
+http://kstv.xyz:8080/Xonder/6231957871/38374
+#EXTINF:-1,NICKELODEON TEEN FHD
+http://kstv.xyz:8080/Xonder/6231957871/38373
+#EXTINF:-1,NORMANDE TV
+http://kstv.xyz:8080/Xonder/6231957871/38372
+#EXTINF:-1,NRJ 12 HD
+http://kstv.xyz:8080/Xonder/6231957871/38371
+#EXTINF:-1,NRJ Hits
+http://kstv.xyz:8080/Xonder/6231957871/38370
+#EXTINF:-1,NT1 HD
+http://kstv.xyz:8080/Xonder/6231957871/38369
+#EXTINF:-1,NUMERO 23 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38368
+#EXTINF:-1,OCS Choc HD
+http://kstv.xyz:8080/Xonder/6231957871/38367
+#EXTINF:-1,OCS City HD
+http://kstv.xyz:8080/Xonder/6231957871/38366
+#EXTINF:-1,OCS GEANT FHD
+http://kstv.xyz:8080/Xonder/6231957871/38365
+#EXTINF:-1,OCS GO CINE 1
+http://kstv.xyz:8080/Xonder/6231957871/38364
+#EXTINF:-1,OCS Go Cine 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/38363
+#EXTINF:-1,OCS GO CINE 3
+http://kstv.xyz:8080/Xonder/6231957871/38362
+#EXTINF:-1,OCS GO CINE 4
+http://kstv.xyz:8080/Xonder/6231957871/38361
+#EXTINF:-1,OCS GO CINE 5
+http://kstv.xyz:8080/Xonder/6231957871/38360
+#EXTINF:-1,OCS Go Cinema 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/38359
+#EXTINF:-1,OCS Go Cinema 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/38358
+#EXTINF:-1,OCS Go Cinema 3 HD
+http://kstv.xyz:8080/Xonder/6231957871/38357
+#EXTINF:-1,OCS Go Cinema 4 HD
+http://kstv.xyz:8080/Xonder/6231957871/38356
+#EXTINF:-1,OCS Go Cinema 5 HD
+http://kstv.xyz:8080/Xonder/6231957871/38355
+#EXTINF:-1,OCS Max HD
+http://kstv.xyz:8080/Xonder/6231957871/38354
+#EXTINF:-1,OFIVE TV
+http://kstv.xyz:8080/Xonder/6231957871/38353
+#EXTINF:-1,OL TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38352
+#EXTINF:-1,OLTV HD
+http://kstv.xyz:8080/Xonder/6231957871/38351
+#EXTINF:-1,ONE TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38350
+#EXTINF:-1,Orange Cine Geants
+http://kstv.xyz:8080/Xonder/6231957871/38349
+#EXTINF:-1,Orange Cinema 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/38348
+#EXTINF:-1,Orange Cinema 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/38347
+#EXTINF:-1,ORANGE CINEMA 3
+http://kstv.xyz:8080/Xonder/6231957871/38346
+#EXTINF:-1,ORANGE CINEMA 4
+http://kstv.xyz:8080/Xonder/6231957871/38345
+#EXTINF:-1,ORANGE CINEMA 5
+http://kstv.xyz:8080/Xonder/6231957871/38344
+#EXTINF:-1,ORANGE CINEMA 6
+http://kstv.xyz:8080/Xonder/6231957871/38343
+#EXTINF:-1,ORANGE CINEMA 7
+http://kstv.xyz:8080/Xonder/6231957871/38342
+#EXTINF:-1,Orange Cinema ACTION
+http://kstv.xyz:8080/Xonder/6231957871/38341
+#EXTINF:-1,Orange Cinema Aventure HD
+http://kstv.xyz:8080/Xonder/6231957871/38340
+#EXTINF:-1,Orange Cinema CEst Fait
+http://kstv.xyz:8080/Xonder/6231957871/38339
+#EXTINF:-1,Orange Cinema Horreur HD
+http://kstv.xyz:8080/Xonder/6231957871/38338
+#EXTINF:-1,Ouatch Tv
+http://kstv.xyz:8080/Xonder/6231957871/38337
+#EXTINF:-1,Paramount Channel HD
+http://kstv.xyz:8080/Xonder/6231957871/38336
+#EXTINF:-1,Paris Premiere HD
+http://kstv.xyz:8080/Xonder/6231957871/38335
+#EXTINF:-1,Piwi  HD
+http://kstv.xyz:8080/Xonder/6231957871/38333
+#EXTINF:-1,Piwi HD
+http://kstv.xyz:8080/Xonder/6231957871/38334
+#EXTINF:-1,Planet  CI HD
+http://kstv.xyz:8080/Xonder/6231957871/38332
+#EXTINF:-1,Planete  A&E HD
+http://kstv.xyz:8080/Xonder/6231957871/38331
+#EXTINF:-1,Planète  HD
+http://kstv.xyz:8080/Xonder/6231957871/38330
+#EXTINF:-1,POLAR
+http://kstv.xyz:8080/Xonder/6231957871/38329
+#EXTINF:-1,QVC HD
+http://kstv.xyz:8080/Xonder/6231957871/38328
+#EXTINF:-1,RFM TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38327
+#EXTINF:-1,RMC D HD
+http://kstv.xyz:8080/Xonder/6231957871/38326
+#EXTINF:-1,RMC Decouverte HD
+http://kstv.xyz:8080/Xonder/6231957871/38325
+#EXTINF:-1,RMC Sport 1 Direct
+http://kstv.xyz:8080/Xonder/6231957871/38324
+#EXTINF:-1,RMC Sport 1 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38323
+#EXTINF:-1,RMC Sport 2 Direct
+http://kstv.xyz:8080/Xonder/6231957871/38322
+#EXTINF:-1,RMC Sport 2 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38321
+#EXTINF:-1,RMC Sport 3 Direct
+http://kstv.xyz:8080/Xonder/6231957871/38320
+#EXTINF:-1,RMC Sport 4 Direct
+http://kstv.xyz:8080/Xonder/6231957871/38319
+#EXTINF:-1,RMC SPORT 5 HD
+http://kstv.xyz:8080/Xonder/6231957871/38318
+#EXTINF:-1,RMC SPORTS
+http://kstv.xyz:8080/Xonder/6231957871/38317
+#EXTINF:-1,RMC-Decouvert HD
+http://kstv.xyz:8080/Xonder/6231957871/38316
+#EXTINF:-1,Rouge TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38315
+#EXTINF:-1,RTL TVI
+http://kstv.xyz:8080/Xonder/6231957871/38314
+#EXTINF:-1,RTL9 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38313
+#EXTINF:-1,RTS Deux HD
+http://kstv.xyz:8080/Xonder/6231957871/38312
+#EXTINF:-1,RTS Un HD
+http://kstv.xyz:8080/Xonder/6231957871/38311
+#EXTINF:-1,Salle de CINEMA (Les Gardiens de la Galaxie 2)
+http://kstv.xyz:8080/Xonder/6231957871/38310
+#EXTINF:-1,SC HD
+http://kstv.xyz:8080/Xonder/6231957871/38309
+#EXTINF:-1,Science & Vie HD
+http://kstv.xyz:8080/Xonder/6231957871/38308
+#EXTINF:-1,Science et Vie HD
+http://kstv.xyz:8080/Xonder/6231957871/38307
+#EXTINF:-1,Seasons HD
+http://kstv.xyz:8080/Xonder/6231957871/38306
+#EXTINF:-1,SERIE CLUB HD
+http://kstv.xyz:8080/Xonder/6231957871/38305
+#EXTINF:-1,SFR ACTION
+http://kstv.xyz:8080/Xonder/6231957871/38304
+#EXTINF:-1,SFR Comedie
+http://kstv.xyz:8080/Xonder/6231957871/38303
+#EXTINF:-1,SFR Horreur
+http://kstv.xyz:8080/Xonder/6231957871/38302
+#EXTINF:-1,SFR Sci-Fi
+http://kstv.xyz:8080/Xonder/6231957871/38301
+#EXTINF:-1,SFR SPORT 1 FHD
+http://kstv.xyz:8080/Xonder/6231957871/38300
+#EXTINF:-1,SFR SPORT 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/38299
+#EXTINF:-1,SFR SPORT 3 HD
+http://kstv.xyz:8080/Xonder/6231957871/38298
+#EXTINF:-1,SFR Sport 4
+http://kstv.xyz:8080/Xonder/6231957871/38297
+#EXTINF:-1,SFR SPORT 5 HD
+http://kstv.xyz:8080/Xonder/6231957871/38296
+#EXTINF:-1,Sundance TV HD
+http://kstv.xyz:8080/Xonder/6231957871/38295
+#EXTINF:-1,SyFy FHD
+http://kstv.xyz:8080/Xonder/6231957871/38294
+#EXTINF:-1,TCM Cinema HD
+http://kstv.xyz:8080/Xonder/6231957871/38293
+#EXTINF:-1,TeleBielingue
+http://kstv.xyz:8080/Xonder/6231957871/38292
+#EXTINF:-1,TELESUD
+http://kstv.xyz:8080/Xonder/6231957871/38291
+#EXTINF:-1,TeleToon  HD
+http://kstv.xyz:8080/Xonder/6231957871/38290
+#EXTINF:-1,Téva HD
+http://kstv.xyz:8080/Xonder/6231957871/38269
+#EXTINF:-1,TF1 HD
+http://kstv.xyz:8080/Xonder/6231957871/38289
+#EXTINF:-1,TF1 SERIES & FILMS
+http://kstv.xyz:8080/Xonder/6231957871/38288
+#EXTINF:-1,TFX HD
+http://kstv.xyz:8080/Xonder/6231957871/38287
+#EXTINF:-1,Tiji HD
+http://kstv.xyz:8080/Xonder/6231957871/38286
+#EXTINF:-1,TMC CINEMA HD
+http://kstv.xyz:8080/Xonder/6231957871/38285
+#EXTINF:-1,TOONAMI HD
+http://kstv.xyz:8080/Xonder/6231957871/38284
+#EXTINF:-1,TOUTE L HISTOIRE HD
+http://kstv.xyz:8080/Xonder/6231957871/38283
+#EXTINF:-1,Trace africa
+http://kstv.xyz:8080/Xonder/6231957871/38282
+#EXTINF:-1,Trace Mizki
+http://kstv.xyz:8080/Xonder/6231957871/38281
+#EXTINF:-1,Trace Naija
+http://kstv.xyz:8080/Xonder/6231957871/38280
+#EXTINF:-1,Trace Toca
+http://kstv.xyz:8080/Xonder/6231957871/38279
+#EXTINF:-1,TRACE TROPICAL HD
+http://kstv.xyz:8080/Xonder/6231957871/38278
+#EXTINF:-1,Trace Urban HD
+http://kstv.xyz:8080/Xonder/6231957871/38277
+#EXTINF:-1,TREK HD
+http://kstv.xyz:8080/Xonder/6231957871/38276
+#EXTINF:-1,TV Breizh HD
+http://kstv.xyz:8080/Xonder/6231957871/38275
+#EXTINF:-1,TV5 Info
+http://kstv.xyz:8080/Xonder/6231957871/38274
+#EXTINF:-1,TV5 Monde HD
+http://kstv.xyz:8080/Xonder/6231957871/38273
+#EXTINF:-1,TV5 Monde Info
+http://kstv.xyz:8080/Xonder/6231957871/38272
+#EXTINF:-1,TV8 Mont Blanc
+http://kstv.xyz:8080/Xonder/6231957871/38271
+#EXTINF:-1,TVM3
+http://kstv.xyz:8080/Xonder/6231957871/38270
+#EXTINF:-1,Ushuaia HD
+http://kstv.xyz:8080/Xonder/6231957871/38268
+#EXTINF:-1,VH1
+http://kstv.xyz:8080/Xonder/6231957871/38267
+#EXTINF:-1,VIRGIN HD
+http://kstv.xyz:8080/Xonder/6231957871/38266
+#EXTINF:-1,Virgin radio tv
+http://kstv.xyz:8080/Xonder/6231957871/38265
+#EXTINF:-1,VOSGES TV
+http://kstv.xyz:8080/Xonder/6231957871/38264
+#EXTINF:-1,Voyage HD
+http://kstv.xyz:8080/Xonder/6231957871/38263
+#EXTINF:-1,W9 HD
+http://kstv.xyz:8080/Xonder/6231957871/38262
+#EXTINF:-1,WEO HD
+http://kstv.xyz:8080/Xonder/6231957871/38261
+#EXTINF:-1,ZOUZOU HD
+http://kstv.xyz:8080/Xonder/6231957871/38260
+#EXTINF:-1,UK - 3E
+http://kstv.xyz:8080/Xonder/6231957871/1319
+#EXTINF:-1,UK - 4Music
+http://kstv.xyz:8080/Xonder/6231957871/1318
+#EXTINF:-1,UK - 4seven
+http://kstv.xyz:8080/Xonder/6231957871/1317
+#EXTINF:-1,UK - 5 Star
+http://kstv.xyz:8080/Xonder/6231957871/1346
+#EXTINF:-1,UK - Alibi
+http://kstv.xyz:8080/Xonder/6231957871/15646
+#EXTINF:-1,UK - Animal Planet HD
+http://kstv.xyz:8080/Xonder/6231957871/1316
+#EXTINF:-1,UK - At The Races SD
+http://kstv.xyz:8080/Xonder/6231957871/1388
+#EXTINF:-1,UK - BBC 4 HD
+http://kstv.xyz:8080/Xonder/6231957871/1314
+#EXTINF:-1,UK - BBC News
+http://kstv.xyz:8080/Xonder/6231957871/5449
+#EXTINF:-1,UK - BBC One HD
+http://kstv.xyz:8080/Xonder/6231957871/1313
+#EXTINF:-1,UK - BBC Two HD
+http://kstv.xyz:8080/Xonder/6231957871/1312
+#EXTINF:-1,UK - BBC3
+http://kstv.xyz:8080/Xonder/6231957871/1171
+#EXTINF:-1,UK - BET
+http://kstv.xyz:8080/Xonder/6231957871/1311
+#EXTINF:-1,UK - BT Sport 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/1408
+#EXTINF:-1,UK - BT Sport 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/1306
+#EXTINF:-1,UK - BT Sport 3 HD
+http://kstv.xyz:8080/Xonder/6231957871/1305
+#EXTINF:-1,UK - BT Sport ESPN HD
+http://kstv.xyz:8080/Xonder/6231957871/1407
+#EXTINF:-1,UK - Baby TV
+http://kstv.xyz:8080/Xonder/6231957871/1315
+#EXTINF:-1,UK - Bloomberg
+http://kstv.xyz:8080/Xonder/6231957871/1170
+#EXTINF:-1,UK - Boomerang
+http://kstv.xyz:8080/Xonder/6231957871/1308
+#EXTINF:-1,UK - Box Nation HD
+http://kstv.xyz:8080/Xonder/6231957871/1385
+#EXTINF:-1,UK - CBBC HD
+http://kstv.xyz:8080/Xonder/6231957871/5363
+#EXTINF:-1,UK - CBS Action
+http://kstv.xyz:8080/Xonder/6231957871/1298
+#EXTINF:-1,UK - CBS Drama
+http://kstv.xyz:8080/Xonder/6231957871/1297
+#EXTINF:-1,UK - CBS Reality
+http://kstv.xyz:8080/Xonder/6231957871/1296
+#EXTINF:-1,UK - CITV
+http://kstv.xyz:8080/Xonder/6231957871/1286
+#EXTINF:-1,UK - CNBC News
+http://kstv.xyz:8080/Xonder/6231957871/1285
+#EXTINF:-1,UK - CNN International
+http://kstv.xyz:8080/Xonder/6231957871/1284
+#EXTINF:-1,UK - Cartoon Network
+http://kstv.xyz:8080/Xonder/6231957871/5366
+#EXTINF:-1,UK - Cbeebies HD
+http://kstv.xyz:8080/Xonder/6231957871/1406
+#EXTINF:-1,UK - Celtic TV
+http://kstv.xyz:8080/Xonder/6231957871/1375
+#EXTINF:-1,UK - Challenge TV
+http://kstv.xyz:8080/Xonder/6231957871/12737
+#EXTINF:-1,UK - Channel 4 HD
+http://kstv.xyz:8080/Xonder/6231957871/1293
+#EXTINF:-1,UK - Channel 5 HD
+http://kstv.xyz:8080/Xonder/6231957871/1291
+#EXTINF:-1,UK - Chelsea TV
+http://kstv.xyz:8080/Xonder/6231957871/1288
+#EXTINF:-1,UK - Cinemax
+http://kstv.xyz:8080/Xonder/6231957871/1373
+#EXTINF:-1,UK - Comedy Central
+http://kstv.xyz:8080/Xonder/6231957871/1283
+#EXTINF:-1,UK - Comedy Xtra
+http://kstv.xyz:8080/Xonder/6231957871/1282
+#EXTINF:-1,UK - Community
+http://kstv.xyz:8080/Xonder/6231957871/1281
+#EXTINF:-1,UK - Crime Investigation
+http://kstv.xyz:8080/Xonder/6231957871/1280
+#EXTINF:-1,UK - DMAX
+http://kstv.xyz:8080/Xonder/6231957871/1269
+#EXTINF:-1,UK - Dave
+http://kstv.xyz:8080/Xonder/6231957871/1279
+#EXTINF:-1,UK - Discovery
+http://kstv.xyz:8080/Xonder/6231957871/1274
+#EXTINF:-1,UK - Discovery History
+http://kstv.xyz:8080/Xonder/6231957871/1277
+#EXTINF:-1,UK - Discovery Science
+http://kstv.xyz:8080/Xonder/6231957871/1276
+#EXTINF:-1,UK - Discovery Science US
+http://kstv.xyz:8080/Xonder/6231957871/1368
+#EXTINF:-1,UK - Discovery Shed
+http://kstv.xyz:8080/Xonder/6231957871/1273
+#EXTINF:-1,UK - Discovery Turbo
+http://kstv.xyz:8080/Xonder/6231957871/1275
+#EXTINF:-1,UK - Disney Channel
+http://kstv.xyz:8080/Xonder/6231957871/1272
+#EXTINF:-1,UK - Disney Junior
+http://kstv.xyz:8080/Xonder/6231957871/1271
+#EXTINF:-1,UK - Disney XD
+http://kstv.xyz:8080/Xonder/6231957871/1270
+#EXTINF:-1,UK - Drama
+http://kstv.xyz:8080/Xonder/6231957871/1268
+#EXTINF:-1,UK - E!
+http://kstv.xyz:8080/Xonder/6231957871/1267
+#EXTINF:-1,UK - E4
+http://kstv.xyz:8080/Xonder/6231957871/1266
+#EXTINF:-1,UK - EUROSPORT 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/3157
+#EXTINF:-1,UK - EUROSPORT 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/3156
+#EXTINF:-1,UK - FOX HD
+http://kstv.xyz:8080/Xonder/6231957871/1259
+#EXTINF:-1,UK - FOX News
+http://kstv.xyz:8080/Xonder/6231957871/1258
+#EXTINF:-1,UK - Film 4
+http://kstv.xyz:8080/Xonder/6231957871/1263
+#EXTINF:-1,UK - Food Network
+http://kstv.xyz:8080/Xonder/6231957871/1261
+#EXTINF:-1,UK - GOLD
+http://kstv.xyz:8080/Xonder/6231957871/1255
+#EXTINF:-1,UK - H2 HD
+http://kstv.xyz:8080/Xonder/6231957871/1364
+#EXTINF:-1,UK - History
+http://kstv.xyz:8080/Xonder/6231957871/1253
+#EXTINF:-1,UK - Home & Health
+http://kstv.xyz:8080/Xonder/6231957871/1252
+#EXTINF:-1,UK - Horror Channel
+http://kstv.xyz:8080/Xonder/6231957871/1357
+#EXTINF:-1,UK - Horse & Country
+http://kstv.xyz:8080/Xonder/6231957871/1251
+#EXTINF:-1,UK - Hum Europe
+http://kstv.xyz:8080/Xonder/6231957871/1167
+#EXTINF:-1,UK - ID
+http://kstv.xyz:8080/Xonder/6231957871/1250
+#EXTINF:-1,UK - ID US
+http://kstv.xyz:8080/Xonder/6231957871/1361
+#EXTINF:-1,UK - ITV HD
+http://kstv.xyz:8080/Xonder/6231957871/1246
+#EXTINF:-1,UK - ITV 2
+http://kstv.xyz:8080/Xonder/6231957871/1248
+#EXTINF:-1,UK - ITV 3 HD
+http://kstv.xyz:8080/Xonder/6231957871/1405
+#EXTINF:-1,UK - ITV4
+http://kstv.xyz:8080/Xonder/6231957871/1244
+#EXTINF:-1,UK - ITV Box Office
+http://kstv.xyz:8080/Xonder/6231957871/10434
+#EXTINF:-1,UK - ITV Encore
+http://kstv.xyz:8080/Xonder/6231957871/1247
+#EXTINF:-1,UK - ITVBe
+http://kstv.xyz:8080/Xonder/6231957871/1243
+#EXTINF:-1,UK - Irish Tv
+http://kstv.xyz:8080/Xonder/6231957871/1356
+#EXTINF:-1,UK - LFC TV
+http://kstv.xyz:8080/Xonder/6231957871/1241
+#EXTINF:-1,UK - London Live
+http://kstv.xyz:8080/Xonder/6231957871/1240
+#EXTINF:-1,UK - MTV
+http://kstv.xyz:8080/Xonder/6231957871/1237
+#EXTINF:-1,UK - MTV BASE
+http://kstv.xyz:8080/Xonder/6231957871/1236
+#EXTINF:-1,UK - MTV CLASSIC
+http://kstv.xyz:8080/Xonder/6231957871/1235
+#EXTINF:-1,UK - MTV DANCE
+http://kstv.xyz:8080/Xonder/6231957871/1234
+#EXTINF:-1,UK - MTV HITS
+http://kstv.xyz:8080/Xonder/6231957871/1348
+#EXTINF:-1,UK - MTV MUSIC
+http://kstv.xyz:8080/Xonder/6231957871/1233
+#EXTINF:-1,UK - MTV ROCKS
+http://kstv.xyz:8080/Xonder/6231957871/1232
+#EXTINF:-1,UK - MUTV
+http://kstv.xyz:8080/Xonder/6231957871/1231
+#EXTINF:-1,UK - MUTV HD
+http://kstv.xyz:8080/Xonder/6231957871/1230
+#EXTINF:-1,UK - More4 HD
+http://kstv.xyz:8080/Xonder/6231957871/1239
+#EXTINF:-1,UK - Motorsport TV
+http://kstv.xyz:8080/Xonder/6231957871/1352
+#EXTINF:-1,UK - Movies 24
+http://kstv.xyz:8080/Xonder/6231957871/1287
+#EXTINF:-1,UK - Movies4men
+http://kstv.xyz:8080/Xonder/6231957871/1238
+#EXTINF:-1,UK - Nat Geo
+http://kstv.xyz:8080/Xonder/6231957871/1229
+#EXTINF:-1,UK - Nat Geo Wild
+http://kstv.xyz:8080/Xonder/6231957871/1228
+#EXTINF:-1,UK - Nick Jnr Too
+http://kstv.xyz:8080/Xonder/6231957871/1355
+#EXTINF:-1,UK - Nick Jr
+http://kstv.xyz:8080/Xonder/6231957871/1227
+#EXTINF:-1,UK - Nickelodeon
+http://kstv.xyz:8080/Xonder/6231957871/1226
+#EXTINF:-1,UK - Nicktoons
+http://kstv.xyz:8080/Xonder/6231957871/1225
+#EXTINF:-1,UK - PBS America
+http://kstv.xyz:8080/Xonder/6231957871/1224
+#EXTINF:-1,UK - Pick TV
+http://kstv.xyz:8080/Xonder/6231957871/1344
+#EXTINF:-1,UK - Premier Sports
+http://kstv.xyz:8080/Xonder/6231957871/1221
+#EXTINF:-1,UK - QUEST
+http://kstv.xyz:8080/Xonder/6231957871/1220
+#EXTINF:-1,UK - RTE News Now
+http://kstv.xyz:8080/Xonder/6231957871/1215
+#EXTINF:-1,UK - RTE 1 HD
+http://kstv.xyz:8080/Xonder/6231957871/1339
+#EXTINF:-1,UK - RTE 2 HD
+http://kstv.xyz:8080/Xonder/6231957871/1389
+#EXTINF:-1,UK - RTE jr
+http://kstv.xyz:8080/Xonder/6231957871/1216
+#EXTINF:-1,UK - Racing UK HD
+http://kstv.xyz:8080/Xonder/6231957871/1343
+#EXTINF:-1,UK - Rangers TV
+http://kstv.xyz:8080/Xonder/6231957871/1342
+#EXTINF:-1,UK - Real Lives
+http://kstv.xyz:8080/Xonder/6231957871/1218
+#EXTINF:-1,UK - Really
+http://kstv.xyz:8080/Xonder/6231957871/1340
+#EXTINF:-1,UK - Rishtey
+http://kstv.xyz:8080/Xonder/6231957871/1165
+#EXTINF:-1,UK - S4C
+http://kstv.xyz:8080/Xonder/6231957871/1213
+#EXTINF:-1,UK - SS Box Office
+http://kstv.xyz:8080/Xonder/6231957871/1329
+#EXTINF:-1,UK - SS Mix
+http://kstv.xyz:8080/Xonder/6231957871/1328
+#EXTINF:-1,UK - SSHD Action
+http://kstv.xyz:8080/Xonder/6231957871/1331
+#EXTINF:-1,UK - SSHD Arena
+http://kstv.xyz:8080/Xonder/6231957871/12408
+#EXTINF:-1,UK - SSHD Cricket
+http://kstv.xyz:8080/Xonder/6231957871/1332
+#EXTINF:-1,UK - SSHD F1
+http://kstv.xyz:8080/Xonder/6231957871/1402
+#EXTINF:-1,UK - SSHD Football
+http://kstv.xyz:8080/Xonder/6231957871/12407
+#EXTINF:-1,UK - SSHD Golf
+http://kstv.xyz:8080/Xonder/6231957871/1330
+#EXTINF:-1,UK - SSHD Main Event
+http://kstv.xyz:8080/Xonder/6231957871/1400
+#EXTINF:-1,UK - SSHD News
+http://kstv.xyz:8080/Xonder/6231957871/1401
+#EXTINF:-1,UK - SSHD Premier League
+http://kstv.xyz:8080/Xonder/6231957871/1399
+#EXTINF:-1,UK - STAR LIFE OK
+http://kstv.xyz:8080/Xonder/6231957871/1394
+#EXTINF:-1,UK - STAR PLUS
+http://kstv.xyz:8080/Xonder/6231957871/1393
+#EXTINF:-1,UK - Sky 2
+http://kstv.xyz:8080/Xonder/6231957871/1210
+#EXTINF:-1,UK - Sky Arts
+http://kstv.xyz:8080/Xonder/6231957871/1208
+#EXTINF:-1,UK - Sky Atlantic
+http://kstv.xyz:8080/Xonder/6231957871/1207
+#EXTINF:-1,UK - Sky Cinema Action
+http://kstv.xyz:8080/Xonder/6231957871/1397
+#EXTINF:-1,UK - Sky Cinema Comedy
+http://kstv.xyz:8080/Xonder/6231957871/1206
+#EXTINF:-1,UK - Sky Cinema Disney
+http://kstv.xyz:8080/Xonder/6231957871/12206
+#EXTINF:-1,UK - Sky Cinema Drama
+http://kstv.xyz:8080/Xonder/6231957871/1404
+#EXTINF:-1,UK - Sky Cinema Family
+http://kstv.xyz:8080/Xonder/6231957871/1203
+#EXTINF:-1,UK - Sky Cinema Greats
+http://kstv.xyz:8080/Xonder/6231957871/1403
+#EXTINF:-1,UK - Sky Cinema Hits
+http://kstv.xyz:8080/Xonder/6231957871/12555
+#EXTINF:-1,UK - Sky Cinema Premiere
+http://kstv.xyz:8080/Xonder/6231957871/1200
+#EXTINF:-1,UK - Sky Cinema SciFi & Horror
+http://kstv.xyz:8080/Xonder/6231957871/1334
+#EXTINF:-1,UK - Sky Cinema Select
+http://kstv.xyz:8080/Xonder/6231957871/1151
+#EXTINF:-1,UK - Sky Cinema Thriller
+http://kstv.xyz:8080/Xonder/6231957871/1150
+#EXTINF:-1,UK - Sky Living
+http://kstv.xyz:8080/Xonder/6231957871/1202
+#EXTINF:-1,UK - Sky News
+http://kstv.xyz:8080/Xonder/6231957871/1201
+#EXTINF:-1,UK - Sky ONE
+http://kstv.xyz:8080/Xonder/6231957871/1211
+#EXTINF:-1,UK - Sony Channel
+http://kstv.xyz:8080/Xonder/6231957871/1159
+#EXTINF:-1,UK - Sony Max
+http://kstv.xyz:8080/Xonder/6231957871/1160
+#EXTINF:-1,UK - Sony SAB
+http://kstv.xyz:8080/Xonder/6231957871/1191
+#EXTINF:-1,UK - Spike
+http://kstv.xyz:8080/Xonder/6231957871/1190
+#EXTINF:-1,UK - Star Gold
+http://kstv.xyz:8080/Xonder/6231957871/1158
+#EXTINF:-1,UK - Syfy HD
+http://kstv.xyz:8080/Xonder/6231957871/1188
+#EXTINF:-1,UK - TCM HD
+http://kstv.xyz:8080/Xonder/6231957871/12406
+#EXTINF:-1,UK - TG4
+http://kstv.xyz:8080/Xonder/6231957871/1187
+#EXTINF:-1,UK - TLC
+http://kstv.xyz:8080/Xonder/6231957871/1184
+#EXTINF:-1,UK - TV3
+http://kstv.xyz:8080/Xonder/6231957871/15468
+#EXTINF:-1,UK - The Vault
+http://kstv.xyz:8080/Xonder/6231957871/1186
+#EXTINF:-1,UK - Tiny Pop
+http://kstv.xyz:8080/Xonder/6231957871/1185
+#EXTINF:-1,UK - Travel Channel
+http://kstv.xyz:8080/Xonder/6231957871/1183
+#EXTINF:-1,UK - True Entertainment
+http://kstv.xyz:8080/Xonder/6231957871/1181
+#EXTINF:-1,UK - True Movies 1
+http://kstv.xyz:8080/Xonder/6231957871/1156
+#EXTINF:-1,UK - True TV
+http://kstv.xyz:8080/Xonder/6231957871/1180
+#EXTINF:-1,UK - UFC Main card
+http://kstv.xyz:8080/Xonder/6231957871/9974
+#EXTINF:-1,UK - UTV Ireland SD
+http://kstv.xyz:8080/Xonder/6231957871/1398
+#EXTINF:-1,UK - UTV Movies
+http://kstv.xyz:8080/Xonder/6231957871/1177
+#EXTINF:-1,UK - Universal
+http://kstv.xyz:8080/Xonder/6231957871/1178
+#EXTINF:-1,UK - VH1
+http://kstv.xyz:8080/Xonder/6231957871/1322
+#EXTINF:-1,UK - Viceland
+http://kstv.xyz:8080/Xonder/6231957871/1176
+#EXTINF:-1,UK - WWE 24
+http://kstv.xyz:8080/Xonder/6231957871/15647
+#EXTINF:-1,UK - WWE HD (PPV)
+http://kstv.xyz:8080/Xonder/6231957871/8179
+#EXTINF:-1,UK - WWE Raw Network HD
+http://kstv.xyz:8080/Xonder/6231957871/9976
+#EXTINF:-1,UK - Watch
+http://kstv.xyz:8080/Xonder/6231957871/1173
+#EXTINF:-1,UK - Yesterday
+http://kstv.xyz:8080/Xonder/6231957871/1320
