@@ -299,3 +299,257 @@ http://web1.giffy.be:8080/live/starwars/starwars/88441.ts
 http://web1.giffy.be:8080/live/starwars/starwars/88442.ts
 #EXTINF:-1 tvg-id="" tvg-name="W9 UHD" tvg-logo="" group-title="FRENCH",W9 UHD
 http://web1.giffy.be:8080/live/starwars/starwars/88434.ts
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="UK  | BEIN SPORTS UK" tvg-logo="https://i.imgur.com/DSdQy3B.png" group-title="UK",UK  | BEIN SPORTS UK
+http://web1.giffy.be:8080/live/starwars/starwars/85734.ts
+#EXTINF:-1 tvg-id="5star.uk" tvg-name=" 5 STAR" tvg-logo="https://i.imgur.com/Lnx7R2Z.png" group-title="UK", 5 STAR
+http://web1.giffy.be:8080/live/starwars/starwars/85749.ts
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name=" BBC FOUR" tvg-logo="https://i.imgur.com/OgpYry1.png" group-title="UK", BBC FOUR
+http://web1.giffy.be:8080/live/starwars/starwars/85733.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name=" BBC ONE" tvg-logo="https://i.imgur.com/SXd7G0E.png" group-title="UK", BBC ONE
+http://web1.giffy.be:8080/live/starwars/starwars/85732.ts
+#EXTINF:-1 tvg-id="BBC1.uk" tvg-name=" BBC ONE (opt-2)" tvg-logo="https://i.imgur.com/SXd7G0E.png" group-title="UK", BBC ONE (opt-2)
+http://web1.giffy.be:8080/live/starwars/starwars/85731.ts
+#EXTINF:-1 tvg-id="BBCOneScotland.uk" tvg-name=" BBC ONE SCOTLAND" tvg-logo="https://i.imgur.com/aIovtvp.png" group-title="UK", BBC ONE SCOTLAND
+http://web1.giffy.be:8080/live/starwars/starwars/85730.ts
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name=" BBC TWO" tvg-logo="https://i.imgur.com/DKSxjJi.png" group-title="UK", BBC TWO
+http://web1.giffy.be:8080/live/starwars/starwars/85729.ts
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name=" BBC WORLD NEWS" tvg-logo="https://i.imgur.com/6W6DLQK.png" group-title="UK", BBC WORLD NEWS
+http://web1.giffy.be:8080/live/starwars/starwars/85728.ts
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name=" DAVE" tvg-logo="https://i.imgur.com/PC2nVq5.png" group-title="UK", DAVE
+http://web1.giffy.be:8080/live/starwars/starwars/85709.ts
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name=" DISCOVERY HISTORY" tvg-logo="https://i.imgur.com/roEzZ8g.png" group-title="UK", DISCOVERY HISTORY
+http://web1.giffy.be:8080/live/starwars/starwars/85707.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name=" DISCOVERY SCIENCE" tvg-logo="https://i.imgur.com/cBVRZnV.png" group-title="UK", DISCOVERY SCIENCE
+http://web1.giffy.be:8080/live/starwars/starwars/85706.ts
+#EXTINF:-1 tvg-id="DiscoveryShed.uk" tvg-name=" DISCOVERY SHED" tvg-logo="https://i.imgur.com/SnUANWj.png" group-title="UK", DISCOVERY SHED
+http://web1.giffy.be:8080/live/starwars/starwars/85705.ts
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name=" DISCOVERY TURBO" tvg-logo="https://i.imgur.com/7846CSz.png" group-title="UK", DISCOVERY TURBO
+http://web1.giffy.be:8080/live/starwars/starwars/85704.ts
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name=" DISNEY JR" tvg-logo="https://i.imgur.com/Dy3AWg0.png" group-title="UK", DISNEY JR
+http://web1.giffy.be:8080/live/starwars/starwars/85702.ts
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name=" ITV BE" tvg-logo="https://i.imgur.com/KMkUfTP.png" group-title="UK", ITV BE
+http://web1.giffy.be:8080/live/starwars/starwars/85679.ts
+#EXTINF:-1 tvg-id="" tvg-name=" ITV ENCORE" tvg-logo="https://i.imgur.com/xGr7oz0.png" group-title="UK", ITV ENCORE
+http://web1.giffy.be:8080/live/starwars/starwars/85678.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name=" ITV1" tvg-logo="http://epg4you.com/logos/itv.png" group-title="UK", ITV1
+http://web1.giffy.be:8080/live/starwars/starwars/51465.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name=" ITV2" tvg-logo="http://epg4you.com/logos/itv2hd.png" group-title="UK", ITV2
+http://web1.giffy.be:8080/live/starwars/starwars/51464.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name=" ITV3" tvg-logo="http://epg4you.com/logos/itv3hd.png" group-title="UK", ITV3
+http://web1.giffy.be:8080/live/starwars/starwars/51463.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name=" ITV4" tvg-logo="http://epg4you.com/logos/itv4.png" group-title="UK", ITV4
+http://web1.giffy.be:8080/live/starwars/starwars/51462.ts
+#EXTINF:-1 tvg-id="" tvg-name=" RTÉ NEWS NOW" tvg-logo="https://i.imgur.com/Vt4yy9U.png" group-title="UK", RTÉ NEWS NOW
+http://web1.giffy.be:8080/live/starwars/starwars/85662.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name=" SKY ATLANTIC" tvg-logo="https://i.imgur.com/Qe3jaGB.png" group-title="UK", SKY ATLANTIC
+http://web1.giffy.be:8080/live/starwars/starwars/85659.ts
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name=" SKY CINEMA ACTION" tvg-logo="https://i.imgur.com/Gd7CQcu.png" group-title="UK", SKY CINEMA ACTION
+http://web1.giffy.be:8080/live/starwars/starwars/85658.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name=" SKY CINEMA COMEDY" tvg-logo="https://i.imgur.com/nsxY5yC.png" group-title="UK", SKY CINEMA COMEDY
+http://web1.giffy.be:8080/live/starwars/starwars/85657.ts
+#EXTINF:-1 tvg-id="SkyFamily.uk" tvg-name=" SKY CINEMA FAMILY/ANIMATION" tvg-logo="https://i.imgur.com/5oMIrbe.png" group-title="UK", SKY CINEMA FAMILY/ANIMATION
+http://web1.giffy.be:8080/live/starwars/starwars/85654.ts
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name=" SKY CINEMA PREMIER" tvg-logo="https://i.imgur.com/0GFzqDt.png" group-title="UK", SKY CINEMA PREMIER
+http://web1.giffy.be:8080/live/starwars/starwars/85651.ts
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name=" SKY SPORTS BOX OFFICE PPV (Live During Events Only)" tvg-logo="https://i.imgur.com/FkaqpjV.png" group-title="UK", SKY SPORTS BOX OFFICE PPV (Live During Events Only)
+http://web1.giffy.be:8080/live/starwars/starwars/85643.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name=" SKY SPORTS F1" tvg-logo="https://i.imgur.com/lZGHmhC.png" group-title="UK", SKY SPORTS F1
+http://web1.giffy.be:8080/live/starwars/starwars/85641.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name=" SKY SPORTS MAIN EVENT" tvg-logo="https://i.imgur.com/bV7cHHg.png" group-title="UK", SKY SPORTS MAIN EVENT
+http://web1.giffy.be:8080/live/starwars/starwars/85638.ts
+#EXTINF:-1 tvg-id="VH1.uk" tvg-name=" VH1 CLASSIC" tvg-logo="https://i.imgur.com/GPKctor.png" group-title="UK", VH1 CLASSIC
+http://web1.giffy.be:8080/live/starwars/starwars/85623.ts
+#EXTINF:-1 tvg-id="ElevenSports1.uk" tvg-name="11 SPORTS 1" tvg-logo="https://i.imgur.com/EbguiqY.png" group-title="UK",11 SPORTS 1
+http://web1.giffy.be:8080/live/starwars/starwars/85750.ts
+#EXTINF:-1 tvg-id="ElevenSports2.uk" tvg-name="11 SPORTS 2" tvg-logo="https://i.imgur.com/TaTdJgJ.png" group-title="UK",11 SPORTS 2
+http://web1.giffy.be:8080/live/starwars/starwars/85751.ts
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5 USA" tvg-logo="https://i.imgur.com/jvNqAgA.png" group-title="UK",5 USA
+http://web1.giffy.be:8080/live/starwars/starwars/85748.ts
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="AMC" tvg-logo="https://i.imgur.com/fxiowDH.png" group-title="UK",AMC
+http://web1.giffy.be:8080/live/starwars/starwars/85747.ts
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="AT THE RACES" tvg-logo="https://i.imgur.com/kMEmH1a.png" group-title="UK",AT THE RACES
+http://web1.giffy.be:8080/live/starwars/starwars/85735.ts
+#EXTINF:-1 tvg-id="" tvg-name="BE3 IRELAND" tvg-logo="https://i.imgur.com/d3Whc8A.png" group-title="UK",BE3 IRELAND
+http://web1.giffy.be:8080/live/starwars/starwars/85727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bee T SPORTS 3" tvg-logo="" group-title="UK",Bee T SPORTS 3
+http://web1.giffy.be:8080/live/starwars/starwars/85726.ts
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="BLAZE TV ( D )" tvg-logo="https://i.imgur.com/4kmjrHz.png" group-title="UK",BLAZE TV ( D )
+http://web1.giffy.be:8080/live/starwars/starwars/85725.ts
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="BOOMERANG" tvg-logo="https://i.imgur.com/1GQ24J0.png" group-title="UK",BOOMERANG
+http://web1.giffy.be:8080/live/starwars/starwars/85724.ts
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BOX NATION" tvg-logo="https://i.imgur.com/IF1AGon.png" group-title="UK",BOX NATION
+http://web1.giffy.be:8080/live/starwars/starwars/85723.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="CARTOON NETWORK" tvg-logo="https://i.imgur.com/ZsthkpZ.png" group-title="UK",CARTOON NETWORK
+http://web1.giffy.be:8080/live/starwars/starwars/85717.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="https://i.imgur.com/A6HWB14.png" group-title="UK",CBC
+http://web1.giffy.be:8080/live/starwars/starwars/85722.ts
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBEEBIES" tvg-logo="https://i.imgur.com/6MzKUxV.png" group-title="UK",CBEEBIES
+http://web1.giffy.be:8080/live/starwars/starwars/85718.ts
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS ACTION" tvg-logo="https://i.imgur.com/0UZN1tp.png" group-title="UK",CBS ACTION
+http://web1.giffy.be:8080/live/starwars/starwars/85721.ts
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS DRAMA" tvg-logo="https://i.imgur.com/K6DqKDc.png" group-title="UK",CBS DRAMA
+http://web1.giffy.be:8080/live/starwars/starwars/85720.ts
+#EXTINF:-1 tvg-id="CBSReality.uk" tvg-name="CBS REALITY" tvg-logo="https://i.imgur.com/gMcaAoK.png" group-title="UK",CBS REALITY
+http://web1.giffy.be:8080/live/starwars/starwars/85719.ts
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="CHALLENGE" tvg-logo="https://i.imgur.com/NIx1kwP.png" group-title="UK",CHALLENGE
+http://web1.giffy.be:8080/live/starwars/starwars/85716.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="CHANNEL 4" tvg-logo="https://i.imgur.com/YMrzbBk.png" group-title="UK",CHANNEL 4
+http://web1.giffy.be:8080/live/starwars/starwars/85715.ts
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="CHANNEL 5" tvg-logo="https://i.imgur.com/nJlJ08X.png" group-title="UK",CHANNEL 5
+http://web1.giffy.be:8080/live/starwars/starwars/85714.ts
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="CHELSEA TV" tvg-logo="https://i.imgur.com/s3R4C6r.png" group-title="UK",CHELSEA TV
+http://web1.giffy.be:8080/live/starwars/starwars/85713.ts
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/ems5JZa.png" group-title="UK",COMEDY CENTRAL
+http://web1.giffy.be:8080/live/starwars/starwars/85712.ts
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="CRIME & INVESTIGATION" tvg-logo="https://i.imgur.com/iRZh2y1.png" group-title="UK",CRIME & INVESTIGATION
+http://web1.giffy.be:8080/live/starwars/starwars/85711.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/3ErGPGg.png" group-title="UK",DISCOVERY CHANNEL
+http://web1.giffy.be:8080/live/starwars/starwars/85708.ts
+#EXTINF:-1 tvg-id="DisneyChannel.uk" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/DXctpzx.png" group-title="UK",DISNEY CHANNEL
+http://web1.giffy.be:8080/live/starwars/starwars/85703.ts
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="DISNEY XD" tvg-logo="https://i.imgur.com/lBaw9wE.png" group-title="UK",DISNEY XD
+http://web1.giffy.be:8080/live/starwars/starwars/85701.ts
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="DMAX" tvg-logo="https://i.imgur.com/9Qg6USV.png" group-title="UK",DMAX
+http://web1.giffy.be:8080/live/starwars/starwars/85710.ts
+#EXTINF:-1 tvg-id="Drama.uk" tvg-name="DRAMA" tvg-logo="https://i.imgur.com/zZub0Oi.png" group-title="UK",DRAMA
+http://web1.giffy.be:8080/live/starwars/starwars/85700.ts
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="E!" tvg-logo="https://i.imgur.com/5sKzXZ9.png" group-title="UK",E!
+http://web1.giffy.be:8080/live/starwars/starwars/85699.ts
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="https://i.imgur.com/wORqhUh.png" group-title="UK",E4
+http://web1.giffy.be:8080/live/starwars/starwars/85698.ts
+#EXTINF:-1 tvg-id="Eden.uk" tvg-name="EDEN" tvg-logo="https://i.imgur.com/ae4wqdX.png" group-title="UK",EDEN
+http://web1.giffy.be:8080/live/starwars/starwars/85697.ts
+#EXTINF:-1 tvg-id="" tvg-name="EIRE SPORTS 1" tvg-logo="https://i.imgur.com/TPfRC66.png" group-title="UK",EIRE SPORTS 1
+http://web1.giffy.be:8080/live/starwars/starwars/85696.ts
+#EXTINF:-1 tvg-id="" tvg-name="EIRE SPORTS 2" tvg-logo="https://i.imgur.com/JjsHST0.png" group-title="UK",EIRE SPORTS 2
+http://web1.giffy.be:8080/live/starwars/starwars/85695.ts
+#EXTINF:-1 tvg-id="LaLiga.uk" tvg-name="ESPANIA sport la liga" tvg-logo="" group-title="UK",ESPANIA sport la liga
+http://web1.giffy.be:8080/live/starwars/starwars/85694.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/ndQo9nh.png" group-title="UK",EUROSPORT 1
+http://web1.giffy.be:8080/live/starwars/starwars/85693.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/RzUY1TW.png" group-title="UK",EUROSPORT 2
+http://web1.giffy.be:8080/live/starwars/starwars/85692.ts
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/mV4aeXW.png" group-title="UK",FOOD NETWORK
+http://web1.giffy.be:8080/live/starwars/starwars/85690.ts
+#EXTINF:-1 tvg-id="FOX.uk" tvg-name="FOX" tvg-logo="https://i.imgur.com/upPqPdD.png" group-title="UK",FOX
+http://web1.giffy.be:8080/live/starwars/starwars/85691.ts
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="GOLD" tvg-logo="https://i.imgur.com/DmIIjS0.png" group-title="UK",GOLD
+http://web1.giffy.be:8080/live/starwars/starwars/85689.ts
+#EXTINF:-1 tvg-id="GoodFood.uk" tvg-name="GOOD FOOD" tvg-logo="https://i.imgur.com/yervcOy.png" group-title="UK",GOOD FOOD
+http://web1.giffy.be:8080/live/starwars/starwars/85688.ts
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="H2" tvg-logo="https://i.imgur.com/daGEr7O.png" group-title="UK",H2
+http://web1.giffy.be:8080/live/starwars/starwars/85687.ts
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="HISTORY CHANNEL" tvg-logo="https://i.imgur.com/MHHfpIY.png" group-title="UK",HISTORY CHANNEL
+http://web1.giffy.be:8080/live/starwars/starwars/85686.ts
+#EXTINF:-1 tvg-id="Home.uk" tvg-name="HOME" tvg-logo="https://i.imgur.com/6eLHBLS.png" group-title="UK",HOME
+http://web1.giffy.be:8080/live/starwars/starwars/85685.ts
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="HORROR CHANNEL" tvg-logo="https://i.imgur.com/cl6RqHq.png" group-title="UK",HORROR CHANNEL
+http://web1.giffy.be:8080/live/starwars/starwars/85684.ts
+#EXTINF:-1 tvg-id="ITV1Anglia.uk" tvg-name="ITV 1" tvg-logo="https://i.imgur.com/uVbACN4.png" group-title="UK",ITV 1
+http://web1.giffy.be:8080/live/starwars/starwars/85683.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="https://i.imgur.com/q8Wp7Tu.png" group-title="UK",ITV 2
+http://web1.giffy.be:8080/live/starwars/starwars/85682.ts
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="https://i.imgur.com/mCMDHgY.png" group-title="UK",ITV 3
+http://web1.giffy.be:8080/live/starwars/starwars/85681.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://i.imgur.com/BPSDwE6.png" group-title="UK",ITV 4
+http://web1.giffy.be:8080/live/starwars/starwars/85680.ts
+#EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="KERRANG" tvg-logo="https://i.imgur.com/KJDLcFt.png" group-title="UK",KERRANG
+http://web1.giffy.be:8080/live/starwars/starwars/85677.ts
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="LIVERPOOL" tvg-logo="https://i.imgur.com/SJYFGfy.png" group-title="UK",LIVERPOOL
+http://web1.giffy.be:8080/live/starwars/starwars/85676.ts
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="MORE 4" tvg-logo="https://i.imgur.com/M3ZVAsu.png" group-title="UK",MORE 4
+http://web1.giffy.be:8080/live/starwars/starwars/85674.ts
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="MOVIES 24" tvg-logo="https://i.imgur.com/FeUBtRS.png" group-title="UK",MOVIES 24
+http://web1.giffy.be:8080/live/starwars/starwars/85673.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://i.imgur.com/fSBoQqe.png" group-title="UK",MUTV
+http://web1.giffy.be:8080/live/starwars/starwars/85675.ts
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="NAT GEO WILD" tvg-logo="https://i.imgur.com/ey6gyTo.png" group-title="UK",NAT GEO WILD
+http://web1.giffy.be:8080/live/starwars/starwars/85672.ts
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://i.imgur.com/BzDpeTQ.png" group-title="UK",NATIONAL GEOGRAPHIC
+http://web1.giffy.be:8080/live/starwars/starwars/85671.ts
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="NICK JR" tvg-logo="https://i.imgur.com/xVYCeOT.png" group-title="UK",NICK JR
+http://web1.giffy.be:8080/live/starwars/starwars/85670.ts
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="NICKELODEON" tvg-logo="https://i.imgur.com/Ioe1tHK.png" group-title="UK",NICKELODEON
+http://web1.giffy.be:8080/live/starwars/starwars/85669.ts
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="NICKTOONS" tvg-logo="https://i.imgur.com/SETwZLO.png" group-title="UK",NICKTOONS
+http://web1.giffy.be:8080/live/starwars/starwars/85668.ts
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="PICK TV" tvg-logo="https://i.imgur.com/Qnlz7AJ.png" group-title="UK",PICK TV
+http://web1.giffy.be:8080/live/starwars/starwars/85667.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="PREMIERE SPORTS" tvg-logo="https://i.imgur.com/CmVyHgH.png" group-title="UK",PREMIERE SPORTS
+http://web1.giffy.be:8080/live/starwars/starwars/85666.ts
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="QUEST TV" tvg-logo="https://i.imgur.com/CnVuybQ.png" group-title="UK",QUEST TV
+http://web1.giffy.be:8080/live/starwars/starwars/85665.ts
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="RACING UK" tvg-logo="https://i.imgur.com/m72iQbp.png" group-title="UK",RACING UK
+http://web1.giffy.be:8080/live/starwars/starwars/85661.ts
+#EXTINF:-1 tvg-id="" tvg-name="RANGERS TV" tvg-logo="https://i.imgur.com/sA1ZMFQ.png" group-title="UK",RANGERS TV
+http://web1.giffy.be:8080/live/starwars/starwars/85660.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTÉ 1" tvg-logo="https://i.imgur.com/djaTdy6.png" group-title="UK",RTÉ 1
+http://web1.giffy.be:8080/live/starwars/starwars/85664.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTÉ 2" tvg-logo="https://i.imgur.com/h0aokHE.png" group-title="UK",RTÉ 2
+http://web1.giffy.be:8080/live/starwars/starwars/85663.ts
+#EXTINF:-1 tvg-id="SkyDisney.uk" tvg-name="SKY CINEMA DISNEY" tvg-logo="https://i.imgur.com/tSOsU8S.png" group-title="UK",SKY CINEMA DISNEY
+http://web1.giffy.be:8080/live/starwars/starwars/85656.ts
+#EXTINF:-1 tvg-id="SkyGreats.uk" tvg-name="SKY CINEMA GREATS" tvg-logo="https://i.imgur.com/nXzvNHn.png" group-title="UK",SKY CINEMA GREATS
+http://web1.giffy.be:8080/live/starwars/starwars/85653.ts
+#EXTINF:-1 tvg-id="SkyHits.uk" tvg-name="SKY CINEMA HITS" tvg-logo="https://i.imgur.com/kM3BB65.png" group-title="UK",SKY CINEMA HITS
+http://web1.giffy.be:8080/live/starwars/starwars/85652.ts
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="SKY CINEMA SCI-FI & HORROR" tvg-logo="https://i.imgur.com/GepbYhX.png" group-title="UK",SKY CINEMA SCI-FI & HORROR
+http://web1.giffy.be:8080/live/starwars/starwars/85650.ts
+#EXTINF:-1 tvg-id="SkySelect.uk" tvg-name="SKY CINEMA SELECT" tvg-logo="https://i.imgur.com/LTDCNLZ.png" group-title="UK",SKY CINEMA SELECT
+http://web1.giffy.be:8080/live/starwars/starwars/85649.ts
+#EXTINF:-1 tvg-id="SkyCrimeThriller.uk" tvg-name="SKY CINEMA THRILLER" tvg-logo="https://i.imgur.com/Eaw7xsv.png" group-title="UK",SKY CINEMA THRILLER
+http://web1.giffy.be:8080/live/starwars/starwars/85648.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="SKY NEWS (D)" tvg-logo="https://i.imgur.com/tTMlX0s.png" group-title="UK",SKY NEWS (D)
+http://web1.giffy.be:8080/live/starwars/starwars/85647.ts
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="SKY ONE" tvg-logo="https://i.imgur.com/1k4qKXg.png" group-title="UK",SKY ONE
+http://web1.giffy.be:8080/live/starwars/starwars/85646.ts
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://i.imgur.com/NHEi6n2.png" group-title="UK",SKY SPORTS ACTION
+http://web1.giffy.be:8080/live/starwars/starwars/85645.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="https://i.imgur.com/5Uw9L3K.png" group-title="UK",SKY SPORTS ARENA
+http://web1.giffy.be:8080/live/starwars/starwars/85644.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://i.imgur.com/yE9ITXa.png" group-title="UK",SKY SPORTS CRICKET
+http://web1.giffy.be:8080/live/starwars/starwars/85642.ts
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://i.imgur.com/TEJHR0L.png" group-title="UK",SKY SPORTS FOOTBALL
+http://web1.giffy.be:8080/live/starwars/starwars/85640.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://i.imgur.com/2kqmdeX.png" group-title="UK",SKY SPORTS GOLF
+http://web1.giffy.be:8080/live/starwars/starwars/85639.ts
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://i.imgur.com/13oQuda.png" group-title="UK",SKY SPORTS MIX
+http://web1.giffy.be:8080/live/starwars/starwars/85637.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="https://i.imgur.com/H4ZFc4J.png" group-title="UK",SKY SPORTS NEWS
+http://web1.giffy.be:8080/live/starwars/starwars/85636.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://i.imgur.com/hDuQJjw.png" group-title="UK",SKY SPORTS PREMIER LEAGUE
+http://web1.giffy.be:8080/live/starwars/starwars/85635.ts
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="SKY TWO" tvg-logo="https://i.imgur.com/r1oVUtU.png" group-title="UK",SKY TWO
+http://web1.giffy.be:8080/live/starwars/starwars/85634.ts
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="SKY WITNESS AKA LIVING" tvg-logo="https://i.imgur.com/seqEQOO.png" group-title="UK",SKY WITNESS AKA LIVING
+http://web1.giffy.be:8080/live/starwars/starwars/85633.ts
+#EXTINF:-1 tvg-id="SkyDrama.uk" tvg-name="SKYE CINEMA Drama & Romance" tvg-logo="" group-title="UK",SKYE CINEMA Drama & Romance
+http://web1.giffy.be:8080/live/starwars/starwars/85655.ts
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM" tvg-logo="https://i.imgur.com/SkEs6A7.png" group-title="UK",TCM
+http://web1.giffy.be:8080/live/starwars/starwars/85632.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECOME ESPN" tvg-logo="https://i.imgur.com/RTL0BY5.png" group-title="UK",TELECOME ESPN
+http://web1.giffy.be:8080/live/starwars/starwars/85628.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECOME SPORTS 1" tvg-logo="" group-title="UK",TELECOME SPORTS 1
+http://web1.giffy.be:8080/live/starwars/starwars/85621.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECOME SPORTS 2" tvg-logo="" group-title="UK",TELECOME SPORTS 2
+http://web1.giffy.be:8080/live/starwars/starwars/85627.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELECOME SPORTS 3" tvg-logo="" group-title="UK",TELECOME SPORTS 3
+http://web1.giffy.be:8080/live/starwars/starwars/85626.ts
+#EXTINF:-1 tvg-id="" tvg-name="TG4" tvg-logo="https://i.imgur.com/JsFftjS.png" group-title="UK",TG4
+http://web1.giffy.be:8080/live/starwars/starwars/85631.ts
+#EXTINF:-1 tvg-id="Tinypop.uk" tvg-name="TINY POP" tvg-logo="https://i.imgur.com/bBqkSBR.png" group-title="UK",TINY POP
+http://web1.giffy.be:8080/live/starwars/starwars/85625.ts
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC" tvg-logo="https://i.imgur.com/yfwat6y.png" group-title="UK",TLC
+http://web1.giffy.be:8080/live/starwars/starwars/85630.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3 HD" tvg-logo="https://i.imgur.com/TC4esuT.png" group-title="UK",TV3 HD
+http://web1.giffy.be:8080/live/starwars/starwars/85629.ts
+#EXTINF:-1 tvg-id="Universal.uk" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://i.imgur.com/kHQQCzv.png" group-title="UK",UNIVERSAL CHANNEL
+http://web1.giffy.be:8080/live/starwars/starwars/85624.ts
+#EXTINF:-1 tvg-id="" tvg-name="W(atch)" tvg-logo="https://i.imgur.com/tSPZ00t.png" group-title="UK",W(atch)
+http://web1.giffy.be:8080/live/starwars/starwars/85622.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S | BT SPORTS 1 HD" tvg-logo="https://i.imgur.com/24XNWZW.png" group-title="SPORTS",UK-S | BT SPORTS 1 HD
+http://web1.giffy.be:8080/live/starwars/starwars/91591.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S | BT SPORTS 2 HD" tvg-logo="https://i.imgur.com/BvpcFV4.png" group-title="SPORTS",UK-S | BT SPORTS 2 HD
+http://web1.giffy.be:8080/live/starwars/starwars/91592.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK-S | BT SPORTS 3 HD" tvg-logo="https://i.imgur.com/cm2fX2H.png" group-title="SPORTS",UK-S | BT SPORTS 3 HD
+http://web1.giffy.be:8080/live/starwars/starwars/91593.ts
