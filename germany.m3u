@@ -1,93 +1,127 @@
 #EXTM3U
-#EXTINF:-1,DE:RTL 2
-http://cs22cs.uk:8000/katka/katka/20825
-#EXTINF:-1,DE:RTL Crime
-http://cs22cs.uk:8000/katka/katka/20824
-#EXTINF:-1,DE:Sky Atlantic HD
-http://cs22cs.uk:8000/katka/katka/20817
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
-http://cs22cs.uk:8000/katka/katka/20815
-#EXTINF:-1,DE:VOX
-http://cs22cs.uk:8000/katka/katka/20783
-#EXTINF:-1,DE:ZDF
-http://cs22cs.uk:8000/katka/katka/20782
-#EXTINF:-1,DE:SKY SPORT 1
-http://cs22cs.uk:8000/katka/katka/22254
-#EXTINF:-1,DE: SKY SPORT 2
-http://cs22cs.uk:8000/katka/katka/22253
-#EXTINF:-1,DE_SKY_SPORT_AUSTRIA
-http://cs22cs.uk:8000/katka/katka/22252
-#EXTINF:-1,DE:13TH_Street_HD
-http://cs22cs.uk:8000/katka/katka/23457
-#EXTINF:-1,DE:ARD das Erste 1 HD
-http://cs22cs.uk:8000/katka/katka/23458
-#EXTINF:-1,DE:ARTE_HD
-http://cs22cs.uk:8000/katka/katka/23459
-#EXTINF:-1,DE:DISCOVERY_HD
-http://cs22cs.uk:8000/katka/katka/23460
-#EXTINF:-1,DE:DISNEY_JUNIOR_HD
-http://cs22cs.uk:8000/katka/katka/23496
-#EXTINF:-1,DE:Dmax_HD
-http://cs22cs.uk:8000/katka/katka/23463
-#EXTINF:-1,DE:Fox HD
-http://cs22cs.uk:8000/katka/katka/23465
-#EXTINF:-1,DE:KABEL_1
-http://cs22cs.uk:8000/katka/katka/23466
-#EXTINF:-1,DE:Kika_HD
-http://cs22cs.uk:8000/katka/katka/23467
-#EXTINF:-1,DE:NATIONAL_GEOGRAPHIC_HD
-http://cs22cs.uk:8000/katka/katka/23468
-#EXTINF:-1,DE:ORF_2_HD
-http://cs22cs.uk:8000/katka/katka/23469
-#EXTINF:-1,DE:RTL_CRIME
-http://cs22cs.uk:8000/katka/katka/23471
-#EXTINF:-1,DE:RTL HD
-http://cs22cs.uk:8000/katka/katka/23472
-#EXTINF:-1,DE:RTL_LIVING
-http://cs22cs.uk:8000/katka/katka/23473
-#EXTINF:-1,DE:RTL_PASSION_HD
-http://cs22cs.uk:8000/katka/katka/23474
-#EXTINF:-1,DE:SAT_1
-http://cs22cs.uk:8000/katka/katka/23475
-#EXTINF:-1,DE:Sixx_HD
-http://cs22cs.uk:8000/katka/katka/23476
-#EXTINF:-1,DE:SKY_ACTION_HD
-http://cs22cs.uk:8000/katka/katka/23477
-#EXTINF:-1,DE:SKY_ATLANTIC_HD
-http://cs22cs.uk:8000/katka/katka/23478
-#EXTINF:-1,DE:SKY_CINEMA_24_HD
-http://cs22cs.uk:8000/katka/katka/23480
-#EXTINF:-1,DE:SKY_CINEMA_EMOTION_HD
-http://cs22cs.uk:8000/katka/katka/23482
-#EXTINF:-1,DE:SKY_CINEMA_FAMILY_HD
-http://cs22cs.uk:8000/katka/katka/23481
-#EXTINF:-1,DE:SKY_CINEMA_HD
-http://cs22cs.uk:8000/katka/katka/23483
-#EXTINF:-1,DE:SKY_CINEMA_HITS_HD
-http://cs22cs.uk:8000/katka/katka/23484
-#EXTINF:-1,DE:SKY CINEMA NOSTALGIE HD
-http://cs22cs.uk:8000/katka/katka/23486
-#EXTINF:-1,DE:SKY_DISNEY_CINEMAGIC_HD
-http://cs22cs.uk:8000/katka/katka/23462
-#EXTINF:-1,DE:SKY_KRIMI_HD
-http://cs22cs.uk:8000/katka/katka/23485
-#EXTINF:-1,DE:SKY_SELECT_HD1
-http://cs22cs.uk:8000/katka/katka/23487
-#EXTINF:-1,DE:SKY_SELECT_HD4
-http://cs22cs.uk:8000/katka/katka/23488
-#EXTINF:-1,DE:SKY_SPORT_1HD
-http://cs22cs.uk:8000/katka/katka/23490
-#EXTINF:-1,DE:SKY_SPORT_2HD
-http://cs22cs.uk:8000/katka/katka/23491
-#EXTINF:-1,DE:SKY_SPORT_NEWS_HD
-http://cs22cs.uk:8000/katka/katka/23489
-#EXTINF:-1,DE:SRF_2HD
-http://cs22cs.uk:8000/katka/katka/23492
-#EXTINF:-1,DE:Syfy HD
-http://cs22cs.uk:8000/katka/katka/23493
-#EXTINF:-1,DE:TNT_FILM
-http://cs22cs.uk:8000/katka/katka/23494
-#EXTINF:-1,DE:ZDF_info_HD
-http://cs22cs.uk:8000/katka/katka/23461
-#EXTINF:-1,DE:ZDF_NEO_HD
-http://cs22cs.uk:8000/katka/katka/23470
+#EXTINF:-1,BT VIP DE: Disney Junior HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39321
+#EXTINF:-1,BT VIP DE: EuroSp0rt 2 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39320
+#EXTINF:-1,BT VIP DE: MDR S-Anhalt HD 1080P DE
+http://primestreams.tv:826/kevkev1/kevkev1/39319
+#EXTINF:-1,BT VIP DE: MDR Sachsen HD 1080P DE
+http://primestreams.tv:826/kevkev1/kevkev1/39318
+#EXTINF:-1,BT VIP DE: MDR Th
+http://primestreams.tv:826/kevkev1/kevkev1/39317
+#EXTINF:-1,BT VIP DE: Mediaspar HD 1080P DE
+http://primestreams.tv:826/kevkev1/kevkev1/39316
+#EXTINF:-1,BT VIP DE: MTV HD 1080P DE
+http://primestreams.tv:826/kevkev1/kevkev1/39315
+#EXTINF:-1,BT VIP DE: RTL Crime HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39314
+#EXTINF:-1,BT VIP DE: S3y 1 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39312
+#EXTINF:-1,BT VIP DE: S3y Arts HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39311
+#EXTINF:-1,BT VIP DE: S3y Cinema  1 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39310
+#EXTINF:-1,BT VIP DE: S3y Cinema  24 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39309
+#EXTINF:-1,BT VIP DE: S3y Cinema Family HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39308
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 1 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39307
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 10 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39306
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 11 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39305
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 2 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39304
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 3 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39303
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 4 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39302
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 5 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39301
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 7 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39299
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 8 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39298
+#EXTINF:-1,BT VIP DE: S3y Sp0rt 9 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39297
+#EXTINF:-1,BT VIP DE: SAT.1 HD 1080P DE
+http://primestreams.tv:826/kevkev1/kevkev1/39313
+#EXTINF:-1,BT VIP DE: SRF 1 HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39296
+#EXTINF:-1,BT VIP DE: SRF Zwei DE
+http://primestreams.tv:826/kevkev1/kevkev1/39295
+#EXTINF:-1,BT VIP DE: SWR DE
+http://primestreams.tv:826/kevkev1/kevkev1/39294
+#EXTINF:-1,BT VIP DE: Universal Channel HD (1080P)
+http://primestreams.tv:826/kevkev1/kevkev1/39293
+#EXTINF:-1,DE: 13th Steet HD
+http://primestreams.tv:826/kevkev1/kevkev1/39291
+#EXTINF:-1,DE: 3p0rt1 1  HD
+http://primestreams.tv:826/kevkev1/kevkev1/39260
+#EXTINF:-1,DE: Arte HD
+http://primestreams.tv:826/kevkev1/kevkev1/39290
+#EXTINF:-1,DE: DAS ERSTE HD
+http://primestreams.tv:826/kevkev1/kevkev1/39289
+#EXTINF:-1,DE: Kabel 1 Doku
+http://primestreams.tv:826/kevkev1/kevkev1/39288
+#EXTINF:-1,DE: Kabel 1 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39287
+#EXTINF:-1,DE: N24 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39286
+#EXTINF:-1,DE: NDR HD
+http://primestreams.tv:826/kevkev1/kevkev1/39285
+#EXTINF:-1,DE: NTV HD
+http://primestreams.tv:826/kevkev1/kevkev1/39284
+#EXTINF:-1,DE: Pro 7 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39283
+#EXTINF:-1,DE: Pro 7 MAXX HD
+http://primestreams.tv:826/kevkev1/kevkev1/39282
+#EXTINF:-1,DE: RTL 2 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39281
+#EXTINF:-1,DE: RTL HD
+http://primestreams.tv:826/kevkev1/kevkev1/39280
+#EXTINF:-1,DE: S3y  3p0rt1 US HD
+http://primestreams.tv:826/kevkev1/kevkev1/39278
+#EXTINF:-1,DE: S3y Bundesliga  6 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/kevkev1/kevkev1/39277
+#EXTINF:-1,DE: S3y Bundesliga 1
+http://primestreams.tv:826/kevkev1/kevkev1/39276
+#EXTINF:-1,DE: S3y Bundesliga 2 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/kevkev1/kevkev1/39275
+#EXTINF:-1,DE: S3y Bundesliga 3 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/kevkev1/kevkev1/39274
+#EXTINF:-1,DE: S3y Bundesliga 4 (ONLY ON MATCHDAY)
+http://primestreams.tv:826/kevkev1/kevkev1/39273
+#EXTINF:-1,DE: S3y Bundesliga 5  (ONLY ON MATCHDAY)
+http://primestreams.tv:826/kevkev1/kevkev1/39272
+#EXTINF:-1,DE: S3y Cinema  1 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39271
+#EXTINF:-1,DE: S3y Cinema  24 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39270
+#EXTINF:-1,DE: S3y Cinema Action HD
+http://primestreams.tv:826/kevkev1/kevkev1/39269
+#EXTINF:-1,DE: S3y Cinema Comedy
+http://primestreams.tv:826/kevkev1/kevkev1/39268
+#EXTINF:-1,DE: S3y Cinema Emotion
+http://primestreams.tv:826/kevkev1/kevkev1/39267
+#EXTINF:-1,DE: S3y Cinema Hits
+http://primestreams.tv:826/kevkev1/kevkev1/39266
+#EXTINF:-1,DE: S3y One HD
+http://primestreams.tv:826/kevkev1/kevkev1/39265
+#EXTINF:-1,DE: SAT 1 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39279
+#EXTINF:-1,DE: Sky Sports 2 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39263
+#EXTINF:-1,DE: Sp0rt 1 HD
+http://primestreams.tv:826/kevkev1/kevkev1/39262
+#EXTINF:-1,DE: Sportdigital HD
+http://primestreams.tv:826/kevkev1/kevkev1/39261
+#EXTINF:-1,DE: TELE 5
+http://primestreams.tv:826/kevkev1/kevkev1/39259
+#EXTINF:-1,DE: WDR HD
+http://primestreams.tv:826/kevkev1/kevkev1/39258
+#EXTINF:-1,DE: ZDF HD
+http://primestreams.tv:826/kevkev1/kevkev1/39257
+#EXTINF:-1,DE: ZDF Info HD
+http://primestreams.tv:826/kevkev1/kevkev1/39256
