@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="AFC ASIAN CUP", Kyrgyzstan vs Philippines
-https://wowzaprod100-i.akamaihd.net/hls/live/254881/4a336da4_1_1/chunklist.m3u8
-#EXTINF:-1, group-title="AFC ASIAN CUP", South Korea vs China
-https://wowzaprod100-i.akamaihd.net/hls/live/254623/bb5bae05_1_1/chunklist.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Magic@Pistons
 http://kstreams.tk:25461/login1/login1/9502
 #EXTINF:-1, group-title="NBA LIVE", Raptors@Celtics
