@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE",Warriors@Nuggets
-http://wil1.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE",Bulls@Lakers
 http://wil1.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="WORLD TV", 5 STAR MAX 
