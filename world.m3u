@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Pelicans@Warriors
-http://b61c73bad67c396d141e0e21c19997213b0165b8250500.azureedge.net/hls/4.m3u8
+#EXTINF:-1, group-title="NBA LIVE", Knicks@Wizards
+http://kstreams.tk:25461/angie/angie/9556
+#EXTINF:-1, group-title="NBA LIVE", Kings@Hornets
+http://kstreams.tk:25461/angie/angie/9368
+#EXTINF:-1, group-title="NBA LIVE", 76ers@Hornets
+http://kstreams.tk:25461/angie/angie/5567
+#EXTINF:-1, group-title="NBA LIVE", Suns@Raptors
+http://kstreams.tk:25461/angie/angie/9403
+#EXTINF:-1, group-title="NBA LIVE", Bulls@Nuggets
+http://kstreams.tk:25461/angie/angie/9367
+#EXTINF:-1, group-title="NBA LIVE", Lakers@Thunder
+http://kstreams.tk:25461/angie/angie/5567
 #EXTINF:-1, group-title="WORLD TV", 5 STAR MAX 
 http://kstreams.tk:25461/angie/angie/5683
 #EXTINF:-1, group-title="WORLD TV", A&E 
