@@ -2,11 +2,11 @@
 #EXTINF:-1, group-title="NBA LIVE", Magic@Pistons
 http://b61c73bad67c396d141e0e21c19997213b0165b8250500.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Raptors@Celtics
-http://kstreams.tk:25461/login1/login1/9369
+http://b61c73bad67c396d141e0e21c19997213b0125b8250500.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Nets@Rockets
-http://kstreams.tk:25461/login1/login1/6725
+http://b61c73bad67c396d141e0e21c19997213b0145b8250500.azureedge.net/hls/2.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Bucks@Grizzlies
-http://kstreams.tk:25461/login1/login1/9485
+http://b61c73bad67c396d141e0e21c19997213b0195b8250500.azureedge.net/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Spurs@Maverics
 http://kstreams.tk:25461/login1/login1/9490
 #EXTINF:-1, group-title="NBA LIVE", Cavs@Blazers
