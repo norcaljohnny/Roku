@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Spurs@Maverics
-http://b61c73bad67c396d141e0e21c19997213b0115b8350500.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Cavs@Blazers
 http://b61c73bad67c396d141e0e21c19997213b0135b8250500.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pelicans@Warriors
