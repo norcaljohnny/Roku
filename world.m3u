@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Raptors@Celtics
-http://b61c73bad67c396d141e0e21c19997213b0125b8250500.azureedge.net/hls/4.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Nets@Rockets
-http://b61c73bad67c396d141e0e21c19997213b0145b8250500.azureedge.net/hls/2.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Bucks@Grizzlies
-http://b61c73bad67c396d141e0e21c19997213b0195b8250500.azureedge.net/hls/3.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Spurs@Maverics
 http://b61c73bad67c396d141e0e21c19997213b0115b8350500.azureedge.net/hls/5.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Cavs@Blazers
-http://kstreams.tk:25461/login1/login1/9366
+http://b61c73bad67c396d141e0e21c19997213b0135b8250500.azureedge.net/hls/6.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Pelicans@Warriors
-http://kstreams.tk:25461/login1/login1/9370
+http://b61c73bad67c396d141e0e21c19997213b0165b8250500.azureedge.net/hls/4.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Jazz@Clippers
-http://kstreams.tk:25461/login1/login1/5637
+http://b61c73bad67c396d141e0e21c19997213b0175b8250500.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="WORLD TV", 5 STAR MAX 
 http://kstreams.tk:25461/angie/angie/5683
 #EXTINF:-1, group-title="WORLD TV", A&E 
