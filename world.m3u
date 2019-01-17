@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, group-title="AFC ASIAN CUP", Japan vs Uzbekistan
+https://wowzaprod110-i.akamaihd.net/hls/live/255514/1f485f7a_1_1/chunklist.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Knicks@Wizards
 http://kstreams.tk:25461/angie/angie/9556
 #EXTINF:-1, group-title="NBA LIVE", Kings@Hornets
