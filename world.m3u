@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Magic@Pistons
-http://kstreams.tk:25461/login1/login1/9502
+http://b61c73bad67c396d141e0e21c19997213b0165b8250500.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Raptors@Celtics
 http://kstreams.tk:25461/login1/login1/9369
 #EXTINF:-1, group-title="NBA LIVE", Nets@Rockets
