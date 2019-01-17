@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1, group-title="NBA LIVE", Pelicans@Warriors
 http://b61c73bad67c396d141e0e21c19997213b0165b8250500.azureedge.net/hls/4.m3u8
-#EXTINF:-1, group-title="NBA LIVE", Jazz@Clippers
-http://b61c73bad67c396d141e0e21c19997213b0175b8250500.azureedge.net/hls/1a.m3u8
 #EXTINF:-1, group-title="WORLD TV", 5 STAR MAX 
 http://kstreams.tk:25461/angie/angie/5683
 #EXTINF:-1, group-title="WORLD TV", A&E 
