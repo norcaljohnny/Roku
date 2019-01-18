@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1, group-title="NBA LIVE", Knicks@Wizards
-http://kstreams.tk:25461/angie/angie/9556
 #EXTINF:-1, group-title="NBA LIVE", Kings@Hornets
-http://kstreams.tk:25461/angie/angie/9368
-#EXTINF:-1, group-title="NBA LIVE", 76ers@Hornets
-http://kstreams.tk:25461/angie/angie/5567
+http://b61c73bad67c396d141e0e21c19997213b0125b8250500.azureedge.net/hls/2.m3u8
+#EXTINF:-1, group-title="NBA LIVE", 76ers@Pacers
+http://b61c73bad67c396d141e0e21c19997213b0165b8250500.azureedge.net/hls/6a.m3u8
 #EXTINF:-1, group-title="NBA LIVE", Suns@Raptors
 http://kstreams.tk:25461/angie/angie/9403
 #EXTINF:-1, group-title="NBA LIVE", Bulls@Nuggets
