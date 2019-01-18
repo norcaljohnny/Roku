@@ -1,357 +1,301 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="13 EME RUE HD" tvg-logo="" group-title="FRENCH",13 EME RUE HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77760.ts
-#EXTINF:-1 tvg-ID="" tvg-name="13eme Rue" tvg-logo="" group-title="FRENCH",13eme Rue
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77620.ts
-#EXTINF:-1 tvg-ID="" tvg-name="6TER" tvg-logo="" group-title="FRENCH",6TER
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77619.ts
-#EXTINF:-1 tvg-ID="" tvg-name="6TER HD" tvg-logo="" group-title="FRENCH",6TER HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77759.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A La Carte 1" tvg-logo="" group-title="FRENCH",A La Carte 1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77618.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 10" tvg-logo="" group-title="FRENCH",A LA CARTE 10
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77758.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A La Carte 2" tvg-logo="" group-title="FRENCH",A La Carte 2
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77617.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A La Carte 3" tvg-logo="" group-title="FRENCH",A La Carte 3
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77616.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A La Carte 4" tvg-logo="" group-title="FRENCH",A La Carte 4
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77615.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A La Carte 5" tvg-logo="" group-title="FRENCH",A La Carte 5
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77614.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A La Carte 6" tvg-logo="" group-title="FRENCH",A La Carte 6
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77613.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 7" tvg-logo="" group-title="FRENCH",A LA CARTE 7
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77757.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 8" tvg-logo="" group-title="FRENCH",A LA CARTE 8
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77756.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A LA CARTE 9" tvg-logo="" group-title="FRENCH",A LA CARTE 9
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77755.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AB Moteur HD" tvg-logo="" group-title="FRENCH",AB Moteur HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77754.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AB1" tvg-logo="" group-title="FRENCH",AB1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77753.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AB3" tvg-logo="" group-title="FRENCH",AB3
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77752.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ACTION" tvg-logo="" group-title="FRENCH",ACTION
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77751.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ALTICE STUDIO HD" tvg-logo="" group-title="FRENCH",ALTICE STUDIO HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77750.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAUX" tvg-logo="" group-title="FRENCH",ANIMAUX
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77749.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARTE HD" tvg-logo="" group-title="FRENCH",ARTE HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77748.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ARTE HD ( 1080P )" tvg-logo="" group-title="FRENCH",ARTE HD ( 1080P )
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77626.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BET" tvg-logo="" group-title="FRENCH",BET
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77738.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BFM TV" tvg-logo="" group-title="FRENCH",BFM TV
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77737.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Boing" tvg-logo="" group-title="FRENCH",Boing
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77736.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG HD" tvg-logo="" group-title="FRENCH",BOOMERANG HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77735.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BRAVA HD ( 1080P )" tvg-logo="" group-title="FRENCH",BRAVA HD ( 1080P )
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77625.ts
-#EXTINF:-1 tvg-ID="" tvg-name="C8" tvg-logo="" group-title="FRENCH",C8
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77734.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal" tvg-logo="" group-title="FRENCH",Canal
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77612.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal  Cinema" tvg-logo="" group-title="FRENCH",Canal  Cinema
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77611.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal  Decale" tvg-logo="" group-title="FRENCH",Canal  Decale
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77610.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal  Family" tvg-logo="" group-title="FRENCH",Canal  Family
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77609.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal  Series" tvg-logo="" group-title="FRENCH",Canal  Series
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77608.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL HD" tvg-logo="" group-title="FRENCH",CANAL HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77728.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL J" tvg-logo="" group-title="FRENCH",CANAL J
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77727.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 1" tvg-logo="" group-title="FRENCH",CANAL PLAY 1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77726.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 2" tvg-logo="" group-title="FRENCH",CANAL PLAY 2
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77725.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 3" tvg-logo="" group-title="FRENCH",CANAL PLAY 3
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77724.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 4" tvg-logo="" group-title="FRENCH",CANAL PLAY 4
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77723.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 5" tvg-logo="" group-title="FRENCH",CANAL PLAY 5
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77722.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 6" tvg-logo="" group-title="FRENCH",CANAL PLAY 6
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77721.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CANAL PLAY 7" tvg-logo="" group-title="FRENCH",CANAL PLAY 7
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77720.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CanalCinema" tvg-logo="" group-title="FRENCH",CanalCinema
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77733.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CanalDecale" tvg-logo="" group-title="FRENCH",CanalDecale
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77732.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CanalFamily" tvg-logo="" group-title="FRENCH",CanalFamily
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77731.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CanalSeries" tvg-logo="" group-title="FRENCH",CanalSeries
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77730.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CanalSport" tvg-logo="" group-title="FRENCH",CanalSport
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77729.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Chasse et Peche" tvg-logo="" group-title="FRENCH",Chasse et Peche
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77719.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Chasse&Peche Peche" tvg-logo="" group-title="FRENCH",Chasse&Peche Peche
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77607.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cherie 25" tvg-logo="" group-title="FRENCH",Cherie 25
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77606.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CHERIE 25 HD" tvg-logo="" group-title="FRENCH",CHERIE 25 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77718.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  Classic" tvg-logo="" group-title="FRENCH",CINE  Classic
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77605.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  CLUB HD" tvg-logo="" group-title="FRENCH",CINE  CLUB HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77604.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  EMOTION HD" tvg-logo="" group-title="FRENCH",CINE  EMOTION HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77603.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  FAMIZ" tvg-logo="" group-title="FRENCH",CINE  FAMIZ
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77602.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  FRISSON" tvg-logo="" group-title="FRENCH",CINE  FRISSON
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77601.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  FX" tvg-logo="" group-title="FRENCH",CINE  FX
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77600.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  Polar" tvg-logo="" group-title="FRENCH",CINE  Polar
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77599.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE  PREMIER" tvg-logo="" group-title="FRENCH",CINE  PREMIER
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77598.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC" tvg-logo="" group-title="FRENCH",CINE CLASSIC
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77717.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE CLASSIC HD" tvg-logo="" group-title="FRENCH",CINE CLASSIC HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77716.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION" tvg-logo="" group-title="FRENCH",CINE EMOTION
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77715.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE EMOTION HD" tvg-logo="" group-title="FRENCH",CINE EMOTION HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77714.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FAMIZ" tvg-logo="" group-title="FRENCH",CINE FAMIZ
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77713.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Famiz HD" tvg-logo="" group-title="FRENCH",Cine Famiz HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77712.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON" tvg-logo="" group-title="FRENCH",CINE FRISSON
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77711.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FRISSON HD" tvg-logo="" group-title="FRENCH",CINE FRISSON HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77710.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE FX" tvg-logo="" group-title="FRENCH",CINE FX
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77709.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE POLAR" tvg-logo="" group-title="FRENCH",CINE POLAR
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77708.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINE PREMIER HD" tvg-logo="" group-title="FRENCH",CINE PREMIER HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77707.ts
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDIE Plus" tvg-logo="" group-title="FRENCH",COMEDIE Plus
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77705.ts
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDIEHD" tvg-logo="" group-title="FRENCH",COMEDIEHD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77706.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CSTAR HD" tvg-logo="" group-title="FRENCH",CSTAR HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77704.ts
-#EXTINF:-1 tvg-ID="" tvg-name="D8" tvg-logo="" group-title="FRENCH",D8
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77702.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discover Channel" tvg-logo="" group-title="FRENCH",Discover Channel
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77597.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY" tvg-logo="" group-title="FRENCH",DISCOVERY
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77701.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CH HD ( 1080P )" tvg-logo="" group-title="FRENCH",DISNEY CH HD ( 1080P )
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77624.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="FRENCH",DISNEY CHANNEL
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77700.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL FHD 1080" tvg-logo="" group-title="FRENCH",DISNEY CHANNEL FHD 1080
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77623.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CINEMA" tvg-logo="" group-title="FRENCH",DISNEY CINEMA
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77699.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Jr" tvg-logo="" group-title="FRENCH",Disney Jr
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77596.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney xdHD" tvg-logo="" group-title="FRENCH",Disney xdHD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77698.ts
-#EXTINF:-1 tvg-ID="" tvg-name="E! Entertainment" tvg-logo="" group-title="FRENCH",E! Entertainment
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77697.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EQUIDIA live" tvg-logo="" group-title="FRENCH",EQUIDIA live
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77696.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EuroSp0rt 1" tvg-logo="" group-title="FRENCH",EuroSp0rt 1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77695.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EuroSp0rt 2" tvg-logo="" group-title="FRENCH",EuroSp0rt 2
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77694.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EuroSp0rt 2 FHD 1080" tvg-logo="" group-title="FRENCH",EuroSp0rt 2 FHD 1080
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77622.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT2" tvg-logo="" group-title="FRENCH",EUROSPORT2
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77693.ts
-#EXTINF:-1 tvg-ID="" tvg-name="France 0" tvg-logo="" group-title="FRENCH",France 0
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77595.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 2" tvg-logo="" group-title="FRENCH",FRANCE 2
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77692.ts
-#EXTINF:-1 tvg-ID="" tvg-name="France 3" tvg-logo="" group-title="FRENCH",France 3
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77594.ts
-#EXTINF:-1 tvg-ID="" tvg-name="France 4" tvg-logo="" group-title="FRENCH",France 4
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77593.ts
-#EXTINF:-1 tvg-ID="" tvg-name="France 4HD" tvg-logo="" group-title="FRENCH",France 4HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77691.ts
-#EXTINF:-1 tvg-ID="" tvg-name="France 5" tvg-logo="" group-title="FRENCH",France 5
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77592.ts
-#EXTINF:-1 tvg-ID="" tvg-name="France 5 HD" tvg-logo="" group-title="FRENCH",France 5 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77690.ts
-#EXTINF:-1 tvg-ID="" tvg-name="France OHD" tvg-logo="" group-title="FRENCH",France OHD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77689.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GAME ONE" tvg-logo="" group-title="FRENCH",GAME ONE
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77688.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GULLI HD" tvg-logo="" group-title="FRENCH",GULLI HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77687.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HD1" tvg-logo="" group-title="FRENCH",HD1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77686.ts
-#EXTINF:-1 tvg-ID="" tvg-name="i Tele" tvg-logo="" group-title="FRENCH",i Tele
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77685.ts
-#EXTINF:-1 tvg-ID="" tvg-name="INFOSPORT" tvg-logo="" group-title="FRENCH",INFOSPORT
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77684.ts
-#EXTINF:-1 tvg-ID="" tvg-name="J One" tvg-logo="" group-title="FRENCH",J One
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77683.ts
-#EXTINF:-1 tvg-ID="" tvg-name="L'Equipe 21" tvg-logo="" group-title="FRENCH",L'Equipe 21
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77591.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La Deux" tvg-logo="" group-title="FRENCH",La Deux
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77682.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La une BE" tvg-logo="" group-title="FRENCH",La une BE
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77681.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LCI" tvg-logo="" group-title="FRENCH",LCI
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77680.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M6" tvg-logo="" group-title="FRENCH",M6
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77679.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Mangas" tvg-logo="" group-title="FRENCH",Mangas
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77678.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MCM" tvg-logo="" group-title="FRENCH",MCM
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77677.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MCM TOP" tvg-logo="" group-title="FRENCH",MCM TOP
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77676.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="" group-title="FRENCH",MTV
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77675.ts
-#EXTINF:-1 tvg-ID="" tvg-name="National geo wild" tvg-logo="" group-title="FRENCH",National geo wild
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77674.ts
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" tvg-logo="" group-title="FRENCH",National Geographic
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77590.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nick Jr" tvg-logo="" group-title="FRENCH",Nick Jr
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77673.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON HD" tvg-logo="" group-title="FRENCH",NICKELODEON HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77672.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON JUNIOR" tvg-logo="" group-title="FRENCH",NICKELODEON JUNIOR
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77671.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NRJ Hits" tvg-logo="" group-title="FRENCH",NRJ Hits
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77670.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NUMERO 23 HD" tvg-logo="" group-title="FRENCH",NUMERO 23 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77669.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OCS CHOC HD" tvg-logo="" group-title="FRENCH",OCS CHOC HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77668.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OCS CITY" tvg-logo="" group-title="FRENCH",OCS CITY
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77667.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OCS GEANT" tvg-logo="" group-title="FRENCH",OCS GEANT
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77666.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OCS MAX" tvg-logo="" group-title="FRENCH",OCS MAX
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77665.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OLTV HD" tvg-logo="" group-title="FRENCH",OLTV HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77664.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FRENCH",PARAMOUNT CHANNEL HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77663.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Paris Premiere" tvg-logo="" group-title="FRENCH",Paris Premiere
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77589.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIERE HD" tvg-logo="" group-title="FRENCH",PARIS PREMIERE HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77661.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PARIS PREMIEREHD" tvg-logo="" group-title="FRENCH",PARIS PREMIEREHD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77662.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PIWI HD" tvg-logo="" group-title="FRENCH",PIWI HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77660.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Planet CI" tvg-logo="" group-title="FRENCH",Planet CI
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77588.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PLANETE A&E HD" tvg-logo="" group-title="FRENCH",PLANETE A&E HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77658.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PLANETE CI HD" tvg-logo="" group-title="FRENCH",PLANETE CI HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77657.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PLANETEHD" tvg-logo="" group-title="FRENCH",PLANETEHD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77659.ts
-#EXTINF:-1 tvg-ID="" tvg-name="rmc decouverte" tvg-logo="" group-title="FRENCH",rmc decouverte
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77656.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTL 9" tvg-logo="" group-title="FRENCH",RTL 9
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77587.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTS Deux" tvg-logo="" group-title="FRENCH",RTS Deux
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77655.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTS Un" tvg-logo="" group-title="FRENCH",RTS Un
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77654.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SCIENCE ET VIE HD" tvg-logo="" group-title="FRENCH",SCIENCE ET VIE HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77653.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SCIENCES & VIE" tvg-logo="" group-title="FRENCH",SCIENCES & VIE
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77652.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SERIE CLUB" tvg-logo="" group-title="FRENCH",SERIE CLUB
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77651.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Series Club HD" tvg-logo="" group-title="FRENCH",Series Club HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77650.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SFR 3p0rt1 1 HD" tvg-logo="" group-title="FRENCH",SFR 3p0rt1 1 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77586.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SFR 3p0rt1 2 HD" tvg-logo="" group-title="FRENCH",SFR 3p0rt1 2 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77585.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SFR 3p0rt1 3 HD" tvg-logo="" group-title="FRENCH",SFR 3p0rt1 3 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77584.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SFR2 Sp0rt HD (backup)" tvg-logo="" group-title="FRENCH",SFR2 Sp0rt HD (backup)
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77649.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Syfy HD" tvg-logo="" group-title="FRENCH",Syfy HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77648.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="" group-title="FRENCH",TCM
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77583.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Teva" tvg-logo="" group-title="FRENCH",Teva
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77647.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TF1" tvg-logo="" group-title="FRENCH",TF1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77582.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TF1 HD" tvg-logo="" group-title="FRENCH",TF1 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77646.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tiji" tvg-logo="" group-title="FRENCH",Tiji
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77645.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TMC HD ( 1080P )" tvg-logo="" group-title="FRENCH",TMC HD ( 1080P )
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77621.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TOUTE LHISTOIRE" tvg-logo="" group-title="FRENCH",TOUTE LHISTOIRE
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77644.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TRACE URBAN" tvg-logo="" group-title="FRENCH",TRACE URBAN
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77643.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV BREIZH HD" tvg-logo="" group-title="FRENCH",TV BREIZH HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77642.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ushuaia TV" tvg-logo="" group-title="FRENCH",Ushuaia TV
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77581.ts
-#EXTINF:-1 tvg-ID="" tvg-name="USHUAIAHD" tvg-logo="" group-title="FRENCH",USHUAIAHD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77641.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Voyage" tvg-logo="" group-title="FRENCH",Voyage
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77580.ts
-#EXTINF:-1 tvg-ID="" tvg-name="W9" tvg-logo="" group-title="FRENCH",W9
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77579.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Zouzou TV LOCAL" tvg-logo="" group-title="FRENCH",Zouzou TV LOCAL
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77640.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:A LA CARTE 5" tvg-logo="" group-title="FRENCH",FR:A LA CARTE 5
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77639.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:A la Carte 6" tvg-logo="" group-title="FRENCH",FR:A la Carte 6
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77638.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:A.LA.CARTE.1" tvg-logo="" group-title="FRENCH",FR:A.LA.CARTE.1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77637.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:A.LA.CARTE.3" tvg-logo="" group-title="FRENCH",FR:A.LA.CARTE.3
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77636.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:A.LA.CARTE.4" tvg-logo="" group-title="FRENCH",FR:A.LA.CARTE.4
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77635.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Cartoon Network HD" tvg-logo="" group-title="FRENCH",FR:Cartoon Network HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77766.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:CINE PREMIER" tvg-logo="" group-title="FRENCH",FR:CINE PREMIER
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77634.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Discovery Science HD" tvg-logo="" group-title="FRENCH",FR:Discovery Science HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Disney Jr Fr" tvg-logo="" group-title="FRENCH",FR:Disney Jr Fr
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77764.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:FRANCE 24" tvg-logo="" group-title="FRENCH",FR:FRANCE 24
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77633.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Nat Geo HD" tvg-logo="" group-title="FRENCH",FR:Nat Geo HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77763.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:Nat Geo WildHD" tvg-logo="" group-title="FRENCH",FR:Nat Geo WildHD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:NRJ12 HD" tvg-logo="" group-title="FRENCH",FR:NRJ12 HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77761.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:NT1" tvg-logo="" group-title="FRENCH",FR:NT1
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77632.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:TCM CINEMA" tvg-logo="" group-title="FRENCH",FR:TCM CINEMA
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77631.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:TEVA/TMC" tvg-logo="" group-title="FRENCH",FR:TEVA/TMC
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77630.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:TREK HD" tvg-logo="" group-title="FRENCH",FR:TREK HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77629.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:TV5 MONDE" tvg-logo="" group-title="FRENCH",FR:TV5 MONDE
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77628.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FR:VOYAGE HD" tvg-logo="" group-title="FRENCH",FR:VOYAGE HD
-http://primestreams.tv:826/live/rafasmb2/LXLCCQn9H9/77627.ts
+#EXTINF:-1 tvg-id="" tvg-name="13eme rue UHD" tvg-logo="" group-title="FRENCH",13eme rue UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88518.ts
+#EXTINF:-1 tvg-id="" tvg-name="6Ter UHD" tvg-logo="" group-title="FRENCH",6Ter UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88538.ts
+#EXTINF:-1 tvg-id="" tvg-name="AB1 UHD" tvg-logo="" group-title="FRENCH",AB1 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88430.ts
+#EXTINF:-1 tvg-id="" tvg-name="AB3 UHD" tvg-logo="" group-title="FRENCH",AB3 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88411.ts
+#EXTINF:-1 tvg-id="" tvg-name="Action UHD" tvg-logo="" group-title="FRENCH",Action UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88516.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animaux UHD" tvg-logo="" group-title="FRENCH",Animaux UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88439.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte UHD" tvg-logo="" group-title="FRENCH",Arte UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FR UHD" tvg-logo="" group-title="FRENCH",Bein Sports 1 FR UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88492.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 UHD" tvg-logo="" group-title="FRENCH",Bein Sports 1 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88489.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FR UHD" tvg-logo="" group-title="FRENCH",Bein Sports 2 FR UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88491.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 UHD" tvg-logo="" group-title="FRENCH",Bein Sports 2 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88488.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FR UHD" tvg-logo="" group-title="FRENCH",Bein Sports 3 FR UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88490.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 UHD" tvg-logo="" group-title="FRENCH",Bein Sports 3 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88487.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM Sport UHD" tvg-logo="" group-title="FRENCH",BFM Sport UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88499.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM UHD" tvg-logo="" group-title="FRENCH",BFM UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88500.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boing UHD" tvg-logo="" group-title="FRENCH",Boing UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88504.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang UHD" tvg-logo="" group-title="FRENCH",Boomerang UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88506.ts
+#EXTINF:-1 tvg-id="" tvg-name="C-SPAN 1 HD UHD" tvg-logo="" group-title="FRENCH",C-SPAN 1 HD UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88407.ts
+#EXTINF:-1 tvg-id="" tvg-name="C8 UHD" tvg-logo="" group-title="FRENCH",C8 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal  Cinéma UHD" tvg-logo="" group-title="FRENCH",Canal  Cinéma UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal  Family UHD" tvg-logo="" group-title="FRENCH",Canal  Family UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal  Sport UHD" tvg-logo="" group-title="FRENCH",Canal  Sport UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88494.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal  UHD" tvg-logo="" group-title="FRENCH",Canal  UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Décale UHD" tvg-logo="" group-title="FRENCH",Canal Décale UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Family UHD" tvg-logo="" group-title="FRENCH",Canal Family UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Junior UHD" tvg-logo="" group-title="FRENCH",Canal Junior UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88508.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal News UHD" tvg-logo="" group-title="FRENCH",Canal News UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88495.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal UHD" tvg-logo="" group-title="FRENCH",Canal UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88410.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal8 UHD" tvg-logo="" group-title="FRENCH",Canal8 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88435.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaînes TV TNT" tvg-logo="" group-title="FRENCH",Chaînes TV TNT
+http://p5.giffy.be:8080/live/starwars/starwars/88558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chérie 25 UHD" tvg-logo="" group-title="FRENCH",Chérie 25 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Classic UHD" tvg-logo="" group-title="FRENCH",Ciné Classic UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Club UHD" tvg-logo="" group-title="FRENCH",Ciné Club UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Émotion UHD" tvg-logo="" group-title="FRENCH",Ciné Émotion UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Famiz UHD" tvg-logo="" group-title="FRENCH",Ciné Famiz UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Frisson UHD" tvg-logo="" group-title="FRENCH",Ciné Frisson UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88526.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Polar UHD" tvg-logo="" group-title="FRENCH",Ciné Polar UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88525.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ciné Prémier UHD" tvg-logo="" group-title="FRENCH",Ciné Prémier UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comédie  UHD" tvg-logo="" group-title="FRENCH",Comédie  UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88431.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crime District UHD" tvg-logo="" group-title="FRENCH",Crime District UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88447.ts
+#EXTINF:-1 tvg-id="" tvg-name="CStar UHD" tvg-logo="" group-title="FRENCH",CStar UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family FR UHD" tvg-logo="" group-title="FRENCH",Discovery Family FR UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID. UHD" tvg-logo="" group-title="FRENCH",Discovery ID. UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88455.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science UHD" tvg-logo="" group-title="FRENCH",Discovery Science UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88452.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery UHD" tvg-logo="" group-title="FRENCH",Discovery UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Cinéma UHD" tvg-logo="" group-title="FRENCH",Disney Cinéma UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88513.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior UHD" tvg-logo="" group-title="FRENCH",Disney Junior UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88509.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD UHD" tvg-logo="" group-title="FRENCH",Disney XD UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88505.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! entertainment UHD" tvg-logo="" group-title="FRENCH",E! entertainment UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88437.ts
+#EXTINF:-1 tvg-id="" tvg-name="Elle Girl UHD" tvg-logo="" group-title="FRENCH",Elle Girl UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88428.ts
+#EXTINF:-1 tvg-id="" tvg-name="équidia Live UHD" tvg-logo="" group-title="FRENCH",équidia Live UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88404.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews UHD" tvg-logo="" group-title="FRENCH",Euronews UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88403.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 UHD" tvg-logo="" group-title="FRENCH",Eurosport 1 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88486.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 UHD" tvg-logo="" group-title="FRENCH",Eurosport 2 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88485.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 2 FHD" tvg-logo="" group-title="FRENCH",France 2 FHD
+http://p5.giffy.be:8080/live/starwars/starwars/88555.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 2 UHD" tvg-logo="" group-title="FRENCH",France 2 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88556.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24 UHD" tvg-logo="" group-title="FRENCH",France 24 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88493.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 3 FHD" tvg-logo="" group-title="FRENCH",France 3 FHD
+http://p5.giffy.be:8080/live/starwars/starwars/88553.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 3 UHD" tvg-logo="" group-title="FRENCH",France 3 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88554.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 4 FHD" tvg-logo="" group-title="FRENCH",France 4 FHD
+http://p5.giffy.be:8080/live/starwars/starwars/88551.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 4 UHD" tvg-logo="" group-title="FRENCH",France 4 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88552.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 5 FHD" tvg-logo="" group-title="FRENCH",France 5 FHD
+http://p5.giffy.be:8080/live/starwars/starwars/88549.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 5 UHD" tvg-logo="" group-title="FRENCH",France 5 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88550.ts
+#EXTINF:-1 tvg-id="" tvg-name="France Info UHD" tvg-logo="" group-title="FRENCH",France Info UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88496.ts
+#EXTINF:-1 tvg-id="" tvg-name="Game One UHD" tvg-logo="" group-title="FRENCH",Game One UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88512.ts
+#EXTINF:-1 tvg-id="" tvg-name="Golf channel UHD" tvg-logo="" group-title="FRENCH",Golf channel UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88483.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gulli UHD" tvg-logo="" group-title="FRENCH",Gulli UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Histoire UHD" tvg-logo="" group-title="FRENCH",Histoire UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88448.ts
+#EXTINF:-1 tvg-id="" tvg-name="I24 UHD" tvg-logo="" group-title="FRENCH",I24 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88402.ts
+#EXTINF:-1 tvg-id="" tvg-name="IFC UHD" tvg-logo="" group-title="FRENCH",IFC UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88401.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infosport UHD" tvg-logo="" group-title="FRENCH",Infosport UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88484.ts
+#EXTINF:-1 tvg-id="" tvg-name="L'Équipe 21 UHD" tvg-logo="" group-title="FRENCH",L'Équipe 21 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88498.ts
+#EXTINF:-1 tvg-id="" tvg-name="LCI UHD" tvg-logo="" group-title="FRENCH",LCI UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88497.ts
+#EXTINF:-1 tvg-id="" tvg-name="LFM tv UHD" tvg-logo="" group-title="FRENCH",LFM tv UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88400.ts
+#EXTINF:-1 tvg-id="" tvg-name="M6 UHD" tvg-logo="" group-title="FRENCH",M6 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Manga UHD" tvg-logo="" group-title="FRENCH",Manga UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88510.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM TOP HD" tvg-logo="" group-title="FRENCH",MCM TOP HD
+http://p5.giffy.be:8080/live/starwars/starwars/88426.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top UHD" tvg-logo="" group-title="FRENCH",MCM Top UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88425.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM UHD" tvg-logo="" group-title="FRENCH",MCM UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88424.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE UHD" tvg-logo="" group-title="FRENCH",MEZZO LIVE UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88417.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live UHD fr" tvg-logo="" group-title="FRENCH",Mezzo Live UHD fr
+http://p5.giffy.be:8080/live/starwars/starwars/88416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motorsport UHD" tvg-logo="" group-title="FRENCH",Motorsport UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88470.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV france UHD" tvg-logo="" group-title="FRENCH",MTV france UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88422.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV hits UHD" tvg-logo="" group-title="FRENCH",MTV hits UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88423.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Cuisine UHD" tvg-logo="" group-title="FRENCH",My Cuisine UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88446.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 1 UHD" tvg-logo="" group-title="FRENCH",MySports 1 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88468.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 2/Sky 2 UHD" tvg-logo="" group-title="FRENCH",MySports 2/Sky 2 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88467.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 3/Sky 3 UHD" tvg-logo="" group-title="FRENCH",MySports 3/Sky 3 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88466.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 4/Sky 4 UHD" tvg-logo="" group-title="FRENCH",MySports 4/Sky 4 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88465.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 5/Sky 5 UHD" tvg-logo="" group-title="FRENCH",MySports 5/Sky 5 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88464.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 6/Sky 6 UHD" tvg-logo="" group-title="FRENCH",MySports 6/Sky 6 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88463.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 7/Sky 7 UHD" tvg-logo="" group-title="FRENCH",MySports 7/Sky 7 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88462.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 8/Sky 8 UHD" tvg-logo="" group-title="FRENCH",MySports 8/Sky 8 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88461.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 9/Sky 9 UHD" tvg-logo="" group-title="FRENCH",MySports 9/Sky 9 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88460.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports UHD" tvg-logo="" group-title="FRENCH",MySports UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88469.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic UHD" tvg-logo="" group-title="FRENCH",National Geographic UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88456.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild UHD" tvg-logo="" group-title="FRENCH",National Geographic Wild UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Junior UHD" tvg-logo="" group-title="FRENCH",Nickelodeon Junior UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88502.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nrj UHD" tvg-logo="" group-title="FRENCH",Nrj UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nrj12 UHD" tvg-logo="" group-title="FRENCH",Nrj12 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Numéro 23 UHD" tvg-logo="" group-title="FRENCH",Numéro 23 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88537.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS Choc UHD" tvg-logo="" group-title="FRENCH",OCS Choc UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88522.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS City UHD" tvg-logo="" group-title="FRENCH",OCS City UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88520.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS Géants UHD" tvg-logo="" group-title="FRENCH",OCS Géants UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88523.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max UHD" tvg-logo="" group-title="FRENCH",OCS Max UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88521.ts
+#EXTINF:-1 tvg-id="" tvg-name="One TV UHD" tvg-logo="" group-title="FRENCH",One TV UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel UHD" tvg-logo="" group-title="FRENCH",Paramount Channel UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88517.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planète  UHD" tvg-logo="" group-title="FRENCH",Planète  UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88451.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planète AE UHD" tvg-logo="" group-title="FRENCH",Planète AE UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88450.ts
+#EXTINF:-1 tvg-id="" tvg-name="Planète CI UHD" tvg-logo="" group-title="FRENCH",Planète CI UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88449.ts
+#EXTINF:-1 tvg-id="" tvg-name="RFM UHD" tvg-logo="" group-title="FRENCH",RFM UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88406.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC découverte UHD" tvg-logo="" group-title="FRENCH",RMC découverte UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88536.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 UHD" tvg-logo="" group-title="FRENCH",RMC Sport 1 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88477.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 UHD." tvg-logo="" group-title="FRENCH",RMC Sport 1 UHD.
+http://p5.giffy.be:8080/live/starwars/starwars/88481.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 UHD" tvg-logo="" group-title="FRENCH",RMC Sport 2 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88476.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 UHD." tvg-logo="" group-title="FRENCH",RMC Sport 2 UHD.
+http://p5.giffy.be:8080/live/starwars/starwars/88480.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 UHD" tvg-logo="" group-title="FRENCH",RMC Sport 3 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88475.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 UHD." tvg-logo="" group-title="FRENCH",RMC Sport 3 UHD.
+http://p5.giffy.be:8080/live/starwars/starwars/88479.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 UHD" tvg-logo="" group-title="FRENCH",RMC Sport 4 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88474.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 UHD." tvg-logo="" group-title="FRENCH",RMC Sport 4 UHD.
+http://p5.giffy.be:8080/live/starwars/starwars/88478.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Access 1 UHD" tvg-logo="" group-title="FRENCH",RMC Sport Access 1 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88473.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Access 2 UHD" tvg-logo="" group-title="FRENCH",RMC Sport Access 2 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88472.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Access 3 UHD" tvg-logo="" group-title="FRENCH",RMC Sport Access 3 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88471.ts
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport News UHD" tvg-logo="" group-title="FRENCH",RMC Sport News UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88482.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rouge Tv UHD" tvg-logo="" group-title="FRENCH",Rouge Tv UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88399.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL9 UHD" tvg-logo="" group-title="FRENCH",RTL9 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88429.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS Deux UHD" tvg-logo="" group-title="FRENCH",RTS Deux UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88413.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTS Un UHD" tvg-logo="" group-title="FRENCH",RTS Un UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88412.ts
+#EXTINF:-1 tvg-id="" tvg-name="Science & Vie UHD" tvg-logo="" group-title="FRENCH",Science & Vie UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88440.ts
+#EXTINF:-1 tvg-id="" tvg-name="Season UHD" tvg-logo="" group-title="FRENCH",Season UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88438.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinéma UHD" tvg-logo="" group-title="FRENCH",TCM Cinéma UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88519.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM UHD" tvg-logo="" group-title="FRENCH",TCM UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88398.ts
+#EXTINF:-1 tvg-id="" tvg-name="Téléclub Zoom UHD" tvg-logo="" group-title="FRENCH",Téléclub Zoom UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88397.ts
+#EXTINF:-1 tvg-id="" tvg-name="Téva UHD" tvg-logo="" group-title="FRENCH",Téva UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88432.ts
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Séries-Films UHD" tvg-logo="" group-title="FRENCH",TF1 Séries-Films UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88539.ts
+#EXTINF:-1 tvg-id="" tvg-name="TF1 UHD" tvg-logo="" group-title="FRENCH",TF1 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88557.ts
+#EXTINF:-1 tvg-id="" tvg-name="TFX FHD FR" tvg-logo="" group-title="FRENCH",TFX FHD FR
+http://p5.giffy.be:8080/live/starwars/starwars/88394.ts
+#EXTINF:-1 tvg-id="" tvg-name="TFX UHD" tvg-logo="" group-title="FRENCH",TFX UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tiji UHD" tvg-logo="" group-title="FRENCH",Tiji UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88503.ts
+#EXTINF:-1 tvg-id="" tvg-name="TMC UHD" tvg-logo="" group-title="FRENCH",TMC UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88543.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA UHD" tvg-logo="" group-title="FRENCH",TRACE AFRICA UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88418.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE TROPICAL UHD" tvg-logo="" group-title="FRENCH",TRACE TROPICAL UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88419.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN UHD" tvg-logo="" group-title="FRENCH",TRACE URBAN UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trek UHD" tvg-logo="" group-title="FRENCH",Trek UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Breizh UHD" tvg-logo="" group-title="FRENCH",Tv Breizh UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88396.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MONT BLANC HD" tvg-logo="" group-title="FRENCH",TV8 MONT BLANC HD
+http://p5.giffy.be:8080/live/starwars/starwars/88405.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVM3 UHD" tvg-logo="" group-title="FRENCH",TVM3 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88395.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaia UHD" tvg-logo="" group-title="FRENCH",Ushuaia UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88441.ts
+#EXTINF:-1 tvg-id="" tvg-name="Voyage UHD" tvg-logo="" group-title="FRENCH",Voyage UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88442.ts
+#EXTINF:-1 tvg-id="" tvg-name="W9 UHD" tvg-logo="" group-title="FRENCH",W9 UHD
+http://p5.giffy.be:8080/live/starwars/starwars/88434.ts
